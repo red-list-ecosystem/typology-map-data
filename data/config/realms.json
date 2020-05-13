@@ -1,0 +1,82 @@
+[
+  {
+    "id": "F",
+    "path": "realms/f/",
+    "type": "core",
+    "title": {
+      "en": "Freshwater",
+    }
+  },
+  {
+    "id": "FM",
+    "path": "realms/fm/",
+    "type": "trans",
+    "title": {
+      "en": "Freshwater-Marine",
+    }
+  },
+  {
+    "id": "M",
+    "path": "realms/m/",
+    "type": "core",
+    "title": {
+      "en": "Marine",
+    }
+  },
+  {
+    "id": "MFT",
+    "path": "realms/mft/",
+    "type": "trans",
+    "title": {
+      "en": "Marine-Freshwater-Terrestrial",
+    }
+  },
+  {
+    "id": "MT",
+    "path": "realms/mt/",
+    "type": "trans",
+    "title": {
+      "en": "Marine-Terrestrial",
+    }
+  },
+  {
+    "id": "S",
+    "path": "realms/s/",
+    "type": "core",
+    "title": {
+      "en": "Subterranean",
+    }
+  },
+  {
+    "id": "SF",
+    "path": "realms/sf/",
+    "type": "trans",
+    "title": {
+      "en": "Subterranean-Freshwater",
+    }
+  },
+  {
+    "id": "SM",
+    "path": "realms/sm/",
+    "type": "trans",
+    "title": {
+      "en": "Subterranean-Marine",
+    }
+  },
+  {
+    "id": "T",
+    "path": "realms/t/",
+    "type": "core",
+    "title": {
+      "en": "Terrestrial",
+    }
+  },
+  {
+    "id": "TF",
+    "path": "realms/tf/",
+    "type": "trans",
+    "title": {
+      "en": "Terrestrial-Freshwater",
+    }
+  }
+]

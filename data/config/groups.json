@@ -1,0 +1,858 @@
+[
+  {
+    "id": "F1.1",
+    "path": "groups/f_1_1/",
+    "biome": "F1",
+    "title": {
+      "en": "Permanent upland streams",
+    }
+  },
+  {
+    "id": "F1.2",
+    "path": "groups/f_1_2/",
+    "biome": "F1",
+    "title": {
+      "en": "Permanent lowland rivers",
+    }
+  },
+  {
+    "id": "F1.3",
+    "path": "groups/f_1_3/",
+    "biome": "F1",
+    "title": {
+      "en": "Freeze-thaw rivers and streams",
+    }
+  },
+  {
+    "id": "F1.4",
+    "path": "groups/f_1_4/",
+    "biome": "F1",
+    "title": {
+      "en": "Monsoonal upland stream",
+    }
+  },
+  {
+    "id": "F1.5",
+    "path": "groups/f_1_5/",
+    "biome": "F1",
+    "title": {
+      "en": "Monsoonal lowland rivers",
+    }
+  },
+  {
+    "id": "F1.6",
+    "path": "groups/f_1_6/",
+    "biome": "F1",
+    "title": {
+      "en": "Episodic arid rivers",
+    }
+  },
+  {
+    "id": "F1.7",
+    "path": "groups/f_1_7/",
+    "biome": "F1",
+    "title": {
+      "en": "Large lowland rivers",
+    }
+  },
+  {
+    "id": "F2.1",
+    "path": "groups/f_2_1/",
+    "biome": "F2",
+    "title": {
+      "en": "Large permanent freshwater lakes",
+    }
+  },
+  {
+    "id": "F2.2",
+    "path": "groups/f_2_2/",
+    "biome": "F2",
+    "title": {
+      "en": "Small permanent freshwater lakes",
+    }
+  },
+  {
+    "id": "F2.3",
+    "path": "groups/f_2_3/",
+    "biome": "F2",
+    "title": {
+      "en": "Seasonal freshwater lakes",
+    }
+  },
+  {
+    "id": "F2.4",
+    "path": "groups/f_2_4/",
+    "biome": "F2",
+    "title": {
+      "en": "Freeze-thaw freshwater lakes",
+    }
+  },
+  {
+    "id": "F2.5",
+    "path": "groups/f_2_5/",
+    "biome": "F2",
+    "title": {
+      "en": "Ephemeral freshwater lakes",
+    }
+  },
+  {
+    "id": "F2.6",
+    "path": "groups/f_2_6/",
+    "biome": "F2",
+    "title": {
+      "en": "Permanent inland salt lakes",
+    }
+  },
+  {
+    "id": "F2.7",
+    "path": "groups/f_2_7/",
+    "biome": "F2",
+    "title": {
+      "en": "Ephemeral salt lakes",
+    }
+  },
+  {
+    "id": "F2.8",
+    "path": "groups/f_2_8/",
+    "biome": "F2",
+    "title": {
+      "en": "Artesian springs and oases",
+    }
+  },
+  {
+    "id": "F2.9",
+    "path": "groups/f_2_9/",
+    "biome": "F2",
+    "title": {
+      "en": "Geothermal wetlands",
+    }
+  },
+  {
+    "id": "F2.10",
+    "path": "groups/f_2_10/",
+    "biome": "F2",
+    "title": {
+      "en": "Subglacial lakes",
+    }
+  },
+  {
+    "id": "F3.1",
+    "path": "groups/f_3_1/",
+    "biome": "F3",
+    "title": {
+      "en": "Large reservoirs",
+    }
+  },
+  {
+    "id": "F3.2",
+    "path": "groups/f_3_2/",
+    "biome": "F3",
+    "title": {
+      "en": "Constructed lacustrine wetlands",
+    }
+  },
+  {
+    "id": "F3.3",
+    "path": "groups/f_3_3/",
+    "biome": "F3",
+    "title": {
+      "en": "Rice paddies",
+    }
+  },
+  {
+    "id": "F3.4",
+    "path": "groups/f_3_4/",
+    "biome": "F3",
+    "title": {
+      "en": "Freshwater aquafarms",
+    }
+  },
+  {
+    "id": "F3.5",
+    "path": "groups/f_3_5/",
+    "biome": "F3",
+    "title": {
+      "en": "Canals and storm water drains",
+    }
+  },
+  {
+    "id": "FM1.1",
+    "path": "groups/fm_1_1/",
+    "biome": "FM1",
+    "title": {
+      "en": "Deepwater coastal inlets",
+    }
+  },
+  {
+    "id": "FM1.2",
+    "path": "groups/fm_1_2/",
+    "biome": "FM1",
+    "title": {
+      "en": "Permanently open riverine estuaries and bays",
+    }
+  },
+  {
+    "id": "FM1.3",
+    "path": "groups/fm_1_3/",
+    "biome": "FM1",
+    "title": {
+      "en": "Intermittently closed and open lakes and lagoons",
+    }
+  },
+  {
+    "id": "M1.1",
+    "path": "groups/m_1_1/",
+    "biome": "M1",
+    "title": {
+      "en": "Seagrass meadows",
+    }
+  },
+  {
+    "id": "M1.2",
+    "path": "groups/m_1_2/",
+    "biome": "M1",
+    "title": {
+      "en": "Kelp forests",
+    }
+  },
+  {
+    "id": "M1.3",
+    "path": "groups/m_1_3/",
+    "biome": "M1",
+    "title": {
+      "en": "Photic coral reefs",
+    }
+  },
+  {
+    "id": "M1.4",
+    "path": "groups/m_1_4/",
+    "biome": "M1",
+    "title": {
+      "en": "Shellfish beds and reefs",
+    }
+  },
+  {
+    "id": "M1.5",
+    "path": "groups/m_1_5/",
+    "biome": "M1",
+    "title": {
+      "en": "Photo-limited marine animal forests",
+    }
+  },
+  {
+    "id": "M1.6",
+    "path": "groups/m_1_6/",
+    "biome": "M1",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "tmfrnz.6lanv8a8"
+    },
+    "title": {
+      "en": "Subtidal rocky reefs",
+    }
+  },
+  {
+    "id": "M1.7",
+    "path": "groups/m_1_7/",
+    "biome": "M1",
+    "title": {
+      "en": "Subtidal sandy bottoms",
+    }
+  },
+  {
+    "id": "M1.8",
+    "path": "groups/m_1_8/",
+    "biome": "M1",
+    "title": {
+      "en": "Subtidal muddy bottoms",
+    }
+  },
+  {
+    "id": "M1.9",
+    "path": "groups/m_1_9/",
+    "biome": "M1",
+    "title": {
+      "en": "Upwelling zones",
+    }
+  },
+  {
+    "id": "M2.1",
+    "path": "groups/m_2_1/",
+    "biome": "M2",
+    "title": {
+      "en": "Epipelagic ocean waters",
+    }
+  },
+  {
+    "id": "M2.2",
+    "path": "groups/m_2_2/",
+    "biome": "M2",
+    "title": {
+      "en": "Mesopelagic ocean water",
+    }
+  },
+  {
+    "id": "M2.3",
+    "path": "groups/m_2_3/",
+    "biome": "M2",
+    "title": {
+      "en": "Bathypelagic ocean waters",
+    }
+  },
+  {
+    "id": "M2.4",
+    "path": "groups/m_2_4/",
+    "biome": "M2",
+    "title": {
+      "en": "Abyssopelagic ocean waters",
+    }
+  },
+  {
+    "id": "M2.5",
+    "path": "groups/m_2_5/",
+    "biome": "M2",
+    "title": {
+      "en": "Sea ice",
+    }
+  },
+  {
+    "id": "M3.1",
+    "path": "groups/m_3_1/",
+    "biome": "M3",
+    "title": {
+      "en": "Continental and island slopes",
+    }
+  },
+  {
+    "id": "M3.2",
+    "path": "groups/m_3_2/",
+    "biome": "M3",
+    "title": {
+      "en": "Marine canyons",
+    }
+  },
+  {
+    "id": "M3.3",
+    "path": "groups/m_3_3/",
+    "biome": "M3",
+    "title": {
+      "en": "Abyssal plains",
+    }
+  },
+  {
+    "id": "M3.4",
+    "path": "groups/m_3_4/",
+    "biome": "M3",
+    "title": {
+      "en": "Seamounts, ridges and plateaus",
+    }
+  },
+  {
+    "id": "M3.5",
+    "path": "groups/m_3_5/",
+    "biome": "M3",
+    "title": {
+      "en": "Deepwater biogenic beds",
+    }
+  },
+  {
+    "id": "M3.6",
+    "path": "groups/m_3_6/",
+    "biome": "M3",
+    "title": {
+      "en": "Hadal trenches and troughs",
+    }
+  },
+  {
+    "id": "M3.7",
+    "path": "groups/m_3_7/",
+    "biome": "M3",
+    "title": {
+      "en": "Chemosynthetically-based ecosystems",
+    }
+  },
+  {
+    "id": "M4.1",
+    "path": "groups/m_4_1/",
+    "biome": "M4",
+    "title": {
+      "en": "Submerged artificial structures",
+    }
+  {
+    "id": "M4.2",
+    "path": "groups/m_4_2/",
+    "biome": "M4",
+    "title": {
+      "en": "Marine aquafarms",
+    }
+  },
+  {
+    "id": "MFT1.1",
+    "path": "groups/mft_1_1/",
+    "biome": "MFT1",
+    "title": {
+      "en": "Coastal river deltas",
+    }
+  },
+  {
+    "id": "MFT1.2",
+    "path": "groups/mft_1_2/",
+    "biome": "MFT1",
+    "title": {
+      "en": "Intertidal forests and shrublands",
+    }
+  },
+  {
+    "id": "MFT1.3",
+    "path": "groups/mft_1_3/",
+    "biome": "MFT1",
+    "title": {
+      "en": "Coastal saltmarshes",
+    }
+  },
+  {
+    "id": "MT1.1",
+    "path": "groups/mt_1_1/",
+    "biome": "MT1",
+    "title": {
+      "en": "Rocky Shorelines",
+    }
+  },
+  {
+    "id": "MT1.2",
+    "path": "groups/mt_1_2/",
+    "biome": "MT1",
+    "title": {
+      "en": "Muddy Shorelines",
+    }
+  },
+  {
+    "id": "MT1.3",
+    "path": "groups/mt_1_3/",
+    "biome": "MT1",
+    "title": {
+      "en": "Sandy Shores",
+    }
+  },
+  {
+    "id": "MT1.4",
+    "path": "groups/mt_1_4/",
+    "biome": "MT1",
+    "title": {
+      "en": "Boulder/cobble shores",
+    }
+  },
+  {
+    "id": "MT2.1",
+    "path": "groups/mt_2_1/",
+    "biome": "MT2",
+    "title": {
+      "en": "Coastal shrublands and grasslands",
+    }
+  },
+  {
+    "id": "MT3.1",
+    "path": "groups/mt_3_1/",
+    "biome": "MT3",
+    "title": {
+      "en": "Artificial shores",
+    }
+  },
+  {
+    "id": "S1.1",
+    "path": "groups/s_1_1/",
+    "biome": "S1",
+    "title": {
+      "en": "Aerobic caves",
+    }
+  },
+  {
+    "id": "S1.2",
+    "path": "groups/s_1_2/",
+    "biome": "S1",
+    "title": {
+      "en": "Endolithic systems",
+    }
+  },
+  {
+    "id": "S2.1",
+    "path": "groups/s_2_1/",
+    "biome": "S2",
+    "title": {
+      "en": "Anthropogenic subterranean voids",
+    }
+  },
+  {
+    "id": "SF1.1",
+    "path": "groups/sf_1_1/",
+    "biome": "SF1",
+    "title": {
+      "en": "Underground streams and pools",
+    }
+  },
+  {
+    "id": "SF1.2",
+    "path": "groups/sf_1_2/",
+    "biome": "SF1",
+    "title": {
+      "en": "Groundwater ecosystems",
+    }
+  },
+  {
+    "id": "SF2.1",
+    "path": "groups/sf_2_1/",
+    "biome": "SF2",
+    "title": {
+      "en": "Water pipes and subterranean canals",
+    }
+  },
+  {
+    "id": "SM1.1",
+    "path": "groups/sm_1_1/",
+    "biome": "SM1",
+    "title": {
+      "en": "Anchialine caves",
+    }
+  },
+  {
+    "id": "T1.1",
+    "path": "groups/t_1_1/",
+    "biome": "T1",
+    "title": {
+      "en": "Tropical/Subtropical lowland rainforests",
+    }
+  },
+  {
+    "id": "T1.2",
+    "path": "groups/t_1_2/",
+    "biome": "T1",
+    "title": {
+      "en": "Tropical/Subtropical dry forests and scrubs",
+    }
+  },
+  {
+    "id": "T1.3",
+    "path": "groups/t_1_3/",
+    "biome": "T1",
+    "title": {
+      "en": "Tropical/Subtropical montane rainforests",
+    }
+  },
+  {
+    "id": "T1.4",
+    "path": "groups/t_1_4/",
+    "biome": "T1",
+    "title": {
+      "en": "Tropical heath forests",
+    }
+  },
+  {
+    "id": "T2.1",
+    "path": "groups/t_2_1/",
+    "biome": "T2",
+    "title": {
+      "en": "Boreal and temperate montane forests and woodlands",
+    }
+  },
+  {
+    "id": "T2.2",
+    "path": "groups/t_2_2/",
+    "biome": "T2",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "tmfrnz.dit8apoz"
+    },
+    "title": {
+      "en": "Deciduous temperate forests",
+    }
+  },
+  {
+    "id": "T2.3",
+    "path": "groups/t_2_3/",
+    "biome": "T2",
+    "title": {
+      "en": "Oceanic temperate rainforests",
+    }
+  },
+  {
+    "id": "T2.4",
+    "path": "groups/t_2_4/",
+    "biome": "T2",
+    "title": {
+      "en": "Warm temperate rainforests",
+    }
+  },
+  {
+    "id": "T2.5",
+    "path": "groups/t_2_5/",
+    "biome": "T2",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "tmfrnz.dadfxhej"
+    },
+    "title": {
+      "en": "Temperate pyric humid forests",
+    }
+  },
+  {
+    "id": "T2.6",
+    "path": "groups/t_2_6/",
+    "biome": "T2",
+    "title": {
+      "en": "Temperate pyric sclerophyll forests and woodlands",
+    }
+  },
+  {
+    "id": "T3.1",
+    "path": "groups/t_3_1/",
+    "biome": "T3",
+    "title": {
+      "en": "Seasonally dry tropical shrublands",
+    }
+  },
+  {
+    "id": "T3.2",
+    "path": "groups/t_3_2/",
+    "biome": "T3",
+    "title": {
+      "en": "Seasonally dry temperate heath and shrublands",
+    }
+  },
+  {
+    "id": "T3.3",
+    "path": "groups/t_3_3/",
+    "biome": "T3",
+    "title": {
+      "en": "Cool temperate heathlands",
+    }
+  },
+  {
+    "id": "T3.4",
+    "path": "groups/t_3_4/",
+    "biome": "T3",
+    "title": {
+      "en": "Rocky pavements, screes and lava flows",
+    }
+  },
+  {
+    "id": "T4.1",
+    "path": "groups/t_4_1/",
+    "biome": "T4",
+    "title": {
+      "en": "Trophic savannas",
+    }
+  },
+  {
+    "id": "T4.2",
+    "path": "groups/t_4_2/",
+    "biome": "T4",
+    "title": {
+      "en": "Pyric tussock savannas",
+    }
+  },
+  {
+    "id": "T4.3",
+    "path": "groups/t_4_3/",
+    "biome": "T4",
+    "title": {
+      "en": "Hummock savannas",
+    }
+  },
+  {
+    "id": "T4.4",
+    "path": "groups/t_4_4/",
+    "biome": "T4",
+    "title": {
+      "en": "Temperate wooded savannas",
+    }
+  },
+  {
+    "id": "T4.5",
+    "path": "groups/t_4_5/",
+    "biome": "T4",
+    "title": {
+      "en": "Temperate grasslands",
+    }
+  },
+  {
+    "id": "T5.1",
+    "path": "groups/t_5_1/",
+    "biome": "T5",
+    "title": {
+      "en": "Semi-desert steppes",
+    }
+  },
+  {
+    "id": "T5.2",
+    "path": "groups/t_5_2/",
+    "biome": "T5",
+    "title": {
+      "en": "Succulent or Thorny deserts and semi-deserts",
+    }
+  },
+  {
+    "id": "T5.3",
+    "path": "groups/t_5_3/",
+    "biome": "T5",
+    "title": {
+      "en": "Sclerophyll hot deserts and semi-deserts",
+    }
+  },
+  {
+    "id": "T5.4",
+    "path": "groups/t_5_4/",
+    "biome": "T5",
+    "title": {
+      "en": "Cool deserts and semi-deserts",
+    }
+  },
+  {
+    "id": "T5.5",
+    "path": "groups/t_5_5/",
+    "biome": "T5",
+    "title": {
+      "en": "Hyper-arid deserts",
+    }
+  },
+  {
+    "id": "T6.1",
+    "path": "groups/t_6_1/",
+    "biome": "T6",
+    "title": {
+      "en": "Ice sheets, glaciers and perennial snowfields",
+    }
+  },
+  {
+    "id": "T6.2",
+    "path": "groups/t_6_2/",
+    "biome": "T6",
+    "title": {
+      "en": "Polar/alpine cliffs, screes, outcrops and lava flows",
+    }
+  },
+  {
+    "id": "T6.3",
+    "path": "groups/t_6_3/",
+    "biome": "T6",
+    "title": {
+      "en": "Polar tundra",
+    }
+  },
+  {
+    "id": "T6.4",
+    "path": "groups/t_6_4/",
+    "biome": "T6",
+    "title": {
+      "en": "Temperate alpine meadows and shrublands",
+    }
+  },
+  {
+    "id": "T6.5",
+    "path": "groups/t_6_5/",
+    "biome": "T6",
+    "title": {
+      "en": "Tropical alpine grasslands and herbfields",
+    }
+  },
+  {
+    "id": "T7.1",
+    "path": "groups/t_7_1/",
+    "biome": "T7",
+    "title": {
+      "en": "Croplands",
+    }
+  },
+  {
+    "id": "T7.2",
+    "path": "groups/t_7_2/",
+    "biome": "T7",
+    "title": {
+      "en": "Sown pastures and old fields",
+    }
+  },
+  {
+    "id": "T7.3",
+    "path": "groups/t_7_3/",
+    "biome": "T7",
+    "title": {
+      "en": "Plantations",
+    }
+  },
+  {
+    "id": "T7.4",
+    "path": "groups/t_7_4/",
+    "biome": "T7",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "tmfrnz.2f6am13w"
+    },
+    "title": {
+      "en": "Urban and infrastructure lands",
+    }
+  },
+  {
+    "id": "TF1.1",
+    "path": "groups/tf_1_1/",
+    "biome": "TF1",
+    "title": {
+      "en": "Tropical flooded forests and peat forests",
+    }
+  },
+  {
+    "id": "TF1.2",
+    "path": "groups/tf_1_2/",
+    "biome": "TF1",
+    "title": {
+      "en": "Subtropical/temperate forested wetlands",
+    }
+  },
+  {
+    "id": "TF1.3",
+    "path": "groups/tf_1_3/",
+    "biome": "TF1",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "tmfrnz.3o9ajy44"
+    },
+    "title": {
+      "en": "Permanent marshes",
+    }
+  },
+  {
+    "id": "TF1.4",
+    "path": "groups/tf_1_4/",
+    "biome": "TF1",
+    "title": {
+      "en": "Seasonal floodplain marshes",
+    }
+  },
+  {
+    "id": "TF1.5",
+    "path": "groups/tf_1_5/",
+    "biome": "TF1",
+    "title": {
+      "en": "Episodic arid floodplains",
+    }
+  },
+  {
+    "id": "TF1.6",
+    "path": "groups/tf_1_6/",
+    "biome": "TF1",
+    "title": {
+      "en": "Boreal, temperate and montane peat bogs",
+    }
+  },
+  {
+    "id": "TF1.7",
+    "path": "groups/tf_1_7/",
+    "biome": "TF1",
+    "title": {
+      "en": "Boreal and temperate fens",
+    }
+  },
+]
