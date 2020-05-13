@@ -4,7 +4,7 @@
     "path": "realms/f/",
     "type": "core",
     "title": {
-      "en": "Freshwater",
+      "en": "Freshwater"
     }
   },
   {
@@ -12,7 +12,7 @@
     "path": "realms/fm/",
     "type": "trans",
     "title": {
-      "en": "Freshwater-Marine",
+      "en": "Freshwater-Marine"
     }
   },
   {
@@ -20,7 +20,7 @@
     "path": "realms/m/",
     "type": "core",
     "title": {
-      "en": "Marine",
+      "en": "Marine"
     }
   },
   {
@@ -28,7 +28,7 @@
     "path": "realms/mft/",
     "type": "trans",
     "title": {
-      "en": "Marine-Freshwater-Terrestrial",
+      "en": "Marine-Freshwater-Terrestrial"
     }
   },
   {
@@ -36,7 +36,7 @@
     "path": "realms/mt/",
     "type": "trans",
     "title": {
-      "en": "Marine-Terrestrial",
+      "en": "Marine-Terrestrial"
     }
   },
   {
@@ -44,7 +44,7 @@
     "path": "realms/s/",
     "type": "core",
     "title": {
-      "en": "Subterranean",
+      "en": "Subterranean"
     }
   },
   {
@@ -52,7 +52,7 @@
     "path": "realms/sf/",
     "type": "trans",
     "title": {
-      "en": "Subterranean-Freshwater",
+      "en": "Subterranean-Freshwater"
     }
   },
   {
@@ -60,7 +60,7 @@
     "path": "realms/sm/",
     "type": "trans",
     "title": {
-      "en": "Subterranean-Marine",
+      "en": "Subterranean-Marine"
     }
   },
   {
@@ -68,7 +68,7 @@
     "path": "realms/t/",
     "type": "core",
     "title": {
-      "en": "Terrestrial",
+      "en": "Terrestrial"
     }
   },
   {
@@ -76,7 +76,7 @@
     "path": "realms/tf/",
     "type": "trans",
     "title": {
-      "en": "Terrestrial-Freshwater",
+      "en": "Terrestrial-Freshwater"
     }
   }
 ]
