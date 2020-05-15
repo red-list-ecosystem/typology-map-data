@@ -1,7 +1,7 @@
 [
   {
     "id": "F1",
-    "path": "biomes/f_1/",
+    "path": "f_1",
     "realm": "F",
     "title": {
       "en": "Rivers and streams biome"
@@ -9,7 +9,7 @@
   },
   {
     "id": "F2",
-    "path": "biomes/f_2/",
+    "path": "f_2",
     "realm": "F",
     "title": {
       "en": "Lakes biome"
@@ -17,7 +17,7 @@
   },
   {
     "id": "F3",
-    "path": "biomes/f_3/",
+    "path": "f_3",
     "realm": "F",
     "title": {
       "en": "Artificial wetlands biome"
@@ -25,7 +25,7 @@
   },
   {
     "id": "FM1",
-    "path": "biomes/fm_1/",
+    "path": "fm_1",
     "realm": "FM",
     "title": {
       "en": "Transitional waters biome"
@@ -33,7 +33,7 @@
   },
   {
     "id": "M1",
-    "path": "biomes/m_1/",
+    "path": "m_1",
     "realm": "M",
     "title": {
       "en": "Marine shelf biome"
@@ -41,7 +41,7 @@
   },
   {
     "id": "M2",
-    "path": "biomes/m_2/",
+    "path": "m_2",
     "realm": "M",
     "title": {
       "en": "Pelagic ocean waters biome"
@@ -49,7 +49,7 @@
   },
   {
     "id": "M3",
-    "path": "biomes/m_3/",
+    "path": "m_3",
     "realm": "M",
     "title": {
       "en": "Deep sea floors biome"
@@ -57,7 +57,7 @@
   },
   {
     "id": "M4",
-    "path": "biomes/m_4/",
+    "path": "m_4",
     "realm": "M",
     "title": {
       "en": "Anthropogenic marine biome"
@@ -65,7 +65,7 @@
   },
   {
     "id": "MFT1",
-    "path": "biomes/mft_1/",
+    "path": "mft_1",
     "realm": "MFT",
     "title": {
       "en": "Brackish tidal biome"
@@ -73,7 +73,7 @@
   },
   {
     "id": "MT1",
-    "path": "biomes/mt_1/",
+    "path": "mt_1",
     "realm": "MT",
     "title": {
       "en": "Shorelines biome"
@@ -81,7 +81,7 @@
   },
   {
     "id": "MT2",
-    "path": "biomes/mt_2/",
+    "path": "mt_2",
     "realm": "MT",
     "title": {
       "en": "Supralittoral coastal biome"
@@ -89,7 +89,7 @@
   },
   {
     "id": "MT3",
-    "path": "biomes/mt_3/",
+    "path": "mt_3",
     "realm": "MT",
     "title": {
       "en": "Anthropogenic shorelines biome"
@@ -97,7 +97,7 @@
   },
   {
     "id": "S1",
-    "path": "biomes/s_1/",
+    "path": "s_1",
     "realm": "S",
     "title": {
       "en": "Subterranean lithic biome"
@@ -105,7 +105,7 @@
   },
   {
     "id": "S2",
-    "path": "biomes/s_2/",
+    "path": "s_2",
     "realm": "S",
     "title": {
       "en": "Anthropogenic subterranean voids biome"
@@ -113,7 +113,7 @@
   },
   {
     "id": "SF1",
-    "path": "biomes/sf_1/",
+    "path": "sf_1",
     "realm": "SF",
     "title": {
       "en": "Subterranean freshwaters biome"
@@ -121,7 +121,7 @@
   },
   {
     "id": "SF2",
-    "path": "biomes/sf_2/",
+    "path": "sf_2",
     "realm": "SF",
     "title": {
       "en": "Anthropogenic subterranean freshwaters biome"
@@ -129,7 +129,7 @@
   },
   {
     "id": "SM1",
-    "path": "biomes/sm_1/",
+    "path": "sm_1",
     "realm": "SM",
     "title": {
       "en": "Subterranean tidal biome"
@@ -137,7 +137,7 @@
   },
   {
     "id": "T1",
-    "path": "biomes/t_1/",
+    "path": "t_1",
     "realm": "T",
     "title": {
       "en": "Tropical-subtropical forests biome"
@@ -145,7 +145,7 @@
   },
   {
     "id": "T2",
-    "path": "biomes/t_2/",
+    "path": "t_2",
     "realm": "T",
     "title": {
       "en": "Temperate-boreal forests and woodlands biome"
@@ -153,7 +153,7 @@
   },
   {
     "id": "T3",
-    "path": "biomes/t_3/",
+    "path": "t_3",
     "realm": "T",
     "title": {
       "en": "Shrublands and shrubby woodlands biome"
@@ -161,7 +161,7 @@
   },
   {
     "id": "T4",
-    "path": "biomes/t_4/",
+    "path": "t_4",
     "realm": "T",
     "title": {
       "en": "Savannas and grasslands biome"
@@ -169,7 +169,7 @@
   },
   {
     "id": "T5",
-    "path": "biomes/t_5/",
+    "path": "t_5",
     "realm": "T",
     "title": {
       "en": "Deserts and semi-deserts biome"
@@ -177,7 +177,7 @@
   },
   {
     "id": "T6",
-    "path": "biomes/t_6/",
+    "path": "t_6",
     "realm": "T",
     "title": {
       "en": "Polar/alpine (cryogenic) biome"
@@ -185,7 +185,7 @@
   },
   {
     "id": "T7",
-    "path": "biomes/t_7/",
+    "path": "t_7",
     "realm": "T",
     "title": {
       "en": "Intensive land-use biome"
@@ -193,7 +193,7 @@
   },
   {
     "id": "TF1",
-    "path": "biomes/tf_1/",
+    "path": "tf_1",
     "realm": "TF",
     "title": {
       "en": "Palustrine wetlands biome"
