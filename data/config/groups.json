@@ -615,9 +615,9 @@
     "path": "t_2_5",
     "biome": "T2",
     "layer": {
-      "source": "mapbox",
-      "type": "raster",
-      "tileset": "tmfrnz.dadfxhej"
+      "source": "github",
+      "type": "geojson",
+      "path": "layers/T2_5.json"
     },
     "title": {
       "en": "Temperate pyric humid forests"
