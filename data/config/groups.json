@@ -608,7 +608,7 @@
     "biome": "T2",
     "layer": {
       "source": "github",
-      "type": "geojson",
+      "type": "topojson",
       "path": "layers/T2_5_simpl30_topo.json"
     },
     "title": {
