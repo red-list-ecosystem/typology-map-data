@@ -4,10 +4,10 @@
     "path": "f_1_1",
     "biome": "F1",
     "layer": {
-     "source": "mapbox",
-     "type": "raster",
-     "tileset": "jrfep.4num38sw"
-  },
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.4num38sw"
+    },
     "title": {
       "en": "Permanent upland streams"
     }
@@ -16,10 +16,11 @@
     "id": "F1.2",
     "path": "f_1_2",
     "biome": "F1",
-     "layer": {
-     "source": "mapbox",
-     "type": "raster",
-     "tileset": "jrfep.dkd2vrw0"},
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.dkd2vrw0"
+    },
     "title": {
       "en": "Permanent lowland rivers"
     }
@@ -37,9 +38,10 @@
     "path": "f_1_4",
     "biome": "F1",
     "layer": {
-    "source": "mapbox",
-    "type": "raster",
-    "tileset": "jrfep.6ocyvgdj"},
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.6ocyvgdj"
+    },
     "title": {
       "en": "Monsoonal upland stream"
     }
@@ -49,9 +51,10 @@
     "path": "f_1_5",
     "biome": "F1",
     "layer": {
-    "source": "mapbox",
-    "type": "raster",
-    "tileset": "jrfep.85o5xpdq"},
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.85o5xpdq"
+    },
     "title": {
       "en": "Monsoonal lowland rivers"
     }
@@ -68,10 +71,11 @@
     "id": "F1.7",
     "path": "f_1_7",
     "biome": "F1",
-     "layer": {
-    "source": "mapbox",
-    "type": "vector",
-    "tileset": "jrfep.78l1694x"},
+    "layer": {
+      "source": "mapbox",
+      "type": "vector",
+      "tileset": "jrfep.78l1694x"
+    },
     "title": {
       "en": "Large lowland rivers"
     }
