@@ -598,6 +598,11 @@
     "id": "T2.3",
     "path": "t_2_3",
     "biome": "T2",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/T2_5_topo.json"
+    },
     "title": {
       "en": "Oceanic temperate rainforests"
     }
