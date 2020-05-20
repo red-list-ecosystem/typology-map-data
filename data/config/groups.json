@@ -3,6 +3,11 @@
     "id": "F1.1",
     "path": "f_1_1",
     "biome": "F1",
+    "layer": {
+     "source": "mapbox",
+     "type": "raster",
+     "tileset": "jrfep.4num38sw"
+  },
     "title": {
       "en": "Permanent upland streams"
     }
