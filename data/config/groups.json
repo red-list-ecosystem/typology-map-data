@@ -627,6 +627,9 @@
     "id": "T2.6",
     "path": "t_2_6",
     "biome": "T2",
+    "source": "mapbox",
+    "type": "raster",
+    "tileset": "tmfrnz.dadfxhej"
     "title": {
       "en": "Temperate pyric sclerophyll forests and woodlands"
     }
