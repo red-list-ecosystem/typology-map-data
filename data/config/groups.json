@@ -606,6 +606,11 @@
     "id": "T2.4",
     "path": "t_2_4",
     "biome": "T2",
+    "layer": {
+      "source": "github",
+      "type": "geojson",
+      "path": "layers/T2_5_simpl30_topo.json"
+    },
     "title": {
       "en": "Warm temperate rainforests"
     }
