@@ -68,6 +68,11 @@
     "id": "F1.7",
     "path": "f_1_7",
     "biome": "F1",
+     "layer": {
+    "source": "vectot",
+    "type": "raster",
+    "tileset": "jrfep.78l1694x"},
+
     "title": {
       "en": "Large lowland rivers"
     }
