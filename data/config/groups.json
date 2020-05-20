@@ -48,6 +48,10 @@
     "id": "F1.5",
     "path": "f_1_5",
     "biome": "F1",
+    "layer": {
+    "source": "mapbox",
+    "type": "raster",
+    "tileset": "jrfep.85o5xpdq"},
     "title": {
       "en": "Monsoonal lowland rivers"
     }
