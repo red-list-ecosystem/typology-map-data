@@ -16,6 +16,10 @@
     "id": "F1.2",
     "path": "f_1_2",
     "biome": "F1",
+     "layer": {
+     "source": "mapbox",
+     "type": "raster",
+     "tileset": "jrfep.dkd2vrw0"},
     "title": {
       "en": "Permanent lowland rivers"
     }
