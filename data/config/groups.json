@@ -36,6 +36,10 @@
     "id": "F1.4",
     "path": "f_1_4",
     "biome": "F1",
+    "layer": {
+    "source": "mapbox",
+    "type": "raster",
+    "tileset": "jrfep.6ocyvgdj"},
     "title": {
       "en": "Monsoonal upland stream"
     }
