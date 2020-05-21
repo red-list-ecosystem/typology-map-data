@@ -337,6 +337,11 @@
     "id": "M2.5",
     "path": "m_2_5",
     "biome": "M2",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.4lx95qgq"
+    },
     "title": {
       "en": "Sea ice"
     }
