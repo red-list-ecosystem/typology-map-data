@@ -856,6 +856,14 @@
     }
   },
   {
+    "id": "T7.5",
+    "path": "t_7_5",
+    "biome": "T7",
+    "title": {
+      "en": "Derived semi-natural pastures and old fields"
+    }
+  },
+  {
     "id": "TF1.1",
     "path": "tf_1_1",
     "biome": "TF1",
