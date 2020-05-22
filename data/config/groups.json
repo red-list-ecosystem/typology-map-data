@@ -563,6 +563,11 @@
     "id": "T1.2",
     "path": "t_1_2",
     "biome": "T1",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.a5bzqm84"
+    },
     "title": {
       "en": "Tropical/Subtropical dry forests and scrubs"
     }
@@ -571,6 +576,11 @@
     "id": "T1.3",
     "path": "t_1_3",
     "biome": "T1",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.c2n3ph5h"
+    },
     "title": {
       "en": "Tropical/Subtropical montane rainforests"
     }
