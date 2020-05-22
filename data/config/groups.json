@@ -589,6 +589,11 @@
     "id": "T1.4",
     "path": "t_1_4",
     "biome": "T1",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "tileset": "layers/T1_4_topo.json"
+    },
     "title": {
       "en": "Tropical heath forests"
     }
