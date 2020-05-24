@@ -732,6 +732,11 @@
     "id": "T5.1",
     "path": "t_5_1",
     "biome": "T5",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/T5.1.IM.orig_1.0.json"
+    },
     "title": {
       "en": "Semi-desert steppes"
     }
@@ -740,6 +745,11 @@
     "id": "T5.2",
     "path": "t_5_2",
     "biome": "T5",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/T5.2.IM.orig_1.0.json"
+    },
     "title": {
       "en": "Succulent or Thorny deserts and semi-deserts"
     }
@@ -748,6 +758,11 @@
     "id": "T5.3",
     "path": "t_5_3",
     "biome": "T5",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/T5.3.IM.orig_1.0.json"
+    },
     "title": {
       "en": "Sclerophyll hot deserts and semi-deserts"
     }
@@ -756,6 +771,11 @@
     "id": "T5.4",
     "path": "t_5_4",
     "biome": "T5",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/T5.4.IM.orig_1.0.json"
+    },
     "title": {
       "en": "Cool deserts and semi-deserts"
     }
@@ -764,6 +784,11 @@
     "id": "T5.5",
     "path": "t_5_5",
     "biome": "T5",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/T5.5.IM.orig_1.0.json"
+    },
     "title": {
       "en": "Hyper-arid deserts"
     }
