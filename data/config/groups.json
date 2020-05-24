@@ -708,6 +708,11 @@
     "id": "T4.3",
     "path": "t_4_3",
     "biome": "T4",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/T4.3.IM.orig_1.0.json"
+    },
     "title": {
       "en": "Hummock savannas"
     }
@@ -716,6 +721,11 @@
     "id": "T4.4",
     "path": "t_4_4",
     "biome": "T4",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/T4.4.IM.orig_1.0.json"
+    },
     "title": {
       "en": "Temperate wooded savannas"
     }
@@ -724,6 +734,11 @@
     "id": "T4.5",
     "path": "t_4_5",
     "biome": "T4",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/T4.5.IM.orig_1.0.json"
+    },
     "title": {
       "en": "Temperate grasslands"
     }
@@ -882,6 +897,11 @@
     "id": "TF1.1",
     "path": "tf_1_1",
     "biome": "TF1",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/TF1.1.IM.orig_1.0.json"
+    },
     "title": {
       "en": "Tropical flooded forests and peat forests"
     }
@@ -911,6 +931,11 @@
     "id": "TF1.4",
     "path": "tf_1_4",
     "biome": "TF1",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/TF1.4.IM.v1.1_1.1.json"
+    },
     "title": {
       "en": "Seasonal floodplain marshes"
     }
@@ -927,6 +952,11 @@
     "id": "TF1.6",
     "path": "tf_1_6",
     "biome": "TF1",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/TF1.6.IM.v1.1_1.1.json"
+    },
     "title": {
       "en": "Boreal, temperate and montane peat bogs"
     }
@@ -935,6 +965,11 @@
     "id": "TF1.7",
     "path": "tf_1_7",
     "biome": "TF1",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/TF1.7.IM.orig_1.0.json"
+    },
     "title": {
       "en": "Boreal and temperate fens"
     }
