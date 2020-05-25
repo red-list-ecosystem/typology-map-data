@@ -315,6 +315,11 @@
     "id": "M2.1",
     "path": "m_2_1",
     "biome": "M2",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.2ktxgaar"
+    },
     "title": {
       "en": "Epipelagic ocean waters"
     }
@@ -323,6 +328,11 @@
     "id": "M2.2",
     "path": "m_2_2",
     "biome": "M2",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.amerd73d"
+    },
     "title": {
       "en": "Mesopelagic ocean water"
     }
@@ -331,6 +341,11 @@
     "id": "M2.3",
     "path": "m_2_3",
     "biome": "M2",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.55l4qies"
+    },
     "title": {
       "en": "Bathypelagic ocean waters"
     }
@@ -339,6 +354,11 @@
     "id": "M2.4",
     "path": "m_2_4",
     "biome": "M2",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.5fb3lqef"
+    },
     "title": {
       "en": "Abyssopelagic ocean waters"
     }
