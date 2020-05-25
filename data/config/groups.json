@@ -360,6 +360,11 @@
     "id": "M3.1",
     "path": "m_3_1",
     "biome": "M3",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/M3.1.IM.orig_v1.0.json"
+    },
     "title": {
       "en": "Continental and island slopes"
     }
@@ -400,6 +405,11 @@
     "id": "M3.6",
     "path": "m_3_6",
     "biome": "M3",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/M3.6.IM.orig_v1.0.json"
+    },
     "title": {
       "en": "Hadal trenches and troughs"
     }
