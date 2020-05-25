@@ -236,6 +236,11 @@
     "id": "M1.2",
     "path": "m_1_2",
     "biome": "M1",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/M1.2.IM.orig_v1.0.json"
+    },
     "title": {
       "en": "Kelp forests"
     }
@@ -252,6 +257,11 @@
     "id": "M1.4",
     "path": "m_1_4",
     "biome": "M1",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/M1.4.IM.orig_v1.0.json"
+    },
     "title": {
       "en": "Shellfish beds and reefs"
     }
