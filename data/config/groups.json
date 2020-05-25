@@ -116,6 +116,11 @@
     "id": "F2.5",
     "path": "f_2_5",
     "biome": "F2",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/F2.5.IM.orig_v1.0.json"
+    },
     "title": {
       "en": "Ephemeral freshwater lakes"
     }
@@ -124,6 +129,11 @@
     "id": "F2.6",
     "path": "f_2_6",
     "biome": "F2",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/F2.6.IM.orig_v1.0.json"
+    },
     "title": {
       "en": "Permanent inland salt lakes"
     }
@@ -132,6 +142,11 @@
     "id": "F2.7",
     "path": "f_2_7",
     "biome": "F2",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/F2.7.IM.orig_v1.0.json"
+    },
     "title": {
       "en": "Ephemeral salt lakes"
     }
@@ -140,6 +155,11 @@
     "id": "F2.8",
     "path": "f_2_8",
     "biome": "F2",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/F2.8.IM.orig_v1.0.json"
+    },
     "title": {
       "en": "Artesian springs and oases"
     }
@@ -148,6 +168,11 @@
     "id": "F2.9",
     "path": "f_2_9",
     "biome": "F2",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/F2.9.IM.orig_v1.0.json"
+    },
     "title": {
       "en": "Geothermal wetlands"
     }
@@ -164,6 +189,11 @@
     "id": "F3.1",
     "path": "f_3_1",
     "biome": "F3",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/F3.1.IM.orig_v1.0.json"
+    },
     "title": {
       "en": "Large reservoirs"
     }
@@ -204,6 +234,11 @@
     "id": "FM1.1",
     "path": "fm_1_1",
     "biome": "FM1",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/FM1.1.IM.orig_v1.0.json"
+    },
     "title": {
       "en": "Deepwater coastal inlets"
     }
@@ -220,6 +255,11 @@
     "id": "FM1.3",
     "path": "fm_1_3",
     "biome": "FM1",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/FM1.3.IM.orig_v1.0.json"
+    },
     "title": {
       "en": "Intermittently closed and open lakes and lagoons"
     }
