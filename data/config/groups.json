@@ -426,6 +426,11 @@
     "id": "M4.1",
     "path": "m_4_1",
     "biome": "M4",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/M4.1.IM.orig_v1.0.json"
+    },
     "title": {
       "en": "Submerged artificial structures"
     }
@@ -434,6 +439,11 @@
     "id": "M4.2",
     "path": "m_4_2",
     "biome": "M4",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/M4.2.IM.orig_v1.0.json"
+    },
     "title": {
       "en": "Marine aquafarms"
     }
