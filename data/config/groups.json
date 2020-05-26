@@ -6,7 +6,7 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "jrfep.4num38sw"
+      "tileset": "jrfep.F1_1_web_orig"
     },
     "title": {
       "en": "Permanent upland streams"
@@ -19,7 +19,7 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "jrfep.dkd2vrw0"
+      "tileset": "jrfep.F1_2_web_orig"
     },
     "title": {
       "en": "Permanent lowland rivers"
