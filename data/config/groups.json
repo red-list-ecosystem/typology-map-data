@@ -643,7 +643,7 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "jrfep.9yqpgp56"
+      "tileset": "jrfep.T1_1_web_orig"
     },
     "title": {
       "en": "Tropical/Subtropical lowland rainforests"
