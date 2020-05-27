@@ -94,6 +94,11 @@
     "id": "F2.1",
     "path": "f_2_1",
     "biome": "F2",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.F2_1_web_orig"
+    },
     "title": {
       "en": "Large permanent freshwater lakes"
     }
