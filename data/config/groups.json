@@ -107,6 +107,11 @@
     "id": "F2.2",
     "path": "f_2_2",
     "biome": "F2",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.F2_2_web_orig"
+    },
     "title": {
       "en": "Small permanent freshwater lakes"
     }
