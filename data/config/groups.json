@@ -45,7 +45,7 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "jrfep.6ocyvgdj"
+      "tileset": "jrfep.F1_4_web_orig"
     },
     "title": {
       "en": "Seasonal upland streams"
@@ -58,7 +58,7 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "jrfep.85o5xpdq"
+      "tileset": "jrfep.F1_5_web_orig"
     },
     "title": {
       "en": "Seasonal lowland rivers"
