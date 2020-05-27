@@ -201,6 +201,11 @@
     "id": "F2.10",
     "path": "f_2_10",
     "biome": "F2",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.F2_10_web_orig"
+    },
     "title": {
       "en": "Subglacial lakes"
     }
