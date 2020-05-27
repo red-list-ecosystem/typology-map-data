@@ -227,6 +227,11 @@
     "id": "F3.2",
     "path": "f_3_2",
     "biome": "F3",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.F3_2_web_orig"
+    },
     "title": {
       "en": "Constructed lacustrine wetlands"
     }
@@ -235,6 +240,11 @@
     "id": "F3.3",
     "path": "f_3_3",
     "biome": "F3",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.F3_3_web_orig"
+    },
     "title": {
       "en": "Rice paddies"
     }
@@ -243,6 +253,11 @@
     "id": "F3.4",
     "path": "f_3_4",
     "biome": "F3",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.F3_4_web_orig"
+    },
     "title": {
       "en": "Freshwater aquafarms"
     }
@@ -251,6 +266,11 @@
     "id": "F3.5",
     "path": "f_3_5",
     "biome": "F3",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.F3_5_web_orig"
+    },
     "title": {
       "en": "Canals and storm water drains"
     }
