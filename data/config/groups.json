@@ -313,6 +313,11 @@
     "id": "M1.1",
     "path": "m_1_1",
     "biome": "M1",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.M1_1_web_mix"
+    },
     "title": {
       "en": "Seagrass meadows"
     }
@@ -334,6 +339,11 @@
     "id": "M1.3",
     "path": "m_1_3",
     "biome": "M1",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.M1_3_web_mix"
+    },
     "title": {
       "en": "Photic coral reefs"
     }
@@ -355,6 +365,11 @@
     "id": "M1.5",
     "path": "m_1_5",
     "biome": "M1",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.M1_5_web_mix"
+    },
     "title": {
       "en": "Photo-limited marine animal forests"
     }
@@ -366,7 +381,7 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "tmfrnz.6lanv8a8"
+      "tileset": "jrfep.M1_6_web_mix"
     },
     "title": {
       "en": "Subtidal rocky reefs"
@@ -376,6 +391,11 @@
     "id": "M1.7",
     "path": "m_1_7",
     "biome": "M1",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.M1_7_web_mix"
+    },
     "title": {
       "en": "Subtidal sandy bottoms"
     }
@@ -384,6 +404,11 @@
     "id": "M1.8",
     "path": "m_1_8",
     "biome": "M1",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.M1_8_web_mix"
+    },
     "title": {
       "en": "Subtidal muddy bottoms"
     }
@@ -392,6 +417,11 @@
     "id": "M1.9",
     "path": "m_1_9",
     "biome": "M1",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.M1_9_web_mix"
+    },
     "title": {
       "en": "Upwelling zones"
     }
