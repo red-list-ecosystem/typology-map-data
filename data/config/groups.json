@@ -6,7 +6,7 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "jrfep.F1_1_web_orig"
+      "tileset": "jrfep.F1_1_web_mix"
     },
     "title": {
       "en": "Permanent upland streams"
