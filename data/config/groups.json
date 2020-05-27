@@ -68,6 +68,11 @@
     "id": "F1.6",
     "path": "f_1_6",
     "biome": "F1",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.F1_6_web_orig"
+    },
     "title": {
       "en": "Episodic arid rivers"
     }
@@ -77,9 +82,9 @@
     "path": "f_1_7",
     "biome": "F1",
     "layer": {
-      "source": "mapbox",
-      "type": "vector",
-      "tileset": "jrfep.78l1694x"
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/F1.7.web.orig_v1.0.json"
     },
     "title": {
       "en": "Large lowland rivers"
