@@ -19,7 +19,7 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "jrfep.F1_2_web_orig"
+      "tileset": "jrfep.F1_2_web_mix"
     },
     "title": {
       "en": "Permanent lowland rivers"
@@ -29,6 +29,11 @@
     "id": "F1.3",
     "path": "f_1_3",
     "biome": "F1",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.F1_3_web_mix"
+    },
     "title": {
       "en": "Freeze-thaw rivers and streams"
     }
@@ -43,7 +48,7 @@
       "tileset": "jrfep.6ocyvgdj"
     },
     "title": {
-      "en": "Monsoonal upland stream"
+      "en": "Seasonal upland streams"
     }
   },
   {
@@ -56,7 +61,7 @@
       "tileset": "jrfep.85o5xpdq"
     },
     "title": {
-      "en": "Monsoonal lowland rivers"
+      "en": "Seasonal lowland rivers"
     }
   },
   {
@@ -135,7 +140,7 @@
       "path": "layers/F2.6.IM.orig_v1.0.json"
     },
     "title": {
-      "en": "Permanent inland salt lakes"
+      "en": "Permanent salt lakes"
     }
   },
   {
@@ -174,7 +179,7 @@
       "path": "layers/F2.9.IM.orig_v1.0.json"
     },
     "title": {
-      "en": "Geothermal wetlands"
+      "en": "Geothermal pools and wetlands"
     }
   },
   {
