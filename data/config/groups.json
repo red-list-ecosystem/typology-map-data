@@ -316,7 +316,7 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "jrfep.M1_1_web_mix"
+      "tileset": "jrfep.M1_1_web_orig"
     },
     "title": {
       "en": "Seagrass meadows"
@@ -342,7 +342,7 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "jrfep.M1_3_web_mix"
+      "tileset": "jrfep.M1_3_web_orig"
     },
     "title": {
       "en": "Photic coral reefs"
@@ -368,7 +368,7 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "jrfep.M1_5_web_mix"
+      "tileset": "jrfep.M1_5_web_orig"
     },
     "title": {
       "en": "Photo-limited marine animal forests"
@@ -381,7 +381,7 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "jrfep.M1_6_web_mix"
+      "tileset": "jrfep.M1_6_web_orig"
     },
     "title": {
       "en": "Subtidal rocky reefs"
@@ -394,7 +394,7 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "jrfep.M1_7_web_mix"
+      "tileset": "jrfep.M1_7_web_orig"
     },
     "title": {
       "en": "Subtidal sandy bottoms"
@@ -407,7 +407,7 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "jrfep.M1_8_web_mix"
+      "tileset": "jrfep.M1_8_web_orig"
     },
     "title": {
       "en": "Subtidal muddy bottoms"
@@ -420,7 +420,7 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "jrfep.M1_9_web_mix"
+      "tileset": "jrfep.M1_9_web_orig"
     },
     "title": {
       "en": "Upwelling zones"
