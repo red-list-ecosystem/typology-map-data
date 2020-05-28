@@ -508,6 +508,11 @@
     "id": "M3.2",
     "path": "m_3_2",
     "biome": "M3",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.M3_2_web_orig"
+    },
     "title": {
       "en": "Marine canyons"
     }
@@ -516,6 +521,11 @@
     "id": "M3.3",
     "path": "m_3_3",
     "biome": "M3",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.M3_3_web_orig"
+    },
     "title": {
       "en": "Abyssal plains"
     }
@@ -524,6 +534,11 @@
     "id": "M3.4",
     "path": "m_3_4",
     "biome": "M3",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.M3_4_web_orig"
+    },
     "title": {
       "en": "Seamounts, ridges and plateaus"
     }
@@ -532,6 +547,11 @@
     "id": "M3.5",
     "path": "m_3_5",
     "biome": "M3",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.M3_5_web_orig"
+    },
     "title": {
       "en": "Deepwater biogenic beds"
     }
@@ -553,6 +573,11 @@
     "id": "M3.7",
     "path": "m_3_7",
     "biome": "M3",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.M3_7_web_orig"
+    },
     "title": {
       "en": "Chemosynthetically-based ecosystems"
     }
