@@ -5,6 +5,14 @@
     "type": "core",
     "title": {
       "en": "Freshwater"
+    },
+    "image": {
+      "credit": {
+        "en": "Photo by Claudio Büttler on Unsplash"
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -13,6 +21,14 @@
     "type": "trans",
     "title": {
       "en": "Freshwater-Marine"
+    },
+    "image": {
+      "credit": {
+        "en": "Photo by Chris King on Unsplash"
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -21,6 +37,14 @@
     "type": "core",
     "title": {
       "en": "Marine"
+    },
+    "image": {
+      "credit": {
+        "en": "Photo by Marek Okon on Unsplash"
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -29,6 +53,14 @@
     "type": "trans",
     "title": {
       "en": "Marine-Freshwater-Terrestrial"
+    },
+    "image": {
+      "credit": {
+        "en": "Photo by Mohamed Sameeh on Unsplash"
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -37,6 +69,14 @@
     "type": "trans",
     "title": {
       "en": "Marine-Terrestrial"
+    },
+    "image": {
+      "credit": {
+        "en": "Photo by Marek Okon on Unsplash"
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -45,6 +85,14 @@
     "type": "core",
     "title": {
       "en": "Subterranean"
+    },
+    "image": {
+      "credit": {
+        "en": "Photo by 6 9 on Unsplash"
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -53,6 +101,14 @@
     "type": "trans",
     "title": {
       "en": "Subterranean-Freshwater"
+    },
+    "image": {
+      "credit": {
+        "en": "Photo by Ricardo Gomez Angel on Unsplash"
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -61,6 +117,14 @@
     "type": "trans",
     "title": {
       "en": "Subterranean-Marine"
+    },
+    "image": {
+      "credit": {
+        "en": "'The Tunnel of Atlantis - Tunel de la Atlantida' by Perlaroques, licensed under CC BY-NC-ND 2.0"
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -69,6 +133,14 @@
     "type": "core",
     "title": {
       "en": "Terrestrial"
+    },
+    "image": {
+      "credit": {
+        "en": "Photo by Boudhayan Bardhan on Unsplash"
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -77,6 +149,14 @@
     "type": "trans",
     "title": {
       "en": "Terrestrial-Freshwater"
+    },
+    "image": {
+      "credit": {
+        "en": "Photo by Kyle Glenn on Unsplash"
+      },
+      "caption": {
+        "en": ""
+      }
     }
   }
 ]

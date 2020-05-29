@@ -5,6 +5,14 @@
     "realm": "F",
     "title": {
       "en": "Rivers and streams biome"
+    },
+    "image": {
+      "credit": {
+        "en": "Richard Kingsford (2019)"
+      },
+      "caption": {
+        "en": "Zambezi River, Zimbabwe"
+      }
     }
   },
   {
@@ -13,6 +21,14 @@
     "realm": "F",
     "title": {
       "en": "Lakes biome"
+    },
+    "image": {
+      "credit": {
+        "en": "Sylvain Didier / Alamy Stock Photo with permission"
+      },
+      "caption": {
+        "en": "Andes Mountain Lake, Bolivia"
+      }
     }
   },
   {
@@ -21,6 +37,14 @@
     "realm": "F",
     "title": {
       "en": "Artificial wetlands biome"
+    },
+    "image": {
+      "credit": {
+        "en": "snakefisch on Wikimedia commons"
+      },
+      "caption": {
+        "en": "Hoover Dam, NV and AZ, USA"
+      }
     }
   },
   {
@@ -29,6 +53,14 @@
     "realm": "FM",
     "title": {
       "en": "Semi-confined transitional waters biome"
+    },
+    "image": {
+      "credit": {
+        "en": "U.S. Army Corps of Engineers Digital Visual Library"
+      },
+      "caption": {
+        "en": "Klamanth River estuary, CA, USA"
+      }
     }
   },
   {
@@ -37,6 +69,14 @@
     "realm": "M",
     "title": {
       "en": "Marine shelf biome"
+    },
+    "image": {
+      "credit": {
+        "en": "Ritiks (2013), licenced under CC 3.0"
+      },
+      "caption": {
+        "en": "Coral reef, Andaman Islands, India"
+      }
     }
   },
   {
@@ -45,6 +85,14 @@
     "realm": "M",
     "title": {
       "en": "Pelagic ocean waters biome"
+    },
+    "image": {
+      "credit": {
+        "en": "Vlad Karpinskiy"
+      },
+      "caption": {
+        "en": "Tuna in the epipelagic zone, Socorro Island, Mexico"
+      }
     }
   },
   {
@@ -53,6 +101,14 @@
     "realm": "M",
     "title": {
       "en": "Deep sea floors biome"
+    },
+    "image": {
+      "credit": {
+        "en": "E. Ramirez-Llodra, MarMine cruise"
+      },
+      "caption": {
+        "en": "Stalked crinoids, a sponge, and a zoarcid fish at abyssal depths in the North Atlantic"
+      }
     }
   },
   {
@@ -61,6 +117,14 @@
     "realm": "M",
     "title": {
       "en": "Anthropogenic marine biome"
+    },
+    "image": {
+      "credit": {
+        "en": "Jaykirsch on Reddit"
+      },
+      "caption": {
+        "en": "Fishing boat from 1935 wrecked in the Aegean Sea"
+      }
     }
   },
   {
@@ -69,6 +133,14 @@
     "realm": "MFT",
     "title": {
       "en": "Brackish tidal biome"
+    },
+    "image": {
+      "credit": {
+        "en": "Winston M. Yang on Wikipedia, licensed under CC BY-SA 3.0 "
+      },
+      "caption": {
+        "en": "Mangroves and saltmarsh, Towra Point, NSW, Australia"
+      }
     }
   },
   {
@@ -77,6 +149,14 @@
     "realm": "MT",
     "title": {
       "en": "Shorelines biome"
+    },
+    "image": {
+      "credit": {
+        "en": "Richard Mikalsen on Wikimedia commons"
+      },
+      "caption": {
+        "en": "Twelve Apostles, Otway Coast, Victoria, Australia"
+      }
     }
   },
   {
@@ -85,6 +165,14 @@
     "realm": "MT",
     "title": {
       "en": "Supralittoral coastal biome"
+    },
+    "image": {
+      "credit": {
+        "en": "New Zealand Department of Conservation"
+      },
+      "caption": {
+        "en": "Auckland Islands sea cliff heath and rookery"
+      }
     }
   },
   {
@@ -93,6 +181,14 @@
     "realm": "MT",
     "title": {
       "en": "Anthropogenic shorelines biome"
+    },
+    "image": {
+      "credit": {
+        "en": "Photo by Red Zeppelin on Unsplash"
+      },
+      "caption": {
+        "en": "Exmouth Marina, Devon, UK"
+      }
     }
   },
   {
@@ -101,6 +197,14 @@
     "realm": "S",
     "title": {
       "en": "Subterranean lithic biome"
+    },
+    "image": {
+      "credit": {
+        "en": "Meander Valley Council"
+      },
+      "caption": {
+        "en": "Marakoopa caves, Mole Creek, Tasmania, Australia"
+      }
     }
   },
   {
@@ -109,6 +213,14 @@
     "realm": "S",
     "title": {
       "en": "Anthropogenic subterranean voids biome"
+    },
+    "image": {
+      "credit": {
+        "en": "Newcastle on Hunter"
+      },
+      "caption": {
+        "en": "Goonyella coal mine, near Mackay, Australia"
+      }
     }
   },
   {
@@ -117,6 +229,14 @@
     "realm": "SF",
     "title": {
       "en": "Subterranean freshwaters biome"
+    },
+    "image": {
+      "credit": {
+        "en": "Photo by Ray in Manila, licensed under CC BY 2.0"
+      },
+      "caption": {
+        "en": "Puerto Princesa Subterranean River National Park, Palawan"
+      }
     }
   },
   {
@@ -125,6 +245,14 @@
     "realm": "SF",
     "title": {
       "en": "Anthropogenic subterranean freshwaters biome"
+    },
+    "image": {
+      "credit": {
+        "en": "Urbex Tour"
+      },
+      "caption": {
+        "en": "Poltva River subterranean canal, Lviv, Ukraine"
+      }
     }
   },
   {
@@ -133,6 +261,14 @@
     "realm": "SM",
     "title": {
       "en": "Subterranean tidal biome"
+    },
+    "image": {
+      "credit": {
+        "en": "Jill Heinerth"
+      },
+      "caption": {
+        "en": "Anchialine cave, coast of the Yucatan Peninsula, Mexico"
+      }
     }
   },
   {
@@ -141,6 +277,14 @@
     "realm": "T",
     "title": {
       "en": "Tropical-subtropical forests biome"
+    },
+    "image": {
+      "credit": {
+        "en": "Frank Vassen (2008)"
+      },
+      "caption": {
+        "en": "Masoala National Park, Madagascar"
+      }
     }
   },
   {
@@ -149,6 +293,14 @@
     "realm": "T",
     "title": {
       "en": "Temperate-boreal forests and woodlands biome"
+    },
+    "image": {
+      "credit": {
+        "en": "David Keith"
+      },
+      "caption": {
+        "en": "Petworth, Sussex, England"
+      }
     }
   },
   {
@@ -157,6 +309,14 @@
     "realm": "T",
     "title": {
       "en": "Shrublands and shrubby woodlands biome"
+    },
+    "image": {
+      "credit": {
+        "en": "David Keith"
+      },
+      "caption": {
+        "en": "Anna Bay, Western Australia"
+      }
     }
   },
   {
@@ -165,6 +325,14 @@
     "realm": "T",
     "title": {
       "en": "Savannas and grasslands biome"
+    },
+    "image": {
+      "credit": {
+        "en": "David Keith"
+      },
+      "caption": {
+        "en": "Letaba, Kruger National Park, South Africa"
+      }
     }
   },
   {
@@ -173,6 +341,14 @@
     "realm": "T",
     "title": {
       "en": "Deserts and semi-deserts biome"
+    },
+    "image": {
+      "credit": {
+        "en": "David Keith"
+      },
+      "caption": {
+        "en": "Bahía de los Ángeles, Mexico"
+      }
     }
   },
   {
@@ -181,6 +357,14 @@
     "realm": "T",
     "title": {
       "en": "Polar/alpine (cryogenic) biome"
+    },
+    "image": {
+      "credit": {
+        "en": "David Keith"
+      },
+      "caption": {
+        "en": "Mt Cook area, South Island, New Zealand"
+      }
     }
   },
   {
@@ -189,6 +373,14 @@
     "realm": "T",
     "title": {
       "en": "Intensive land-use biome"
+    },
+    "image": {
+      "credit": {
+        "en": "Crisco 1492"
+      },
+      "caption": {
+        "en": "Tea plantation in Ciwidey, Bandung in Indonesia"
+      }
     }
   },
   {
@@ -197,6 +389,14 @@
     "realm": "TF",
     "title": {
       "en": "Palustrine wetlands biome"
+    },
+    "image": {
+      "credit": {
+        "en": "Photo by Tyler Butler on Unsplash"
+      },
+      "caption": {
+        "en": "Great Blue Heron, Waterloo State Recreation Area, Chelsea, United States"
+      }
     }
   }
 ]
