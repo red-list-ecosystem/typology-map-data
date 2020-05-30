@@ -156,7 +156,7 @@
       "path": "layers/F2.6.IM.orig_v1.0.json"
     },
     "title": {
-      "en": "Permanent salt lakes"
+      "en": "Permanent salt and soda lakes"
     }
   },
   {
@@ -273,7 +273,7 @@
       "tileset": "jrfep.F3_5_web_orig"
     },
     "title": {
-      "en": "Canals and storm water drains"
+      "en": "Canals, ditches and drains"
     }
   },
   {
@@ -398,7 +398,7 @@
       "tileset": "jrfep.M1_7_web_orig"
     },
     "title": {
-      "en": "Subtidal sandy bottoms"
+      "en": "Subtidal sand beds"
     }
   },
   {
@@ -411,7 +411,7 @@
       "tileset": "jrfep.M1_8_web_orig"
     },
     "title": {
-      "en": "Subtidal muddy bottoms"
+      "en": "Subtidal mud plains"
     }
   },
   {
@@ -515,7 +515,7 @@
       "tileset": "jrfep.M3_2_web_orig"
     },
     "title": {
-      "en": "Marine canyons"
+      "en": "Submarine canyons"
     }
   },
   {
@@ -580,7 +580,7 @@
       "tileset": "jrfep.M3_7_web_orig"
     },
     "title": {
-      "en": "Chemosynthetically-based ecosystems"
+      "en": "Chemosynthetic-based-ecosystems (CBE)"
     }
   },
   {
@@ -629,8 +629,13 @@
     "id": "MFT1.3",
     "path": "mft_1_3",
     "biome": "MFT1",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.MFT1_3_web_orig"
+    },
     "title": {
-      "en": "Coastal saltmarshes"
+      "en": "Coastal saltmarshes and reedbeds"
     }
   },
   {
@@ -654,7 +659,7 @@
     "path": "mt_1_3",
     "biome": "MT1",
     "title": {
-      "en": "Sandy Shores"
+      "en": "Sandy Shorelines"
     }
   },
   {
@@ -662,7 +667,7 @@
     "path": "mt_1_4",
     "biome": "MT1",
     "title": {
-      "en": "Boulder/cobble shores"
+      "en": "Boulder and cobble shores"
     }
   },
   {
@@ -678,7 +683,7 @@
     "path": "mt_3_1",
     "biome": "MT3",
     "title": {
-      "en": "Artificial shores"
+      "en": "Artificial shorelines"
     }
   },
   {
