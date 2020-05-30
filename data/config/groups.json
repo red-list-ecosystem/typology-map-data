@@ -628,6 +628,11 @@
     "id": "MFT1.3",
     "path": "mft_1_3",
     "biome": "MFT1",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.MFT1_3_web_orig"
+    },
     "title": {
       "en": "Coastal saltmarshes and reedbeds"
     }
