@@ -128,6 +128,11 @@
     "id": "F2.4",
     "path": "f_2_4",
     "biome": "F2",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/F2.4.IM.orig_v2.0_topo.json"
+    },
     "title": {
       "en": "Freeze-thaw freshwater lakes"
     }
