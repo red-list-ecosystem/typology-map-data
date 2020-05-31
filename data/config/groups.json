@@ -739,11 +739,35 @@
     }
   },
   {
+    "id": "SF2.2",
+    "path": "sf_2_2",
+    "biome": "SF2",
+    "title": {
+      "en": "Flooded mines and other voids"
+    }
+  },
+  {
     "id": "SM1.1",
     "path": "sm_1_1",
     "biome": "SM1",
     "title": {
       "en": "Anchialine caves"
+    }
+  },
+  {
+    "id": "SM1.2",
+    "path": "sm_1_2",
+    "biome": "SM1",
+    "title": {
+      "en": "Anchialine pools"
+    }
+  },
+  {
+    "id": "SM1.3",
+    "path": "sm_1_3",
+    "biome": "SM1",
+    "title": {
+      "en": "Sea caves"
     }
   },
   {
