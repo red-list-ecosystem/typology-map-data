@@ -951,7 +951,7 @@
       "path": "layers/T4.4.IM.orig_1.0.json"
     },
     "title": {
-      "en": "Temperate wooded savannas"
+      "en": "Temperate woodlands"
     }
   },
   {
@@ -964,7 +964,7 @@
       "path": "layers/T4.5.IM.orig_1.0.json"
     },
     "title": {
-      "en": "Temperate grasslands"
+      "en": "Temperate subhumid grasslands"
     }
   },
   {
@@ -977,7 +977,7 @@
       "path": "layers/T5.1.IM.orig_1.0.json"
     },
     "title": {
-      "en": "Semi-desert steppes"
+      "en": "Semi-desert steppe"
     }
   },
   {
@@ -1053,7 +1053,7 @@
     "path": "t_6_3",
     "biome": "T6",
     "title": {
-      "en": "Polar tundra"
+      "en": "Polar tundra and deserts"
     }
   },
   {
@@ -1061,7 +1061,7 @@
     "path": "t_6_4",
     "biome": "T6",
     "title": {
-      "en": "Temperate alpine meadows and shrublands"
+      "en": "Temperate alpine grasslands and shrublands"
     }
   },
   {
@@ -1077,7 +1077,7 @@
     "path": "t_7_1",
     "biome": "T7",
     "title": {
-      "en": "Croplands"
+      "en": "Annual croplands"
     }
   },
   {
@@ -1106,7 +1106,7 @@
       "tileset": "tmfrnz.2f6am13w"
     },
     "title": {
-      "en": "Urban and infrastructure lands"
+      "en": "Urban and industrial ecosystems"
     }
   },
   {
