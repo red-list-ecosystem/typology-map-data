@@ -848,7 +848,7 @@
     "path": "t_2_3",
     "biome": "T2",
     "title": {
-      "en": "Oceanic temperate rainforests"
+      "en": "Oceanic cool temperate rainforests"
     }
   },
   {
@@ -856,7 +856,7 @@
     "path": "t_2_4",
     "biome": "T2",
     "title": {
-      "en": "Warm temperate rainforests"
+      "en": "Warm temperate laurophyll forests"
     }
   },
   {
@@ -909,7 +909,7 @@
     "path": "t_3_4",
     "biome": "T3",
     "title": {
-      "en": "Rocky pavements, screes and lava flows"
+      "en": "Young rocky pavements, lava flows and screes"
     }
   },
   {
