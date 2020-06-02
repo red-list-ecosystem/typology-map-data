@@ -4,9 +4,9 @@
     "path": "f_1_1",
     "biome": "F1",
     "layer": {
-      "source": "mapbox",
-      "type": "raster",
-      "tileset": "jrfep.F1_1_web_mix"
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/F1.1.web.orig_topo.json"
     },
     "title": {
       "en": "Permanent upland streams"
@@ -17,9 +17,9 @@
     "path": "f_1_2",
     "biome": "F1",
     "layer": {
-      "source": "mapbox",
-      "type": "raster",
-      "tileset": "jrfep.F1_2_web_mix"
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/F1.2.web.orig_topo.json"
     },
     "title": {
       "en": "Permanent lowland rivers"
@@ -30,9 +30,9 @@
     "path": "f_1_3",
     "biome": "F1",
     "layer": {
-      "source": "mapbox",
-      "type": "raster",
-      "tileset": "jrfep.F1_3_web_mix"
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/F1.3.web.orig_topo.json"
     },
     "title": {
       "en": "Freeze-thaw rivers and streams"
@@ -43,9 +43,9 @@
     "path": "f_1_4",
     "biome": "F1",
     "layer": {
-      "source": "mapbox",
-      "type": "raster",
-      "tileset": "jrfep.F1_4_web_orig"
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/F1.4.web.orig_topo.json"
     },
     "title": {
       "en": "Seasonal upland streams"
@@ -56,9 +56,9 @@
     "path": "f_1_5",
     "biome": "F1",
     "layer": {
-      "source": "mapbox",
-      "type": "raster",
-      "tileset": "jrfep.F1_5_web_orig"
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/F1.5.web.orig_topo.json"
     },
     "title": {
       "en": "Seasonal lowland rivers"
@@ -69,9 +69,9 @@
     "path": "f_1_6",
     "biome": "F1",
     "layer": {
-      "source": "mapbox",
-      "type": "raster",
-      "tileset": "jrfep.F1_6_web_orig"
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/F1.6.web.orig_topo.json"
     },
     "title": {
       "en": "Episodic arid rivers"
@@ -108,9 +108,9 @@
     "path": "f_2_2",
     "biome": "F2",
     "layer": {
-      "source": "mapbox",
-      "type": "raster",
-      "tileset": "jrfep.F2_2_web_orig"
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/F2.2.web.orig_topo.json"
     },
     "title": {
       "en": "Small permanent freshwater lakes"
@@ -120,6 +120,11 @@
     "id": "F2.3",
     "path": "f_2_3",
     "biome": "F2",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/F2.3.web.orig_topo.json"
+    },
     "title": {
       "en": "Seasonal freshwater lakes"
     }
@@ -131,7 +136,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/F2.4.IM.orig_v2.0_topo.json"
+      "path": "layers/F2.4.web.orig_topo.json"
     },
     "title": {
       "en": "Freeze-thaw freshwater lakes"
@@ -144,7 +149,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/F2.5.IM.orig_v1.0.json"
+      "path": "layers/F2.5.web.orig_topo.json"
     },
     "title": {
       "en": "Ephemeral freshwater lakes"
@@ -157,7 +162,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/F2.6.IM.orig_v1.0.json"
+      "path": "layers/F2.6.web.orig_topo.json"
     },
     "title": {
       "en": "Permanent salt and soda lakes"
@@ -170,7 +175,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/F2.7.IM.orig_v1.0.json"
+      "path": "layers/F2.7.web.orig_topo.json"
     },
     "title": {
       "en": "Ephemeral salt lakes"
@@ -183,7 +188,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/F2.8.IM.orig_v1.0.json"
+      "path": "layers/F2.8.web.orig_topo.json"
     },
     "title": {
       "en": "Artesian springs and oases"
@@ -196,7 +201,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/F2.9.IM.orig_v1.0.json"
+      "path": "layers/F2.9.web.orig_topo.json"
     },
     "title": {
       "en": "Geothermal pools and wetlands"
@@ -233,9 +238,9 @@
     "path": "f_3_2",
     "biome": "F3",
     "layer": {
-      "source": "mapbox",
-      "type": "raster",
-      "tileset": "jrfep.F3_2_web_orig"
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/F3.2.web.orig_topo.json"
     },
     "title": {
       "en": "Constructed lacustrine wetlands"
@@ -246,9 +251,9 @@
     "path": "f_3_3",
     "biome": "F3",
     "layer": {
-      "source": "mapbox",
-      "type": "raster",
-      "tileset": "jrfep.F3_3_web_orig"
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/F3.3.web.orig_topo.json"
     },
     "title": {
       "en": "Rice paddies"
@@ -259,9 +264,9 @@
     "path": "f_3_4",
     "biome": "F3",
     "layer": {
-      "source": "mapbox",
-      "type": "raster",
-      "tileset": "jrfep.F3_4_web_orig"
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/F3.4.web.orig_topo.json"
     },
     "title": {
       "en": "Freshwater aquafarms"
@@ -272,9 +277,9 @@
     "path": "f_3_5",
     "biome": "F3",
     "layer": {
-      "source": "mapbox",
-      "type": "raster",
-      "tileset": "jrfep.F3_5_web_orig"
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/F3.5.web.orig_topo.json"
     },
     "title": {
       "en": "Canals, ditches and drains"
@@ -1234,6 +1239,11 @@
     "id": "TF1.2",
     "path": "tf_1_2",
     "biome": "TF1",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/TF1.2.web.orig_topo.json"
+    },
     "title": {
       "en": "Subtropical/temperate forested wetlands"
     }
@@ -1268,6 +1278,11 @@
     "id": "TF1.5",
     "path": "tf_1_5",
     "biome": "TF1",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/TF1.5.web.orig_topo.json"
+    },
     "title": {
       "en": "Episodic arid floodplains"
     }
