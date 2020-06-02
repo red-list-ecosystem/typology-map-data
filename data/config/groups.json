@@ -795,7 +795,7 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "jrfep.a5bzqm84"
+      "tileset": "jrfep.T1_2_web_orig"
     },
     "title": {
       "en": "Tropical/Subtropical dry forests and scrubs"
@@ -974,6 +974,11 @@
     "id": "T4.2",
     "path": "t_4_2",
     "biome": "T4",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.T4_2_web_orig"
+    },
     "title": {
       "en": "Pyric tussock savannas"
     }
@@ -1086,6 +1091,11 @@
     "id": "T6.1",
     "path": "t_6_1",
     "biome": "T6",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.T6_1_web_orig"
+    },
     "title": {
       "en": "Ice sheets, glaciers and perennial snowfields"
     }
@@ -1107,6 +1117,11 @@
     "id": "T6.3",
     "path": "t_6_3",
     "biome": "T6",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.T6_3_web_orig"
+    },
     "title": {
       "en": "Polar tundra and deserts"
     }
@@ -1154,6 +1169,11 @@
     "id": "T7.2",
     "path": "t_7_2",
     "biome": "T7",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.T7_2_web_orig"
+    },
     "title": {
       "en": "Sown pastures and fields"
     }
@@ -1162,6 +1182,11 @@
     "id": "T7.3",
     "path": "t_7_3",
     "biome": "T7",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.T7_3_web_orig"
+    },
     "title": {
       "en": "Plantations"
     }
@@ -1183,6 +1208,11 @@
     "id": "T7.5",
     "path": "t_7_5",
     "biome": "T7",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.T7_5_web_orig"
+    },
     "title": {
       "en": "Derived semi-natural pastures and old fields"
     }
