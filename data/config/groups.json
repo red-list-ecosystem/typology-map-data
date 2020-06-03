@@ -227,7 +227,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/F3.1.IM.orig_v1.0.json"
+      "path": "layers/F3.1.web.orig_topo.json"
     },
     "title": {
       "en": "Large reservoirs"
@@ -292,7 +292,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/FM1.1.IM.orig_v1.0.json"
+      "path": "layers/FM1.1.web.orig_topo.json"
     },
     "title": {
       "en": "Deepwater coastal inlets"
@@ -318,7 +318,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/FM1.3.IM.orig_v1.0.json"
+      "path": "layers/FM1.3.web.orig_topo.json"
     },
     "title": {
       "en": "Intermittently closed and open lakes and lagoons"
@@ -344,7 +344,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/M1.2.IM.orig_v1.0.json"
+      "path": "layers/M1.2.web.orig_topo.json"
     },
     "title": {
       "en": "Kelp forests"
@@ -370,7 +370,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/M1.4.IM.orig_v1.0.json"
+      "path": "layers/M1.4.web.orig_topo.json"
     },
     "title": {
       "en": "Shellfish beds and reefs"
@@ -381,9 +381,9 @@
     "path": "m_1_5",
     "biome": "M1",
     "layer": {
-      "source": "mapbox",
-      "type": "raster",
-      "tileset": "jrfep.M1_5_web_orig"
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/M1.5.web.orig_topo.json"
     },
     "title": {
       "en": "Photo-limited marine animal forests"
@@ -394,9 +394,9 @@
     "path": "m_1_6",
     "biome": "M1",
     "layer": {
-      "source": "mapbox",
-      "type": "raster",
-      "tileset": "jrfep.M1_6_web_orig"
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/M1.6.web.orig_topo.json"
     },
     "title": {
       "en": "Subtidal rocky reefs"
@@ -407,9 +407,9 @@
     "path": "m_1_7",
     "biome": "M1",
     "layer": {
-      "source": "mapbox",
-      "type": "raster",
-      "tileset": "jrfep.M1_7_web_orig"
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/M1.7.web.orig_topo.json"
     },
     "title": {
       "en": "Subtidal sand beds"
@@ -420,9 +420,9 @@
     "path": "m_1_8",
     "biome": "M1",
     "layer": {
-      "source": "mapbox",
-      "type": "raster",
-      "tileset": "jrfep.M1_8_web_orig"
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/M1.8.web.orig_topo.json"
     },
     "title": {
       "en": "Subtidal mud plains"
@@ -513,7 +513,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/M3.1.IM.orig_v1.0.json"
+      "path": "layers/M3.1.web.orig_topo.json"
     },
     "title": {
       "en": "Continental and island slopes"
@@ -578,7 +578,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/M3.6.IM.orig_v1.0.json"
+      "path": "layers/M3.6.web.orig_topo.json"
     },
     "title": {
       "en": "Hadal trenches and troughs"
@@ -604,7 +604,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/M4.1.IM.orig_v1.0.json"
+      "path": "layers/M4.1.web.orig_topo.json"
     },
     "title": {
       "en": "Submerged artificial structures"
@@ -617,7 +617,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/M4.2.IM.orig_v1.0.json"
+      "path": "layers/M4.2.web.orig_topo.json"
     },
     "title": {
       "en": "Marine aquafarms"
@@ -627,6 +627,11 @@
     "id": "MFT1.1",
     "path": "mft_1_1",
     "biome": "MFT1",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/MFT1.1.web.orig_topo.json"
+    },
     "title": {
       "en": "Coastal river deltas"
     }
@@ -635,6 +640,11 @@
     "id": "MFT1.2",
     "path": "mft_1_2",
     "biome": "MFT1",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/MFT1.2.web.orig_topo.json"
+    },
     "title": {
       "en": "Intertidal forests and shrublands"
     }
@@ -644,9 +654,9 @@
     "path": "mft_1_3",
     "biome": "MFT1",
     "layer": {
-      "source": "mapbox",
-      "type": "raster",
-      "tileset": "jrfep.MFT1_3_web_orig"
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/MFT1.3.web.orig_topo.json"
     },
     "title": {
       "en": "Coastal saltmarshes and reedbeds"
@@ -656,6 +666,11 @@
     "id": "MT1.1",
     "path": "mt_1_1",
     "biome": "MT1",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/MT1.1.web.orig_topo.json"
+    },
     "title": {
       "en": "Rocky Shorelines"
     }
@@ -664,6 +679,11 @@
     "id": "MT1.2",
     "path": "mt_1_2",
     "biome": "MT1",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/MT1.2.web.orig_topo.json"
+    },
     "title": {
       "en": "Muddy Shorelines"
     }
@@ -672,6 +692,11 @@
     "id": "MT1.3",
     "path": "mt_1_3",
     "biome": "MT1",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/MT1.3.web.orig_topo.json"
+    },
     "title": {
       "en": "Sandy Shorelines"
     }
@@ -680,6 +705,11 @@
     "id": "MT1.4",
     "path": "mt_1_4",
     "biome": "MT1",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/MT1.4.web.orig_topo.json"
+    },
     "title": {
       "en": "Boulder and cobble shores"
     }
@@ -696,6 +726,11 @@
     "id": "MT3.1",
     "path": "mt_3_1",
     "biome": "MT3",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/MT3.1.web.orig_topo.json"
+    },
     "title": {
       "en": "Artificial shorelines"
     }
@@ -704,6 +739,11 @@
     "id": "S1.1",
     "path": "s_1_1",
     "biome": "S1",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/S1.1.web.orig_topo.json"
+    },
     "title": {
       "en": "Aerobic caves"
     }
@@ -720,6 +760,11 @@
     "id": "S2.1",
     "path": "s_2_1",
     "biome": "S2",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/S2.1.web.orig_topo.json"
+    },
     "title": {
       "en": "Anthropogenic subterranean voids"
     }
@@ -728,6 +773,11 @@
     "id": "SF1.1",
     "path": "sf_1_1",
     "biome": "SF1",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/SF1.1.web.orig_topo.json"
+    },
     "title": {
       "en": "Underground streams and pools"
     }
@@ -736,6 +786,11 @@
     "id": "SF1.2",
     "path": "sf_1_2",
     "biome": "SF1",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/SF1.2.web.orig_topo.json"
+    },
     "title": {
       "en": "Groundwater ecosystems"
     }
@@ -765,6 +820,11 @@
     "id": "SM1.1",
     "path": "sm_1_1",
     "biome": "SM1",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/SM1.1.web.orig_topo.json"
+    },
     "title": {
       "en": "Anchialine caves"
     }
@@ -985,9 +1045,9 @@
     "path": "t_4_2",
     "biome": "T4",
     "layer": {
-      "source": "mapbox",
-      "type": "raster",
-      "tileset": "jrfep.T4_2_web_orig"
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/T4.2.web.orig_topo.json"
     },
     "title": {
       "en": "Pyric tussock savannas"
