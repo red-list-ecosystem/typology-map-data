@@ -851,6 +851,11 @@
     "id": "SM1.3",
     "path": "sm_1_3",
     "biome": "SM1",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/SM1.3.web.orig_topo.json"
+    },
     "title": {
       "en": "Sea caves"
     }
