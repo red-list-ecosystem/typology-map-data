@@ -302,6 +302,11 @@
     "id": "FM1.2",
     "path": "fm_1_2",
     "biome": "FM1",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.FM1_2_web_orig"
+    },
     "title": {
       "en": "Permanently open riverine estuaries and bays"
     }
