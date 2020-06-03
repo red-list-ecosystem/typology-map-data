@@ -718,6 +718,11 @@
     "id": "MT2.1",
     "path": "mt_2_1",
     "biome": "MT2",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.MT2_1_web_orig"
+    },
     "title": {
       "en": "Coastal shrublands and grasslands"
     }
@@ -799,6 +804,11 @@
     "id": "SF2.1",
     "path": "sf_2_1",
     "biome": "SF2",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.SF2_1_web_orig"
+    },
     "title": {
       "en": "Water pipes and subterranean canals"
     }
@@ -1268,7 +1278,7 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "tmfrnz.2f6am13w"
+      "tileset": "jrfep.T7_4_web_orig"
     },
     "title": {
       "en": "Urban and industrial ecosystems"
