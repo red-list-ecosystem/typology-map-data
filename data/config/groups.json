@@ -10,6 +10,14 @@
     },
     "title": {
       "en": "Permanent upland streams"
+    },
+    "image": {
+      "credit": {
+        "en": "Derek Ramsay on Wikimedia commons"
+      },
+      "caption": {
+        "en": "Factory Falls, Pocono Mountains, Pennsylvania"
+      }
     }
   },
   {
@@ -23,6 +31,14 @@
     },
     "title": {
       "en": "Permanent lowland rivers"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -36,6 +52,14 @@
     },
     "title": {
       "en": "Freeze-thaw rivers and streams"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -49,6 +73,14 @@
     },
     "title": {
       "en": "Seasonal upland streams"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -62,6 +94,14 @@
     },
     "title": {
       "en": "Seasonal lowland rivers"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -75,6 +115,14 @@
     },
     "title": {
       "en": "Episodic arid rivers"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -88,6 +136,14 @@
     },
     "title": {
       "en": "Large lowland rivers"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -101,6 +157,14 @@
     },
     "title": {
       "en": "Large permanent freshwater lakes"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -114,6 +178,14 @@
     },
     "title": {
       "en": "Small permanent freshwater lakes"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -122,6 +194,14 @@
     "biome": "F2",
     "title": {
       "en": "Seasonal freshwater lakes"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -130,6 +210,14 @@
     "biome": "F2",
     "title": {
       "en": "Freeze-thaw freshwater lakes"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -143,6 +231,14 @@
     },
     "title": {
       "en": "Ephemeral freshwater lakes"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -156,6 +252,14 @@
     },
     "title": {
       "en": "Permanent salt and soda lakes"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -169,6 +273,14 @@
     },
     "title": {
       "en": "Ephemeral salt lakes"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -182,6 +294,14 @@
     },
     "title": {
       "en": "Artesian springs and oases"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -195,6 +315,14 @@
     },
     "title": {
       "en": "Geothermal pools and wetlands"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -208,6 +336,14 @@
     },
     "title": {
       "en": "Subglacial lakes"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -221,6 +357,14 @@
     },
     "title": {
       "en": "Large reservoirs"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -234,6 +378,14 @@
     },
     "title": {
       "en": "Constructed lacustrine wetlands"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -247,6 +399,14 @@
     },
     "title": {
       "en": "Rice paddies"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -260,6 +420,14 @@
     },
     "title": {
       "en": "Freshwater aquafarms"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -273,6 +441,14 @@
     },
     "title": {
       "en": "Canals, ditches and drains"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -286,6 +462,14 @@
     },
     "title": {
       "en": "Deepwater coastal inlets"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -294,6 +478,14 @@
     "biome": "FM1",
     "title": {
       "en": "Permanently open riverine estuaries and bays"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -307,6 +499,14 @@
     },
     "title": {
       "en": "Intermittently closed and open lakes and lagoons"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -320,6 +520,14 @@
     },
     "title": {
       "en": "Seagrass meadows"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -333,6 +541,14 @@
     },
     "title": {
       "en": "Kelp forests"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -346,6 +562,14 @@
     },
     "title": {
       "en": "Photic coral reefs"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -359,6 +583,14 @@
     },
     "title": {
       "en": "Shellfish beds and reefs"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -372,6 +604,14 @@
     },
     "title": {
       "en": "Photo-limited marine animal forests"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -385,6 +625,14 @@
     },
     "title": {
       "en": "Subtidal rocky reefs"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -398,6 +646,14 @@
     },
     "title": {
       "en": "Subtidal sand beds"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -411,6 +667,14 @@
     },
     "title": {
       "en": "Subtidal mud plains"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -424,6 +688,14 @@
     },
     "title": {
       "en": "Upwelling zones"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -437,6 +709,14 @@
     },
     "title": {
       "en": "Epipelagic ocean waters"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -450,6 +730,14 @@
     },
     "title": {
       "en": "Mesopelagic ocean water"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -463,6 +751,14 @@
     },
     "title": {
       "en": "Bathypelagic ocean waters"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -476,6 +772,14 @@
     },
     "title": {
       "en": "Abyssopelagic ocean waters"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -489,6 +793,14 @@
     },
     "title": {
       "en": "Sea ice"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -502,6 +814,14 @@
     },
     "title": {
       "en": "Continental and island slopes"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -515,6 +835,14 @@
     },
     "title": {
       "en": "Submarine canyons"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -528,6 +856,14 @@
     },
     "title": {
       "en": "Abyssal plains"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -541,6 +877,14 @@
     },
     "title": {
       "en": "Seamounts, ridges and plateaus"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -554,6 +898,14 @@
     },
     "title": {
       "en": "Deepwater biogenic beds"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -567,6 +919,14 @@
     },
     "title": {
       "en": "Hadal trenches and troughs"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -580,6 +940,14 @@
     },
     "title": {
       "en": "Chemosynthetic-based-ecosystems (CBE)"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -593,6 +961,14 @@
     },
     "title": {
       "en": "Submerged artificial structures"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -606,6 +982,14 @@
     },
     "title": {
       "en": "Marine aquafarms"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -614,6 +998,14 @@
     "biome": "MFT1",
     "title": {
       "en": "Coastal river deltas"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -622,6 +1014,14 @@
     "biome": "MFT1",
     "title": {
       "en": "Intertidal forests and shrublands"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -635,6 +1035,14 @@
     },
     "title": {
       "en": "Coastal saltmarshes and reedbeds"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -643,6 +1051,14 @@
     "biome": "MT1",
     "title": {
       "en": "Rocky Shorelines"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -651,6 +1067,14 @@
     "biome": "MT1",
     "title": {
       "en": "Muddy Shorelines"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -659,6 +1083,14 @@
     "biome": "MT1",
     "title": {
       "en": "Sandy Shorelines"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -667,6 +1099,14 @@
     "biome": "MT1",
     "title": {
       "en": "Boulder and cobble shores"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -675,6 +1115,14 @@
     "biome": "MT2",
     "title": {
       "en": "Coastal shrublands and grasslands"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -683,6 +1131,14 @@
     "biome": "MT3",
     "title": {
       "en": "Artificial shorelines"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -691,6 +1147,14 @@
     "biome": "S1",
     "title": {
       "en": "Aerobic caves"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -699,6 +1163,14 @@
     "biome": "S1",
     "title": {
       "en": "Endolithic systems"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -707,6 +1179,14 @@
     "biome": "S2",
     "title": {
       "en": "Anthropogenic subterranean voids"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -715,6 +1195,14 @@
     "biome": "SF1",
     "title": {
       "en": "Underground streams and pools"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -723,6 +1211,14 @@
     "biome": "SF1",
     "title": {
       "en": "Groundwater ecosystems"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -731,6 +1227,14 @@
     "biome": "SF2",
     "title": {
       "en": "Water pipes and subterranean canals"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -739,6 +1243,14 @@
     "biome": "SM1",
     "title": {
       "en": "Anchialine caves"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -752,6 +1264,14 @@
     },
     "title": {
       "en": "Tropical/Subtropical lowland rainforests"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -765,6 +1285,14 @@
     },
     "title": {
       "en": "Tropical/Subtropical dry forests and scrubs"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -778,6 +1306,14 @@
     },
     "title": {
       "en": "Tropical/Subtropical montane rainforests"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -791,6 +1327,14 @@
     },
     "title": {
       "en": "Tropical heath forests"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -799,6 +1343,14 @@
     "biome": "T2",
     "title": {
       "en": "Boreal and temperate montane forests and woodlands"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -812,6 +1364,14 @@
     },
     "title": {
       "en": "Deciduous temperate forests"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -820,6 +1380,14 @@
     "biome": "T2",
     "title": {
       "en": "Oceanic temperate rainforests"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -828,6 +1396,14 @@
     "biome": "T2",
     "title": {
       "en": "Warm temperate rainforests"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -841,6 +1417,14 @@
     },
     "title": {
       "en": "Temperate pyric humid forests"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -849,6 +1433,14 @@
     "biome": "T2",
     "title": {
       "en": "Temperate pyric sclerophyll forests and woodlands"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -857,6 +1449,14 @@
     "biome": "T3",
     "title": {
       "en": "Seasonally dry tropical shrublands"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -865,6 +1465,14 @@
     "biome": "T3",
     "title": {
       "en": "Seasonally dry temperate heath and shrublands"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -873,6 +1481,14 @@
     "biome": "T3",
     "title": {
       "en": "Cool temperate heathlands"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -881,6 +1497,14 @@
     "biome": "T3",
     "title": {
       "en": "Rocky pavements, screes and lava flows"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -889,6 +1513,14 @@
     "biome": "T4",
     "title": {
       "en": "Trophic savannas"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -897,6 +1529,14 @@
     "biome": "T4",
     "title": {
       "en": "Pyric tussock savannas"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -910,6 +1550,14 @@
     },
     "title": {
       "en": "Hummock savannas"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -923,6 +1571,14 @@
     },
     "title": {
       "en": "Temperate wooded savannas"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -936,6 +1592,14 @@
     },
     "title": {
       "en": "Temperate grasslands"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -949,6 +1613,14 @@
     },
     "title": {
       "en": "Semi-desert steppes"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -962,6 +1634,14 @@
     },
     "title": {
       "en": "Succulent or Thorny deserts and semi-deserts"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -975,6 +1655,14 @@
     },
     "title": {
       "en": "Sclerophyll hot deserts and semi-deserts"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -988,6 +1676,14 @@
     },
     "title": {
       "en": "Cool deserts and semi-deserts"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -1001,6 +1697,14 @@
     },
     "title": {
       "en": "Hyper-arid deserts"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -1009,6 +1713,14 @@
     "biome": "T6",
     "title": {
       "en": "Ice sheets, glaciers and perennial snowfields"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -1017,6 +1729,14 @@
     "biome": "T6",
     "title": {
       "en": "Polar/alpine cliffs, screes, outcrops and lava flows"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -1025,6 +1745,14 @@
     "biome": "T6",
     "title": {
       "en": "Polar tundra"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -1033,6 +1761,14 @@
     "biome": "T6",
     "title": {
       "en": "Temperate alpine meadows and shrublands"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -1041,6 +1777,14 @@
     "biome": "T6",
     "title": {
       "en": "Tropical alpine grasslands and herbfields"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -1049,6 +1793,14 @@
     "biome": "T7",
     "title": {
       "en": "Croplands"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -1057,6 +1809,14 @@
     "biome": "T7",
     "title": {
       "en": "Sown pastures and old fields"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -1065,6 +1825,14 @@
     "biome": "T7",
     "title": {
       "en": "Plantations"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -1078,6 +1846,14 @@
     },
     "title": {
       "en": "Urban and infrastructure lands"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -1086,6 +1862,14 @@
     "biome": "T7",
     "title": {
       "en": "Derived semi-natural pastures and old fields"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -1099,6 +1883,14 @@
     },
     "title": {
       "en": "Tropical flooded forests and peat forests"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -1107,6 +1899,14 @@
     "biome": "TF1",
     "title": {
       "en": "Subtropical/temperate forested wetlands"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -1120,6 +1920,14 @@
     },
     "title": {
       "en": "Permanent marshes"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -1133,6 +1941,14 @@
     },
     "title": {
       "en": "Seasonal floodplain marshes"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -1141,6 +1957,14 @@
     "biome": "TF1",
     "title": {
       "en": "Episodic arid floodplains"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -1154,6 +1978,14 @@
     },
     "title": {
       "en": "Boreal, temperate and montane peat bogs"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   },
   {
@@ -1167,6 +1999,14 @@
     },
     "title": {
       "en": "Boreal and temperate fens"
+    },
+    "image": {
+      "credit": {
+        "en": ""
+      },
+      "caption": {
+        "en": ""
+      }
     }
   }
 ]
