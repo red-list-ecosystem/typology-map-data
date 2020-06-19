@@ -1054,9 +1054,9 @@
     "path": "mft_1_3",
     "biome": "MFT1",
     "layer": {
-      "source": "github",
-      "type": "topojson",
-      "path": "layers/MFT1.3.web.orig_topo.json"
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.MFT1_3_web_orig"
     },
     "title": {
       "en": "Coastal saltmarshes and reedbeds"
