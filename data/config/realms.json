@@ -15,7 +15,8 @@
       },
       "caption": {
         "en": ""
-      }
+      },
+      "verticalAlign": "top"
     }
   },
   {
@@ -123,7 +124,7 @@
     },
     "image": {
       "credit": {
-        "en": "'The Tunnel of Atlantis - Tunel de la Atlantida' by Perlaroques, licensed under CC BY-NC-ND 2.0"
+        "en": "Perlaroques on Flickr, licensed under CC BY-NC-ND 2.0"
       },
       "caption": {
         "en": ""

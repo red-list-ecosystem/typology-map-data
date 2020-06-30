@@ -1036,9 +1036,9 @@
     "path": "mft_1_2",
     "biome": "MFT1",
     "layer": {
-      "source": "github",
-      "type": "topojson",
-      "path": "layers/MFT1.2.web.orig_topo.json"
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.MFT1_2_web_orig"
     },
     "title": {
       "en": "Intertidal forests and shrublands"
@@ -1057,9 +1057,9 @@
     "path": "mft_1_3",
     "biome": "MFT1",
     "layer": {
-      "source": "github",
-      "type": "topojson",
-      "path": "layers/MFT1.3.web.orig_topo.json"
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.MFT1_3_web_orig"
     },
     "title": {
       "en": "Coastal saltmarshes and reedbeds"
@@ -1099,9 +1099,9 @@
     "path": "mt_1_2",
     "biome": "MT1",
     "layer": {
-      "source": "github",
-      "type": "topojson",
-      "path": "layers/MT1.2.web.orig_topo.json"
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.MT1_2_IM_orig"
     },
     "title": {
       "en": "Muddy Shorelines"
@@ -1404,9 +1404,9 @@
     "path": "t_1_1",
     "biome": "T1",
     "layer": {
-      "source": "github",
-      "type": "topojson",
-      "path": "layers/T1.1.web.orig_topo.json"
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.T1_1_web_mix"
     },
     "title": {
       "en": "Tropical/Subtropical lowland rainforests"
@@ -1427,7 +1427,7 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "jrfep.T1_2_web_orig"
+      "tileset": "jrfep.T1_2_web_mix"
     },
     "title": {
       "en": "Tropical/Subtropical dry forests and scrubs"
@@ -1488,9 +1488,9 @@
     "path": "t_2_1",
     "biome": "T2",
     "layer": {
-      "source": "github",
-      "type": "topojson",
-      "path": "layers/T2.1.web.orig_topo.json"
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.T2_1_web_mix"
     },
     "title": {
       "en": "Boreal and temperate montane forests and woodlands"
@@ -1509,9 +1509,9 @@
     "path": "t_2_2",
     "biome": "T2",
     "layer": {
-      "source": "github",
-      "type": "topojson",
-      "path": "layers/T2.2.web.orig_topo.json"
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.T2_2_web_mix"
     },
     "title": {
       "en": "Deciduous temperate forests"
@@ -1551,9 +1551,9 @@
     "path": "t_2_4",
     "biome": "T2",
     "layer": {
-      "source": "github",
-      "type": "topojson",
-      "path": "layers/T2.4.web.orig_topo.json"
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.T2_4_web_mix"
     },
     "title": {
       "en": "Warm temperate laurophyll forests"
@@ -1572,9 +1572,9 @@
     "path": "t_2_5",
     "biome": "T2",
     "layer": {
-      "source": "github",
-      "type": "topojson",
-      "path": "layers/T2.5.web.orig_topo.json"
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.T2_5_web_mix"
     },
     "title": {
       "en": "Temperate pyric humid forests"
@@ -1656,9 +1656,9 @@
     "path": "t_3_3",
     "biome": "T3",
     "layer": {
-      "source": "github",
-      "type": "topojson",
-      "path": "layers/T3.3.web.orig_topo.json"
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.T3_3_web_mix"
     },
     "title": {
       "en": "Cool temperate heathlands"
@@ -1677,9 +1677,9 @@
     "path": "t_3_4",
     "biome": "T3",
     "layer": {
-      "source": "github",
-      "type": "topojson",
-      "path": "layers/T3.4.web.orig_topo.json"
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.T3_4_web_mix"
     },
     "title": {
       "en": "Young rocky pavements, lava flows and screes"
@@ -1803,9 +1803,9 @@
     "path": "t_5_1",
     "biome": "T5",
     "layer": {
-      "source": "github",
-      "type": "topojson",
-      "path": "layers/T5.1.web.orig_topo.json"
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.T5_1_web_mix"
     },
     "title": {
       "en": "Semi-desert steppe"
@@ -1824,9 +1824,9 @@
     "path": "t_5_2",
     "biome": "T5",
     "layer": {
-      "source": "github",
-      "type": "topojson",
-      "path": "layers/T5.2.web.orig_topo.json"
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.T5_2_web_mix"
     },
     "title": {
       "en": "Succulent or Thorny deserts and semi-deserts"
@@ -1845,9 +1845,9 @@
     "path": "t_5_3",
     "biome": "T5",
     "layer": {
-      "source": "github",
-      "type": "topojson",
-      "path": "layers/T5.3.web.orig_topo.json"
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.T5_3_web_mix"
     },
     "title": {
       "en": "Sclerophyll hot deserts and semi-deserts"
@@ -1857,7 +1857,7 @@
         "en": "S.D. Hopper"
       },
       "caption": {
-        "en": "Hummock grasses, Great Victoria Desert, AustraliaTurmeric and Twine"
+        "en": "Hummock grasses, Great Victoria Desert, Australia"
       }
     }
   },
@@ -1866,9 +1866,9 @@
     "path": "t_5_4",
     "biome": "T5",
     "layer": {
-      "source": "github",
-      "type": "topojson",
-      "path": "layers/T5.4.web.orig_topo.json"
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.T5_4_web_mix"
     },
     "title": {
       "en": "Cool deserts and semi-deserts"
@@ -1887,9 +1887,9 @@
     "path": "t_5_5",
     "biome": "T5",
     "layer": {
-      "source": "github",
-      "type": "topojson",
-      "path": "layers/T5.5.web.orig_topo.json"
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.T5_5_web_mix"
     },
     "title": {
       "en": "Hyper-arid deserts"
@@ -1910,7 +1910,7 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "jrfep.T6_1_web_orig"
+      "tileset": "jrfep.T6_1_web_mix"
     },
     "title": {
       "en": "Ice sheets, glaciers and perennial snowfields"
@@ -1952,7 +1952,7 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "jrfep.T6_3_web_orig"
+      "tileset": "jrfep.T6_3_web_mix"
     },
     "title": {
       "en": "Polar tundra and deserts"
@@ -1971,9 +1971,9 @@
     "path": "t_6_4",
     "biome": "T6",
     "layer": {
-      "source": "github",
-      "type": "topojson",
-      "path": "layers/T6.4.web.orig_topo.json"
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.T6_4_web_mix"
     },
     "title": {
       "en": "Temperate alpine grasslands and shrublands"
@@ -1992,9 +1992,9 @@
     "path": "t_6_5",
     "biome": "T6",
     "layer": {
-      "source": "github",
-      "type": "topojson",
-      "path": "layers/T6.5.web.orig_topo.json"
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.T6_5_web_mix"
     },
     "title": {
       "en": "Tropical alpine grasslands and herbfields"
@@ -2013,9 +2013,9 @@
     "path": "t_7_1",
     "biome": "T7",
     "layer": {
-      "source": "github",
-      "type": "topojson",
-      "path": "layers/T7.1.web.orig_topo.json"
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.T7_1_web_mix"
     },
     "title": {
       "en": "Annual croplands"
@@ -2036,7 +2036,7 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "jrfep.T7_2_web_orig"
+      "tileset": "jrfep.T7_2_web_mix"
     },
     "title": {
       "en": "Sown pastures and fields"
@@ -2057,7 +2057,7 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "jrfep.T7_3_web_orig"
+      "tileset": "jrfep.T7_3_web_mix"
     },
     "title": {
       "en": "Plantations"
@@ -2099,7 +2099,7 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "jrfep.T7_5_web_orig"
+      "tileset": "jrfep.T7_5_web_mix"
     },
     "title": {
       "en": "Derived semi-natural pastures and old fields"
