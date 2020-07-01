@@ -581,6 +581,9 @@
     "title": {
       "en": "Photic coral reefs"
     },
+    "keywords": {
+      "en": "biogenic"
+    },
     "image": {
       "credit": {
         "en": "Brian Stockwell"
@@ -602,6 +605,9 @@
     "title": {
       "en": "Shellfish beds and reefs"
     },
+    "keywords": {
+      "en": "biogenic"
+    },
     "image": {
       "credit": {
         "en": "Chris Gillies, The Nature Conservancy"
@@ -622,6 +628,9 @@
     },
     "title": {
       "en": "Photo-limited marine animal forests"
+    },
+    "keywords": {
+      "en": "biogenic,coral"
     },
     "image": {
       "credit": {
