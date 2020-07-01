@@ -1591,6 +1591,9 @@
     "title": {
       "en": "Temperate pyric humid forests"
     },
+    "keywords": {
+      "en": "fire,pyrogenic"
+    },
     "image": {
       "credit": {
         "en": "David Keith"
@@ -1611,6 +1614,9 @@
     },
     "title": {
       "en": "Temperate pyric sclerophyll forests and woodlands"
+    },
+    "keywords": {
+      "en": "fire,pyrogenic"
     },
     "image": {
       "credit": {
@@ -1737,6 +1743,9 @@
     },
     "title": {
       "en": "Pyric tussock savannas"
+    },
+    "keywords": {
+      "en": "fire,pyrogenic"
     },
     "image": {
       "credit": {
