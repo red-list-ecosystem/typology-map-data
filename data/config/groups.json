@@ -1043,6 +1043,9 @@
     "title": {
       "en": "Intertidal forests and shrublands"
     },
+    "keywords": {
+      "en": "Mangroves"
+    },
     "image": {
       "credit": {
         "en": "Maxwell Ridgeway on Unsplash"
@@ -1998,6 +2001,10 @@
     },
     "title": {
       "en": "Tropical alpine grasslands and herbfields"
+    },
+    "keywords": {
+      "en": "andes,afroalpine,paramo",
+      "es": "páramo"
     },
     "image": {
       "credit": {
