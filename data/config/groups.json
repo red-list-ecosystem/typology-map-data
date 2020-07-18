@@ -583,7 +583,11 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "jrfep.M1_3_web_orig"
+      "tileset": "jrfep.M1_3_web_orig",
+      "extent": {
+        "N": "35",
+        "S": "35"
+      }
     },
     "title": {
       "en": "Photic coral reefs"
