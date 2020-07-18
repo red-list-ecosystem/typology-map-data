@@ -493,7 +493,13 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "jrfep.FM1_2_web_orig"
+      "tileset": "jrfep.FM1_2_web_orig",
+      "extent": {
+        "N": "62",
+        "S": "50",
+        "W": "123",
+        "E": "180"
+      }
     },
     "title": {
       "en": "Permanently open riverine estuaries and bays"
