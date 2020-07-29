@@ -388,7 +388,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/F3.2.web.orig_topo.json"
+      "path": "layers/F3.2.web.orig_v1.0_topo.json"
     },
     "title": {
       "en": "Constructed lacustrine wetlands"
@@ -430,7 +430,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/F3.4.web.orig_topo.json"
+      "path": "layers/F3.4.web.orig_v1.0_topo.json"
     },
     "title": {
       "en": "Freshwater aquafarms"
@@ -451,7 +451,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/F3.5.web.orig_topo.json"
+      "path": "layers/F3.5.web.orig_v1.0_topo.json"
     },
     "title": {
       "en": "Canals, ditches and drains"
@@ -1327,9 +1327,9 @@
     "path": "sf_2_1",
     "biome": "SF2",
     "layer": {
-      "source": "mapbox",
-      "type": "raster",
-      "tileset": "jrfep.SF2_1_web_orig"
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/SF2.1.web.orig_v1.0_topo.json"
     },
     "title": {
       "en": "Water pipes and subterranean canals"
@@ -1492,7 +1492,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/T1.4.web.orig_topo.json"
+      "path": "layers/T1.4.web.orig_v2.0_topo.json
     },
     "title": {
       "en": "Tropical heath forests"
@@ -1555,7 +1555,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/T2.3.web.orig_topo.json"
+      "path": "layers/T2.3.web.orig_v1.0_topo.json"
     },
     "title": {
       "en": "Oceanic cool temperate rainforests"
@@ -1574,9 +1574,9 @@
     "path": "t_2_4",
     "biome": "T2",
     "layer": {
-      "source": "mapbox",
-      "type": "raster",
-      "tileset": "jrfep.T2_4_web_mix"
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/T2.4.web.orig_v2.0_topo.json"
     },
     "title": {
       "en": "Warm temperate laurophyll forests"
@@ -1645,7 +1645,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/T3.1.web.orig_topo.json"
+      "path": "layers/T3.1.web.orig_v2.0_topo.json"
     },
     "title": {
       "en": "Seasonally dry tropical shrublands"
@@ -1666,7 +1666,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/T3.2.web.orig_topo.json"
+      "path": "layers/T3.2.web.orig_v1.0_topo.json"
     },
     "title": {
       "en": "Seasonally dry temperate heath and shrublands"
@@ -1774,7 +1774,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/T4.3.web.orig_topo.json"
+      "path": "layers/T4.3.web.orig_v1.0_topo.json"
     },
     "title": {
       "en": "Hummock savannas"
@@ -1795,7 +1795,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/T4.4.web.orig_topo.json"
+      "path": "layers/T4.4.web.orig_v1.0_topo.json"
     },
     "title": {
       "en": "Temperate woodlands"
@@ -1816,7 +1816,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/T4.5.web.orig_topo.json"
+      "path": "layers/T4.5.web.orig_v1.0_topo.json"
     },
     "title": {
       "en": "Temperate subhumid grasslands"
@@ -2003,9 +2003,9 @@
     "path": "t_6_4",
     "biome": "T6",
     "layer": {
-      "source": "mapbox",
-      "type": "raster",
-      "tileset": "jrfep.T6_4_web_mix"
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/T6.4.web.orig_v1.0_topo.json"
     },
     "title": {
       "en": "Temperate alpine grasslands and shrublands"
@@ -2198,7 +2198,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/TF1.3.web.orig_topo.json"
+      "path": "layers/TF1.3.web.orig_v1.0_topo.json"
     },
     "title": {
       "en": "Permanent marshes"
@@ -2261,7 +2261,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/TF1.6.web.orig_topo.json"
+      "path": "layers/TF1.6.web.orig_v1.0_topo.json"
     },
     "title": {
       "en": "Boreal, temperate and montane peat bogs"
@@ -2282,7 +2282,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/TF1.7.web.orig_topo.json"
+      "path": "layers/TF1.7.web.orig_v1.0_topo.json"
     },
     "title": {
       "en": "Boreal and temperate fens"
