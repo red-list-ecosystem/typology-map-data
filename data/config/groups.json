@@ -199,7 +199,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/F2.3.web.orig_topo.json"
+      "path": "layers/F2.3.web.mix_v2.0_topo.json"
     },
     "title": {
       "en": "Seasonal freshwater lakes"
@@ -241,7 +241,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/F2.5.web.orig_topo.json"
+      "path": "layers/F2.5.web.mix_v1.0_topo.json"
     },
     "title": {
       "en": "Ephemeral freshwater lakes"
@@ -262,7 +262,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/F2.6.web.orig_topo.json"
+      "path": "layers/F2.6.web.mix_v4.0_topo.json"
     },
     "title": {
       "en": "Permanent salt and soda lakes"
@@ -283,7 +283,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/F2.7.web.orig_topo.json"
+      "path": "layers/F2.7.web.mix_v1.0_topo.json"
     },
     "title": {
       "en": "Ephemeral salt lakes"
@@ -367,7 +367,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/F3.1.web.orig_topo.json"
+      "path": "layers/F3.1.web.orig_v1.0_topo.json"
     },
     "title": {
       "en": "Large reservoirs"
@@ -472,7 +472,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/FM1.1.web.orig_topo.json"
+      "path": "layers/FM1.1.web.alt_v3.0_topo.json"
     },
     "title": {
       "en": "Deepwater coastal inlets"
@@ -491,15 +491,9 @@
     "path": "fm_1_2",
     "biome": "FM1",
     "layer": {
-      "source": "mapbox",
-      "type": "raster",
-      "tileset": "jrfep.FM1_2_web_orig",
-      "extent": {
-        "N": "62",
-        "S": "50",
-        "W": "123",
-        "E": "180"
-      }
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/FM1.2.web.orig_v2.0_topo.json"
     },
     "title": {
       "en": "Permanently open riverine estuaries and bays"
@@ -520,7 +514,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/FM1.3.web.orig_topo.json"
+      "path": "layers/FM1.3.web.orig_v2.0_topo.json"
     },
     "title": {
       "en": "Intermittently closed and open lakes and lagoons"
@@ -539,9 +533,9 @@
     "path": "m_1_1",
     "biome": "M1",
     "layer": {
-      "source": "mapbox",
-      "type": "raster",
-      "tileset": "jrfep.M1_1_web_orig"
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/M1.1.web.orig_v1.0_topo.json"
     },
     "title": {
       "en": "Seagrass meadows"
@@ -720,9 +714,9 @@
     "path": "m_1_9",
     "biome": "M1",
     "layer": {
-      "source": "mapbox",
-      "type": "raster",
-      "tileset": "jrfep.M1_9_web_orig"
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/M1.9.web.orig_v1.0_topo.json"
     },
     "title": {
       "en": "Upwelling zones"
@@ -783,9 +777,9 @@
     "path": "m_2_3",
     "biome": "M2",
     "layer": {
-      "source": "mapbox",
-      "type": "raster",
-      "tileset": "jrfep.55l4qies"
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/M2.3.web.orig_v1.0_topo.json"
     },
     "title": {
       "en": "Bathypelagic ocean waters"
@@ -848,7 +842,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/M3.1.web.orig_topo.json"
+      "path": "layers/M3.1.web.orig_v1.0_topo.json"
     },
     "title": {
       "en": "Continental and island slopes"
@@ -972,9 +966,9 @@
     "path": "m_3_7",
     "biome": "M3",
     "layer": {
-      "source": "mapbox",
-      "type": "raster",
-      "tileset": "jrfep.M3_7_web_orig"
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/M3.7.web.orig_v1.0_topo.json"
     },
     "title": {
       "en": "Chemosynthetic-based-ecosystems (CBE)"
@@ -995,7 +989,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/M4.1.web.orig_topo.json"
+      "path": "layers/M4.1.web.orig_v1.0_topo.json"
     },
     "title": {
       "en": "Submerged artificial structures"
@@ -1016,7 +1010,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/M4.2.web.orig_topo.json"
+      "path": "layers/M4.2.web.orig_v1.0_topo.json"
     },
     "title": {
       "en": "Marine aquafarms"
@@ -1037,7 +1031,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/MFT1.1.web.orig_topo.json"
+      "path": "layers/MFT1.1.web.orig_v1.0_topo.json"
     },
     "title": {
       "en": "Coastal river deltas"
@@ -1122,9 +1116,9 @@
     "path": "mt_1_2",
     "biome": "MT1",
     "layer": {
-      "source": "mapbox",
-      "type": "raster",
-      "tileset": "jrfep.MT1_2_IM_orig"
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/MT1.2.web.orig_v1.0_topo.json"
     },
     "title": {
       "en": "Muddy Shorelines"
@@ -1145,7 +1139,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/MT1.3.web.orig_topo.json"
+      "path": "layers/MT1.3.web.grid_v1.0_topo.json"
     },
     "title": {
       "en": "Sandy Shorelines"
@@ -1266,7 +1260,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/S2.1.web.orig_topo.json"
+      "path": "layers/S2.1.web.orig_v1.0_topo.json"
     },
     "title": {
       "en": "Anthropogenic subterranean voids"
@@ -1287,7 +1281,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/SF1.1.web.orig_topo.json"
+      "path": "layers/SF1.1.web.orig_v1.0_topo.json"
     },
     "title": {
       "en": "Underground streams and pools"
@@ -1308,7 +1302,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/SF1.2.web.orig_topo.json"
+      "path": "layers/SF1.2.web.orig_v1.0_topo.json"
     },
     "title": {
       "en": "Groundwater ecosystems"
@@ -1350,7 +1344,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/SF2.2.web.orig_topo.json"
+      "path": "layers/SF2.2.web.orig_v1.0_topo.json"
     },
     "title": {
       "en": "Flooded mines and other voids"
@@ -1371,7 +1365,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/SM1.1.web.orig_topo.json"
+      "path": "layers/SM1.1.web.grid_v3.0_topo.json"
     },
     "title": {
       "en": "Anchialine caves"
@@ -1389,6 +1383,11 @@
     "id": "SM1.2",
     "path": "sm_1_2",
     "biome": "SM1",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/SM1.1.web.grid_v3.0_topo.json"
+    },
     "title": {
       "en": "Anchialine pools"
     },
@@ -1408,7 +1407,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/SM1.3.web.orig_topo.json"
+      "path": "layers/SM1.3.web.grid_v3.0_topo.json"
     },
     "title": {
       "en": "Sea caves"
@@ -1963,7 +1962,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/T6.2.web.orig_topo.json"
+      "path": "layers/T6.2.web.alt_v2.0_topo.json"
     },
     "title": {
       "en": "Polar/alpine cliffs, screes, outcrops and lava flows"
@@ -2156,7 +2155,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/TF1.1.web.orig_topo.json"
+      "path": "layers/TF1.1.web.mix_v2.0_topo.json"
     },
     "title": {
       "en": "Tropical flooded forests and peat forests"
@@ -2177,7 +2176,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/TF1.2.web.orig_topo.json"
+      "path": "layers/TF1.2.web.orig_v2.0_topo.json"
     },
     "title": {
       "en": "Subtropical/temperate forested wetlands"
@@ -2219,7 +2218,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/TF1.4.web.orig_topo.json"
+      "path": "layers/TF1.4.web.mix_v1.0_topo.json"
     },
     "title": {
       "en": "Seasonal floodplain marshes"
@@ -2240,7 +2239,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/TF1.5.web.orig_topo.json"
+      "path": "layers/TF1.5.web.alt_v2.0_topo.json"
     },
     "title": {
       "en": "Episodic arid floodplains"
