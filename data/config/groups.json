@@ -157,7 +157,13 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "jrfep.F2_1_web_orig"
+      "tileset": "jrfep.F2_1_web_alt",
+      "extent": {
+        "N": "90",
+        "S": "-90",
+        "W": "-180",
+        "E": "180"
+      }
     },
     "title": {
       "en": "Large permanent freshwater lakes"
@@ -580,7 +586,9 @@
       "tileset": "jrfep.M1_3_web_orig",
       "extent": {
         "N": "35",
-        "S": "35"
+        "S": "35",
+        "W": "-180",
+        "E": "180"
       }
     },
     "title": {
@@ -1353,7 +1361,7 @@
     },
     "title": {
       "en": "Flooded mines and other voids"
-   },
+    },
     "image": {
       "credit": {
         "en": "Jill Heinerth"
