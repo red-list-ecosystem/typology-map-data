@@ -2361,9 +2361,9 @@
     "path": "tf_1_1",
     "biome": "TF1",
     "layer": {
-      "source": "github",
-      "type": "topojson",
-      "path": "layers/TF1.1.web.mix_v2.0_topo.json"
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.TF1_1_web_map"
     },
     "title": {
       "en": "Tropical flooded forests and peat forests"
@@ -2424,9 +2424,9 @@
     "path": "tf_1_4",
     "biome": "TF1",
     "layer": {
-      "source": "github",
-      "type": "topojson",
-      "path": "layers/TF1.4.web.mix_v1.0_topo.json"
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.TF1_4_web_map"
     },
     "title": {
       "en": "Seasonal floodplain marshes"
@@ -2445,9 +2445,9 @@
     "path": "tf_1_5",
     "biome": "TF1",
     "layer": {
-      "source": "github",
-      "type": "topojson",
-      "path": "layers/TF1.5.web.alt_v2.0_topo.json"
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.TF1_5_web_map"
     },
     "title": {
       "en": "Episodic arid floodplains"
