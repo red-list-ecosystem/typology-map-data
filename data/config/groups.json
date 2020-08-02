@@ -5,7 +5,7 @@
     "biome": "F1",
     "layer": {
       "source": "mapbox",
-      "path": "layers/F1.1.web.orig_topo.json",
+      "type": "raster",
       "tileset": "jrfep.F1_1_web_mix",
       "extent": {
         "N": "85",
@@ -34,9 +34,15 @@
     "path": "f_1_2",
     "biome": "F1",
     "layer": {
-      "source": "github",
-      "type": "topojson",
-      "path": "layers/F1.2.web.orig_topo.json"
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.F1_2_web_map",
+      "extent": {
+        "N": "85",
+        "S": "90",
+        "W": "170",
+        "E": "180"
+      }
     },
     "title": {
       "en": "Permanent lowland rivers"
@@ -56,8 +62,8 @@
     "biome": "F1",
     "layer": {
       "source": "mapbox",
-      "path": "layers/F1.3.web.orig_topo.json",
-      "tileset": "jrfep.F1_3_web_grid",
+      "type": "raster",
+      "tileset": "jrfep.F1_3_web_map",
       "extent": {
         "N": "85",
         "S": "90",
@@ -83,8 +89,8 @@
     "biome": "F1",
     "layer": {
       "source": "mapbox",
-      "path": "layers/F1.4.web.orig_topo.json",
-      "tileset": "jrfep.F1_4_web_grid",
+      "type": "raster",
+      "tileset": "jrfep.F1_4_web_map",
       "extent": {
         "N": "85",
         "S": "90",
@@ -109,9 +115,15 @@
     "path": "f_1_5",
     "biome": "F1",
     "layer": {
-      "source": "github",
-      "type": "topojson",
-      "path": "layers/F1.5.web.orig_topo.json"
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.F1_5_web_map",
+      "extent": {
+        "N": "85",
+        "S": "90",
+        "W": "170",
+        "E": "180"
+      }
     },
     "title": {
       "en": "Seasonal lowland rivers"
@@ -131,7 +143,7 @@
     "biome": "F1",
     "layer": {
       "source": "mapbox",
-      "path": "layers/F1.6.web.orig_topo.json",
+      "type": "raster",
       "tileset": "jrfep.F1_6_web_mix",
       "extent": {
         "N": "85",
@@ -207,7 +219,7 @@
     "biome": "F2",
     "layer": {
       "source": "mapbox",
-      "path": "layers/F2.2.web.orig_topo.json",
+      "type": "raster",
       "tileset": "jrfep.F2_2_web_mix",
       "extent": {
         "N": "85",
@@ -738,7 +750,6 @@
     "biome": "M1",
     "layer": {
       "source": "mapbox",
-      "path": "layers/M1.6.web.orig_topo.json",
       "tileset": "jrfep.M1_6_web_orig",
       "extent": {
         "N": "85",
