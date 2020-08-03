@@ -1242,12 +1242,13 @@
     "biome": "MT1",
     "layer": {
       "source": "mapbox",
+      "type": "raster",
       "tileset": "jrfep.MT1_1_web_map",
       "extent": {
         "N": "70",
         "S": "70",
-        "W": "179",
-        "E": "179"
+        "W": "129",
+        "E": "129"
       }
     },
     "title": {
@@ -1267,9 +1268,15 @@
     "path": "mt_1_2",
     "biome": "MT1",
     "layer": {
-      "source": "github",
-      "type": "topojson",
-      "path": "layers/MT1.2.web.orig_v1.0_topo.json"
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.MT1_2_web_map",
+      "extent": {
+        "N": "70",
+        "S": "70",
+        "W": "129",
+        "E": "129"
+      }
     },
     "title": {
       "en": "Muddy Shorelines"
