@@ -1242,13 +1242,12 @@
     "biome": "MT1",
     "layer": {
       "source": "mapbox",
-      "path": "layers/MT1.1.web.orig_topo.json",
-      "tileset": "jrfep.MT1_1_web_grid",
+      "tileset": "jrfep.MT1_1_web_map",
       "extent": {
-        "N": "85",
-        "S": "90",
-        "W": "170",
-        "E": "180"
+        "N": "70",
+        "S": "70",
+        "W": "179",
+        "E": "179"
       }
     },
     "title": {
