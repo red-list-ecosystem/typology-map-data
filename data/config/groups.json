@@ -57,7 +57,7 @@
     },
     "diagram": {
       "caption": {
-        "en": "A custom diagram caption set in config/groups.json"
+        "en": "A custom diagram caption set in /config/groups.json"
       }
     }
   },
