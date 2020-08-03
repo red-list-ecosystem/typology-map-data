@@ -54,10 +54,11 @@
       "caption": {
         "en": "Rio Carrao, Venezuela"
       }
+    },
     "diagram": {
       "caption": {
         "en": "A custom diagram caption set in config/groups.json"
-      },
+      }
     }
   },
   {
