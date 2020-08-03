@@ -1295,9 +1295,15 @@
     "path": "mt_1_3",
     "biome": "MT1",
     "layer": {
-      "source": "github",
-      "type": "topojson",
-      "path": "layers/MT1.3.web.grid_v1.0_topo.json"
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.MT1_3_web_map",
+      "extent": {
+        "N": "70",
+        "S": "70",
+        "W": "100",
+        "E": "100"
+      }
     },
     "title": {
       "en": "Sandy Shorelines"
@@ -1317,13 +1323,13 @@
     "biome": "MT1",
     "layer": {
       "source": "mapbox",
-      "path": "layers/MT1.4.web.orig_topo.json",
-      "tileset": "jrfep.MT1_4_web_grid",
+      "type": "raster",
+      "tileset": "jrfep.MT1_4_web_map",
       "extent": {
-        "N": "85",
-        "S": "90",
-        "W": "170",
-        "E": "180"
+        "N": "70",
+        "S": "70",
+        "W": "100",
+        "E": "129"
       }
     },
     "title": {
