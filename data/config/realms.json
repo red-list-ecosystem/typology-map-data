@@ -7,7 +7,7 @@
       "en": "Freshwater"
     },
     "keywords": {
-      "en": "you, can, enter, search, terms, here"
+      "en": "inland,water bodies,saline"
     },
     "image": {
       "credit": {
@@ -41,6 +41,9 @@
     "type": "core",
     "title": {
       "en": "Marine"
+    },
+    "keywords": {
+      "en": "Oceanic,ocean,saline"
     },
     "image": {
       "credit": {

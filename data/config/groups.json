@@ -4,15 +4,21 @@
     "path": "f_1_1",
     "biome": "F1",
     "layer": {
-      "source": "github",
-      "type": "topojson",
-      "path": "layers/F1.1.web.orig_topo.json"
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.F1_1_web_mix",
+      "extent": {
+        "N": "85",
+        "S": "90",
+        "W": "170",
+        "E": "180"
+      }
     },
     "title": {
       "en": "Permanent upland streams"
     },
     "keywords": {
-      "en": "keyword"
+      "en": "rivers"
     },
     "image": {
       "credit": {
@@ -28,9 +34,15 @@
     "path": "f_1_2",
     "biome": "F1",
     "layer": {
-      "source": "github",
-      "type": "topojson",
-      "path": "layers/F1.2.web.orig_topo.json"
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.F1_2_web_map",
+      "extent": {
+        "N": "85",
+        "S": "90",
+        "W": "170",
+        "E": "180"
+      }
     },
     "title": {
       "en": "Permanent lowland rivers"
@@ -53,9 +65,15 @@
     "path": "f_1_3",
     "biome": "F1",
     "layer": {
-      "source": "github",
-      "type": "topojson",
-      "path": "layers/F1.3.web.orig_topo.json"
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.F1_3_web_map",
+      "extent": {
+        "N": "85",
+        "S": "90",
+        "W": "170",
+        "E": "180"
+      }
     },
     "title": {
       "en": "Freeze-thaw rivers and streams"
@@ -74,9 +92,15 @@
     "path": "f_1_4",
     "biome": "F1",
     "layer": {
-      "source": "github",
-      "type": "topojson",
-      "path": "layers/F1.4.web.orig_topo.json"
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.F1_4_web_map",
+      "extent": {
+        "N": "85",
+        "S": "90",
+        "W": "170",
+        "E": "180"
+      }
     },
     "title": {
       "en": "Seasonal upland streams"
@@ -95,9 +119,15 @@
     "path": "f_1_5",
     "biome": "F1",
     "layer": {
-      "source": "github",
-      "type": "topojson",
-      "path": "layers/F1.5.web.orig_topo.json"
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.F1_5_web_map",
+      "extent": {
+        "N": "85",
+        "S": "90",
+        "W": "170",
+        "E": "180"
+      }
     },
     "title": {
       "en": "Seasonal lowland rivers"
@@ -116,9 +146,15 @@
     "path": "f_1_6",
     "biome": "F1",
     "layer": {
-      "source": "github",
-      "type": "topojson",
-      "path": "layers/F1.6.web.orig_topo.json"
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.F1_6_web_mix",
+      "extent": {
+        "N": "85",
+        "S": "90",
+        "W": "170",
+        "E": "180"
+      }
     },
     "title": {
       "en": "Episodic arid rivers"
@@ -161,7 +197,13 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "jrfep.F2_1_web_orig"
+      "tileset": "jrfep.F2_1_web_alt",
+      "extent": {
+        "N": "85",
+        "S": "90",
+        "W": "170",
+        "E": "180"
+      }
     },
     "title": {
       "en": "Large permanent freshwater lakes"
@@ -180,9 +222,15 @@
     "path": "f_2_2",
     "biome": "F2",
     "layer": {
-      "source": "github",
-      "type": "topojson",
-      "path": "layers/F2.2.web.orig_topo.json"
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.F2_2_web_mix",
+      "extent": {
+        "N": "85",
+        "S": "90",
+        "W": "170",
+        "E": "180"
+      }
     },
     "title": {
       "en": "Small permanent freshwater lakes"
@@ -203,7 +251,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/F2.3.web.orig_topo.json"
+      "path": "layers/F2.3.web.mix_v2.0_topo.json"
     },
     "title": {
       "en": "Seasonal freshwater lakes"
@@ -222,9 +270,15 @@
     "path": "f_2_4",
     "biome": "F2",
     "layer": {
-      "source": "github",
-      "type": "topojson",
-      "path": "layers/F2.4.web.orig_topo.json"
+      "source": "mapbox",
+      "path": "layers/F2.4.web.orig_topo.json",
+      "tileset": "jrfep.F2_4_web_mix",
+      "extent": {
+        "N": "85",
+        "S": "90",
+        "W": "170",
+        "E": "180"
+      }
     },
     "title": {
       "en": "Freeze-thaw freshwater lakes"
@@ -245,7 +299,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/F2.5.web.orig_topo.json"
+      "path": "layers/F2.5.web.mix_v1.0_topo.json"
     },
     "title": {
       "en": "Ephemeral freshwater lakes"
@@ -266,7 +320,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/F2.6.web.orig_topo.json"
+      "path": "layers/F2.6.web.mix_v4.0_topo.json"
     },
     "title": {
       "en": "Permanent salt and soda lakes"
@@ -287,7 +341,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/F2.7.web.orig_topo.json"
+      "path": "layers/F2.7.web.mix_v1.0_topo.json"
     },
     "title": {
       "en": "Ephemeral salt lakes"
@@ -306,9 +360,15 @@
     "path": "f_2_8",
     "biome": "F2",
     "layer": {
-      "source": "github",
-      "type": "topojson",
-      "path": "layers/F2.8.web.orig_topo.json"
+      "source": "mapbox",
+      "path": "layers/F2.8.web.orig_topo.json",
+      "tileset": "jrfep.F2_8_web_mix",
+      "extent": {
+        "N": "85",
+        "S": "90",
+        "W": "170",
+        "E": "180"
+      }
     },
     "title": {
       "en": "Artesian springs and oases"
@@ -327,9 +387,15 @@
     "path": "f_2_9",
     "biome": "F2",
     "layer": {
-      "source": "github",
-      "type": "topojson",
-      "path": "layers/F2.9.web.orig_topo.json"
+      "source": "mapbox",
+      "path": "layers/F2.9.web.orig_topo.json",
+      "tileset": "jrfep.F2_9_web_mix",
+      "extent": {
+        "N": "85",
+        "S": "90",
+        "W": "170",
+        "E": "180"
+      }
     },
     "title": {
       "en": "Geothermal pools and wetlands"
@@ -348,9 +414,15 @@
     "path": "f_2_10",
     "biome": "F2",
     "layer": {
-      "source": "github",
-      "type": "topojson",
-      "path": "layers/F2.10.web.orig_topo.json"
+      "source": "mapbox",
+      "path": "layers/F2.10.web.orig_topo.json",
+      "tileset": "jrfep.F2_10_web_mix",
+      "extent": {
+        "N": "85",
+        "S": "90",
+        "W": "170",
+        "E": "180"
+      }
     },
     "title": {
       "en": "Subglacial lakes"
@@ -371,7 +443,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/F3.1.web.orig_topo.json"
+      "path": "layers/F3.1.web.orig_v1.0_topo.json"
     },
     "title": {
       "en": "Large reservoirs"
@@ -392,7 +464,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/F3.2.web.orig_topo.json"
+      "path": "layers/F3.2.web.orig_v1.0_topo.json"
     },
     "title": {
       "en": "Constructed lacustrine wetlands"
@@ -411,9 +483,15 @@
     "path": "f_3_3",
     "biome": "F3",
     "layer": {
-      "source": "github",
-      "type": "topojson",
-      "path": "layers/F3.3.web.orig_topo.json"
+      "source": "mapbox",
+      "path": "layers/F3.3.web.orig_topo.json",
+      "tileset": "jrfep.F3_3_web_alt",
+      "extent": {
+        "N": "85",
+        "S": "90",
+        "W": "170",
+        "E": "180"
+      }
     },
     "title": {
       "en": "Rice paddies"
@@ -434,7 +512,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/F3.4.web.orig_topo.json"
+      "path": "layers/F3.4.web.orig_v1.0_topo.json"
     },
     "title": {
       "en": "Freshwater aquafarms"
@@ -455,7 +533,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/F3.5.web.orig_topo.json"
+      "path": "layers/F3.5.web.orig_v1.0_topo.json"
     },
     "title": {
       "en": "Canals, ditches and drains"
@@ -476,7 +554,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/FM1.1.web.orig_topo.json"
+      "path": "layers/FM1.1.web.alt_v3.0_topo.json"
     },
     "title": {
       "en": "Deepwater coastal inlets"
@@ -495,15 +573,9 @@
     "path": "fm_1_2",
     "biome": "FM1",
     "layer": {
-      "source": "mapbox",
-      "type": "raster",
-      "tileset": "jrfep.FM1_2_web_orig",
-      "extent": {
-        "N": "62",
-        "S": "50",
-        "W": "123",
-        "E": "180"
-      }
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/FM1.2.web.orig_v2.0_topo.json"
     },
     "title": {
       "en": "Permanently open riverine estuaries and bays"
@@ -524,7 +596,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/FM1.3.web.orig_topo.json"
+      "path": "layers/FM1.3.web.orig_v2.0_topo.json"
     },
     "title": {
       "en": "Intermittently closed and open lakes and lagoons"
@@ -543,9 +615,9 @@
     "path": "m_1_1",
     "biome": "M1",
     "layer": {
-      "source": "mapbox",
-      "type": "raster",
-      "tileset": "jrfep.M1_1_web_orig"
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/M1.1.web.orig_v1.0_topo.json"
     },
     "title": {
       "en": "Seagrass meadows"
@@ -564,9 +636,15 @@
     "path": "m_1_2",
     "biome": "M1",
     "layer": {
-      "source": "github",
-      "type": "topojson",
-      "path": "layers/M1.2.web.orig_topo.json"
+      "source": "mapbox",
+      "path": "layers/M1.2.web.orig_topo.json",
+      "tileset": "jrfep.M1_2_web_orig",
+      "extent": {
+        "N": "85",
+        "S": "90",
+        "W": "170",
+        "E": "180"
+      }
     },
     "title": {
       "en": "Kelp forests"
@@ -590,7 +668,9 @@
       "tileset": "jrfep.M1_3_web_orig",
       "extent": {
         "N": "35",
-        "S": "35"
+        "S": "35",
+        "W": "170",
+        "E": "180"
       }
     },
     "title": {
@@ -613,9 +693,15 @@
     "path": "m_1_4",
     "biome": "M1",
     "layer": {
-      "source": "github",
-      "type": "topojson",
-      "path": "layers/M1.4.web.orig_topo.json"
+      "source": "mapbox",
+      "path": "layers/M1.4.web.orig_topo.json",
+      "tileset": "jrfep.M1_4_web_orig",
+      "extent": {
+        "N": "85",
+        "S": "90",
+        "W": "170",
+        "E": "180"
+      }
     },
     "title": {
       "en": "Shellfish beds and reefs"
@@ -637,9 +723,15 @@
     "path": "m_1_5",
     "biome": "M1",
     "layer": {
-      "source": "github",
-      "type": "topojson",
-      "path": "layers/M1.5.web.orig_topo.json"
+      "source": "mapbox",
+      "path": "layers/M1.5.web.orig_topo.json",
+      "tileset": "jrfep.M1_5_web_orig",
+      "extent": {
+        "N": "85",
+        "S": "90",
+        "W": "170",
+        "E": "180"
+      }
     },
     "title": {
       "en": "Photo-limited marine animal forests"
@@ -661,9 +753,14 @@
     "path": "m_1_6",
     "biome": "M1",
     "layer": {
-      "source": "github",
-      "type": "topojson",
-      "path": "layers/M1.6.web.orig_topo.json"
+      "source": "mapbox",
+      "tileset": "jrfep.M1_6_web_orig",
+      "extent": {
+        "N": "85",
+        "S": "90",
+        "W": "170",
+        "E": "180"
+      }
     },
     "title": {
       "en": "Subtidal rocky reefs"
@@ -682,9 +779,15 @@
     "path": "m_1_7",
     "biome": "M1",
     "layer": {
-      "source": "github",
-      "type": "topojson",
-      "path": "layers/M1.7.web.orig_topo.json"
+      "source": "mapbox",
+      "path": "layers/M1.7.web.orig_topo.json",
+      "tileset": "jrfep.M1_7_web_orig",
+      "extent": {
+        "N": "85",
+        "S": "90",
+        "W": "170",
+        "E": "180"
+      }
     },
     "title": {
       "en": "Subtidal sand beds"
@@ -703,9 +806,15 @@
     "path": "m_1_8",
     "biome": "M1",
     "layer": {
-      "source": "github",
-      "type": "topojson",
-      "path": "layers/M1.8.web.orig_topo.json"
+      "source": "mapbox",
+      "path": "layers/M1.8.web.orig_topo.json",
+      "tileset": "jrfep.M1_8_web_orig",
+      "extent": {
+        "N": "85",
+        "S": "90",
+        "W": "170",
+        "E": "180"
+      }
     },
     "title": {
       "en": "Subtidal mud plains"
@@ -724,9 +833,9 @@
     "path": "m_1_9",
     "biome": "M1",
     "layer": {
-      "source": "mapbox",
-      "type": "raster",
-      "tileset": "jrfep.M1_9_web_orig"
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/M1.9.web.orig_v1.0_topo.json"
     },
     "title": {
       "en": "Upwelling zones"
@@ -746,8 +855,13 @@
     "biome": "M2",
     "layer": {
       "source": "mapbox",
-      "type": "raster",
-      "tileset": "jrfep.2ktxgaar"
+      "tileset": "jrfep.M2_1_web_orig",
+      "extent": {
+        "N": "85",
+        "S": "90",
+        "W": "170",
+        "E": "180"
+      }
     },
     "title": {
       "en": "Epipelagic ocean waters"
@@ -767,8 +881,13 @@
     "biome": "M2",
     "layer": {
       "source": "mapbox",
-      "type": "raster",
-      "tileset": "jrfep.amerd73d"
+      "tileset": "jrfep.M2_2_web_orig",
+      "extent": {
+        "N": "85",
+        "S": "85",
+        "W": "0",
+        "E": "180"
+      }
     },
     "title": {
       "en": "Mesopelagic ocean water"
@@ -787,9 +906,9 @@
     "path": "m_2_3",
     "biome": "M2",
     "layer": {
-      "source": "mapbox",
-      "type": "raster",
-      "tileset": "jrfep.55l4qies"
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/M2.3.web.orig_v1.0_topo.json"
     },
     "title": {
       "en": "Bathypelagic ocean waters"
@@ -809,8 +928,13 @@
     "biome": "M2",
     "layer": {
       "source": "mapbox",
-      "type": "raster",
-      "tileset": "jrfep.5fb3lqef"
+      "tileset": "jrfep.M2_4_web_orig",
+      "extent": {
+        "N": "85",
+        "S": "85",
+        "W": "175",
+        "E": "175"
+      }
     },
     "title": {
       "en": "Abyssopelagic ocean waters"
@@ -830,8 +954,13 @@
     "biome": "M2",
     "layer": {
       "source": "mapbox",
-      "type": "raster",
-      "tileset": "jrfep.4lx95qgq"
+      "tileset": "jrfep.M2_5_web_orig",
+      "extent": {
+        "N": "90",
+        "S": "90",
+        "W": "170",
+        "E": "180"
+      }
     },
     "title": {
       "en": "Sea ice"
@@ -852,7 +981,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/M3.1.web.orig_topo.json"
+      "path": "layers/M3.1.web.orig_v1.0_topo.json"
     },
     "title": {
       "en": "Continental and island slopes"
@@ -955,9 +1084,15 @@
     "path": "m_3_6",
     "biome": "M3",
     "layer": {
-      "source": "github",
-      "type": "topojson",
-      "path": "layers/M3.6.web.orig_topo.json"
+      "source": "mapbox",
+      "path": "layers/M3.6.web.orig_topo.json",
+      "tileset": "jrfep.M3_6_web_orig",
+      "extent": {
+        "N": "85",
+        "S": "90",
+        "W": "170",
+        "E": "180"
+      }
     },
     "title": {
       "en": "Hadal trenches and troughs"
@@ -976,9 +1111,9 @@
     "path": "m_3_7",
     "biome": "M3",
     "layer": {
-      "source": "mapbox",
-      "type": "raster",
-      "tileset": "jrfep.M3_7_web_orig"
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/M3.7.web.orig_v1.0_topo.json"
     },
     "title": {
       "en": "Chemosynthetic-based-ecosystems (CBE)"
@@ -999,7 +1134,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/M4.1.web.orig_topo.json"
+      "path": "layers/M4.1.web.orig_v1.0_topo.json"
     },
     "title": {
       "en": "Submerged artificial structures"
@@ -1020,7 +1155,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/M4.2.web.orig_topo.json"
+      "path": "layers/M4.2.web.orig_v1.0_topo.json"
     },
     "title": {
       "en": "Marine aquafarms"
@@ -1041,7 +1176,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/MFT1.1.web.orig_topo.json"
+      "path": "layers/MFT1.1.web.orig_v1.0_topo.json"
     },
     "title": {
       "en": "Coastal river deltas"
@@ -1105,9 +1240,15 @@
     "path": "mt_1_1",
     "biome": "MT1",
     "layer": {
-      "source": "github",
-      "type": "topojson",
-      "path": "layers/MT1.1.web.orig_topo.json"
+      "source": "mapbox",
+      "path": "layers/MT1.1.web.orig_topo.json",
+      "tileset": "jrfep.MT1_1_web_grid",
+      "extent": {
+        "N": "85",
+        "S": "90",
+        "W": "170",
+        "E": "180"
+      }
     },
     "title": {
       "en": "Rocky Shorelines"
@@ -1126,9 +1267,9 @@
     "path": "mt_1_2",
     "biome": "MT1",
     "layer": {
-      "source": "mapbox",
-      "type": "raster",
-      "tileset": "jrfep.MT1_2_IM_orig"
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/MT1.2.web.orig_v1.0_topo.json"
     },
     "title": {
       "en": "Muddy Shorelines"
@@ -1149,7 +1290,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/MT1.3.web.orig_topo.json"
+      "path": "layers/MT1.3.web.grid_v1.0_topo.json"
     },
     "title": {
       "en": "Sandy Shorelines"
@@ -1168,9 +1309,15 @@
     "path": "mt_1_4",
     "biome": "MT1",
     "layer": {
-      "source": "github",
-      "type": "topojson",
-      "path": "layers/MT1.4.web.orig_topo.json"
+      "source": "mapbox",
+      "path": "layers/MT1.4.web.orig_topo.json",
+      "tileset": "jrfep.MT1_4_web_grid",
+      "extent": {
+        "N": "85",
+        "S": "90",
+        "W": "170",
+        "E": "180"
+      }
     },
     "title": {
       "en": "Boulder and cobble shores"
@@ -1210,9 +1357,15 @@
     "path": "mt_3_1",
     "biome": "MT3",
     "layer": {
-      "source": "github",
-      "type": "topojson",
-      "path": "layers/MT3.1.web.orig_topo.json"
+      "source": "mapbox",
+      "path": "layers/MT3.1.web.orig_topo.json",
+      "tileset": "jrfep.MT3_1_web_grid",
+      "extent": {
+        "N": "85",
+        "S": "90",
+        "W": "170",
+        "E": "180"
+      }
     },
     "title": {
       "en": "Artificial shorelines"
@@ -1231,9 +1384,15 @@
     "path": "s_1_1",
     "biome": "S1",
     "layer": {
-      "source": "github",
-      "type": "topojson",
-      "path": "layers/S1.1.web.orig_topo.json"
+      "source": "mapbox",
+      "path": "layers/S1.1.web.orig_topo.json",
+      "tileset": "jrfep.S1_1_web_orig",
+      "extent": {
+        "N": "85",
+        "S": "90",
+        "W": "170",
+        "E": "180"
+      }
     },
     "title": {
       "en": "Aerobic caves"
@@ -1251,6 +1410,11 @@
     "id": "S1.2",
     "path": "s_1_2",
     "biome": "S1",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/S1.2.web.orig_v1.0_topo.json"
+    },
     "title": {
       "en": "Endolithic systems"
     },
@@ -1270,7 +1434,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/S2.1.web.orig_topo.json"
+      "path": "layers/S2.1.web.orig_v1.0_topo.json"
     },
     "title": {
       "en": "Anthropogenic subterranean voids"
@@ -1291,7 +1455,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/SF1.1.web.orig_topo.json"
+      "path": "layers/SF1.1.web.orig_v1.0_topo.json"
     },
     "title": {
       "en": "Underground streams and pools"
@@ -1312,7 +1476,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/SF1.2.web.orig_topo.json"
+      "path": "layers/SF1.2.web.orig_v1.0_topo.json"
     },
     "title": {
       "en": "Groundwater ecosystems"
@@ -1331,9 +1495,9 @@
     "path": "sf_2_1",
     "biome": "SF2",
     "layer": {
-      "source": "mapbox",
-      "type": "raster",
-      "tileset": "jrfep.SF2_1_web_orig"
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/SF2.1.web.orig_v1.0_topo.json"
     },
     "title": {
       "en": "Water pipes and subterranean canals"
@@ -1354,11 +1518,11 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/SF2.2.web.orig_topo.json"
+      "path": "layers/SF2.2.web.orig_v1.0_topo.json"
     },
     "title": {
       "en": "Flooded mines and other voids"
-   },
+    },
     "image": {
       "credit": {
         "en": "Jill Heinerth"
@@ -1375,7 +1539,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/SM1.1.web.orig_topo.json"
+      "path": "layers/SM1.1.web.grid_v3.0_topo.json"
     },
     "title": {
       "en": "Anchialine caves"
@@ -1393,6 +1557,11 @@
     "id": "SM1.2",
     "path": "sm_1_2",
     "biome": "SM1",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/SM1.1.web.grid_v3.0_topo.json"
+    },
     "title": {
       "en": "Anchialine pools"
     },
@@ -1412,7 +1581,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/SM1.3.web.orig_topo.json"
+      "path": "layers/SM1.3.web.grid_v3.0_topo.json"
     },
     "title": {
       "en": "Sea caves"
@@ -1473,9 +1642,15 @@
     "path": "t_1_3",
     "biome": "T1",
     "layer": {
-      "source": "github",
-      "type": "topojson",
-      "path": "layers/T1.3.web.orig_topo.json"
+      "source": "mapbox",
+      "path": "layers/T1.3.web.orig_topo.json",
+      "tileset": "jrfep.T1_3_web_alt",
+      "extent": {
+        "N": "85",
+        "S": "90",
+        "W": "170",
+        "E": "180"
+      }
     },
     "title": {
       "en": "Tropical/Subtropical montane rainforests"
@@ -1496,17 +1671,17 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/T1.4.web.orig_topo.json"
+      "path": "layers/T1.4.web.orig_v2.0_topo.json"
     },
     "title": {
       "en": "Tropical heath forests"
     },
     "image": {
       "credit": {
-        "en": "Lindsay G.R. Watt"
+        "en": "Bernard Dupont"
       },
       "caption": {
-        "en": "Kerangas forest, Maliau Basin, Sarawak"
+        "en": "Kerangas Sundaland Heath Forest, Bako National Park, Malaysia"
       }
     }
   },
@@ -1559,7 +1734,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/T2.3.web.orig_topo.json"
+      "path": "layers/T2.3.web.orig_v1.0_topo.json"
     },
     "title": {
       "en": "Oceanic cool temperate rainforests"
@@ -1578,9 +1753,9 @@
     "path": "t_2_4",
     "biome": "T2",
     "layer": {
-      "source": "mapbox",
-      "type": "raster",
-      "tileset": "jrfep.T2_4_web_mix"
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/T2.4.web.orig_v2.0_topo.json"
     },
     "title": {
       "en": "Warm temperate laurophyll forests"
@@ -1600,8 +1775,13 @@
     "biome": "T2",
     "layer": {
       "source": "mapbox",
-      "type": "raster",
-      "tileset": "jrfep.T2_5_web_mix"
+      "tileset": "jrfep.T2_5_web_alt",
+      "extent": {
+        "N": "85",
+        "S": "90",
+        "W": "170",
+        "E": "180"
+      }
     },
     "title": {
       "en": "Temperate pyric humid forests"
@@ -1623,9 +1803,15 @@
     "path": "t_2_6",
     "biome": "T2",
     "layer": {
-      "source": "github",
-      "type": "topojson",
-      "path": "layers/T2.6.web.orig_topo.json"
+      "source": "mapbox",
+      "path": "layers/T2.6.web.orig_topo.json",
+      "tileset": "jrfep.T2_6_web_mix",
+      "extent": {
+        "N": "85",
+        "S": "90",
+        "W": "170",
+        "E": "180"
+      }
     },
     "title": {
       "en": "Temperate pyric sclerophyll forests and woodlands"
@@ -1649,7 +1835,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/T3.1.web.orig_topo.json"
+      "path": "layers/T3.1.web.orig_v2.0_topo.json"
     },
     "title": {
       "en": "Seasonally dry tropical shrublands"
@@ -1670,7 +1856,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/T3.2.web.orig_topo.json"
+      "path": "layers/T3.2.web.orig_v1.0_topo.json"
     },
     "title": {
       "en": "Seasonally dry temperate heath and shrublands"
@@ -1690,8 +1876,13 @@
     "biome": "T3",
     "layer": {
       "source": "mapbox",
-      "type": "raster",
-      "tileset": "jrfep.T3_3_web_mix"
+      "tileset": "jrfep.T3_3_web_alt",
+      "extent": {
+        "N": "85",
+        "S": "90",
+        "W": "170",
+        "E": "180"
+      }
     },
     "title": {
       "en": "Cool temperate heathlands"
@@ -1731,9 +1922,15 @@
     "path": "t_4_1",
     "biome": "T4",
     "layer": {
-      "source": "github",
-      "type": "topojson",
-      "path": "layers/T4.1.web.orig_topo.json"
+      "source": "mapbox",
+      "path": "layers/T4.1.web.orig_topo.json",
+      "tileset": "jrfep.T4_1_web_mix",
+      "extent": {
+        "N": "85",
+        "S": "90",
+        "W": "170",
+        "E": "180"
+      }
     },
     "title": {
       "en": "Trophic savannas"
@@ -1752,9 +1949,15 @@
     "path": "t_4_2",
     "biome": "T4",
     "layer": {
-      "source": "github",
-      "type": "topojson",
-      "path": "layers/T4.2.web.orig_topo.json"
+      "source": "mapbox",
+      "path": "layers/T4.2.web.orig_topo.json",
+      "tileset": "jrfep.T4_2_web_orig",
+      "extent": {
+        "N": "85",
+        "S": "90",
+        "W": "170",
+        "E": "180"
+      }
     },
     "title": {
       "en": "Pyric tussock savannas"
@@ -1778,7 +1981,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/T4.3.web.orig_topo.json"
+      "path": "layers/T4.3.web.orig_v1.0_topo.json"
     },
     "title": {
       "en": "Hummock savannas"
@@ -1799,7 +2002,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/T4.4.web.orig_topo.json"
+      "path": "layers/T4.4.web.orig_v1.0_topo.json"
     },
     "title": {
       "en": "Temperate woodlands"
@@ -1820,7 +2023,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/T4.5.web.orig_topo.json"
+      "path": "layers/T4.5.web.orig_v1.0_topo.json"
     },
     "title": {
       "en": "Temperate subhumid grasslands"
@@ -1945,8 +2148,13 @@
     "biome": "T6",
     "layer": {
       "source": "mapbox",
-      "type": "raster",
-      "tileset": "jrfep.T6_1_web_mix"
+      "tileset": "jrfep.T6_1_web_alt",
+      "extent": {
+        "N": "85",
+        "S": "90",
+        "W": "170",
+        "E": "180"
+      }
     },
     "title": {
       "en": "Ice sheets, glaciers and perennial snowfields"
@@ -1967,7 +2175,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/T6.2.web.orig_topo.json"
+      "path": "layers/T6.2.web.alt_v2.0_topo.json"
     },
     "title": {
       "en": "Polar/alpine cliffs, screes, outcrops and lava flows"
@@ -1987,8 +2195,13 @@
     "biome": "T6",
     "layer": {
       "source": "mapbox",
-      "type": "raster",
-      "tileset": "jrfep.T6_3_web_mix"
+      "tileset": "jrfep.T6_3_web_alt",
+      "extent": {
+        "N": "85",
+        "S": "90",
+        "W": "170",
+        "E": "180"
+      }
     },
     "title": {
       "en": "Polar tundra and deserts"
@@ -2007,9 +2220,9 @@
     "path": "t_6_4",
     "biome": "T6",
     "layer": {
-      "source": "mapbox",
-      "type": "raster",
-      "tileset": "jrfep.T6_4_web_mix"
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/T6.4.web.orig_v1.0_topo.json"
     },
     "title": {
       "en": "Temperate alpine grasslands and shrublands"
@@ -2075,8 +2288,13 @@
     "biome": "T7",
     "layer": {
       "source": "mapbox",
-      "type": "raster",
-      "tileset": "jrfep.T7_2_web_mix"
+      "tileset": "jrfep.T7_2_web_alt",
+      "extent": {
+        "N": "85",
+        "S": "90",
+        "W": "170",
+        "E": "180"
+      }
     },
     "title": {
       "en": "Sown pastures and fields"
@@ -2158,9 +2376,9 @@
     "path": "tf_1_1",
     "biome": "TF1",
     "layer": {
-      "source": "github",
-      "type": "topojson",
-      "path": "layers/TF1.1.web.orig_topo.json"
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.TF1_1_web_map"
     },
     "title": {
       "en": "Tropical flooded forests and peat forests"
@@ -2181,7 +2399,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/TF1.2.web.orig_topo.json"
+      "path": "layers/TF1.2.web.orig_v2.0_topo.json"
     },
     "title": {
       "en": "Subtropical/temperate forested wetlands"
@@ -2202,7 +2420,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/TF1.3.web.orig_topo.json"
+      "path": "layers/TF1.3.web.orig_v1.0_topo.json"
     },
     "title": {
       "en": "Permanent marshes"
@@ -2221,9 +2439,9 @@
     "path": "tf_1_4",
     "biome": "TF1",
     "layer": {
-      "source": "github",
-      "type": "topojson",
-      "path": "layers/TF1.4.web.orig_topo.json"
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.TF1_4_web_map"
     },
     "title": {
       "en": "Seasonal floodplain marshes"
@@ -2242,9 +2460,9 @@
     "path": "tf_1_5",
     "biome": "TF1",
     "layer": {
-      "source": "github",
-      "type": "topojson",
-      "path": "layers/TF1.5.web.orig_topo.json"
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.TF1_5_web_map"
     },
     "title": {
       "en": "Episodic arid floodplains"
@@ -2265,7 +2483,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/TF1.6.web.orig_topo.json"
+      "path": "layers/TF1.6.web.orig_v1.0_topo.json"
     },
     "title": {
       "en": "Boreal, temperate and montane peat bogs"
@@ -2286,7 +2504,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/TF1.7.web.orig_topo.json"
+      "path": "layers/TF1.7.web.orig_v1.0_topo.json"
     },
     "title": {
       "en": "Boreal and temperate fens"

@@ -1,0 +1,1 @@
+{"type":"Topology","objects":{"S1.2.IM.orig_v1.0":{"type":"GeometryCollection","geometries":[{"type":"Polygon","arcs":[[0]],"properties":{"occurrence":1}}]}},"arcs":[[[99999,0],[-99999,0],[0,99999],[99999,0],[0,-99999]]],"bbox":[-180,-90,180,90],"transform":{"scale":[0.0036000360003600037,0.0018000180001800019],"translate":[-180,-90]}}
