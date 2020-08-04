@@ -1351,7 +1351,13 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "jrfep.MT2_1_web_orig"
+      "tileset": "jrfep.MT2_1_web_map",
+      "extent": {
+        "N": "60",
+        "S": "60",
+        "W": "100",
+        "E": "100"
+      }
     },
     "title": {
       "en": "Coastal shrublands and grasslands"
@@ -1371,13 +1377,13 @@
     "biome": "MT3",
     "layer": {
       "source": "mapbox",
-      "path": "layers/MT3.1.web.orig_topo.json",
-      "tileset": "jrfep.MT3_1_web_grid",
+      "type": "raster",
+      "tileset": "jrfep.MT3_1_web_map",
       "extent": {
-        "N": "85",
-        "S": "90",
-        "W": "170",
-        "E": "180"
+        "N": "70",
+        "S": "70",
+        "W": "100",
+        "E": "129"
       }
     },
     "title": {
