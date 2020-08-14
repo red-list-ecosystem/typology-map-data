@@ -1175,12 +1175,15 @@
     "path": "mft_1_1",
     "biome": "MFT1",
     "layer": {
-      "source": "github",
-      "type": "topojson",
-      "path": "layers/MFT1.1.web.orig_v1.0_topo.json"
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.MFT1_1_map_orig"
     },
     "title": {
       "en": "Coastal river deltas"
+    },
+    "keywords": {
+      "en": "Tidal,large"
     },
     "image": {
       "credit": {
@@ -2178,6 +2181,9 @@
     "title": {
       "en": "Ice sheets, glaciers and perennial snowfields"
     },
+    "keywords": {
+      "en": "ice-cap,snowpack,snowbed,glacial-ice,ice-fields"
+    },
     "image": {
       "credit": {
         "en": "David Keith"
@@ -2198,6 +2204,9 @@
     },
     "title": {
       "en": "Polar/alpine cliffs, screes, outcrops and lava flows"
+    },
+    "keywords": {
+      "en": "nunatak"
     },
     "image": {
       "credit": {
