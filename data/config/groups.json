@@ -272,7 +272,7 @@
     "biome": "F2",
     "layer": {
       "source": "mapbox",
-      "path": "layers/F2.4.web.orig_topo.json",
+      "type": "raster",
       "tileset": "jrfep.F2_4_web_mix",
       "extent": {
         "N": "85",
@@ -362,7 +362,7 @@
     "biome": "F2",
     "layer": {
       "source": "mapbox",
-      "path": "layers/F2.8.web.orig_topo.json",
+      "type": "raster",
       "tileset": "jrfep.F2_8_web_mix",
       "extent": {
         "N": "85",
@@ -389,7 +389,7 @@
     "biome": "F2",
     "layer": {
       "source": "mapbox",
-      "path": "layers/F2.9.web.orig_topo.json",
+      "type": "raster",
       "tileset": "jrfep.F2_9_web_mix",
       "extent": {
         "N": "85",
@@ -416,7 +416,7 @@
     "biome": "F2",
     "layer": {
       "source": "mapbox",
-      "path": "layers/F2.10.web.orig_topo.json",
+      "type": "raster",
       "tileset": "jrfep.F2_10_web_mix",
       "extent": {
         "N": "85",
@@ -485,7 +485,7 @@
     "biome": "F3",
     "layer": {
       "source": "mapbox",
-      "path": "layers/F3.3.web.orig_topo.json",
+      "type": "raster",
       "tileset": "jrfep.F3_3_web_alt",
       "extent": {
         "N": "85",
@@ -638,7 +638,7 @@
     "biome": "M1",
     "layer": {
       "source": "mapbox",
-      "path": "layers/M1.2.web.orig_topo.json",
+      "type": "raster",
       "tileset": "jrfep.M1_2_web_orig",
       "extent": {
         "N": "85",
@@ -695,7 +695,7 @@
     "biome": "M1",
     "layer": {
       "source": "mapbox",
-      "path": "layers/M1.4.web.orig_topo.json",
+      "type": "raster",
       "tileset": "jrfep.M1_4_web_orig",
       "extent": {
         "N": "85",
@@ -725,7 +725,7 @@
     "biome": "M1",
     "layer": {
       "source": "mapbox",
-      "path": "layers/M1.5.web.orig_topo.json",
+      "type": "raster",
       "tileset": "jrfep.M1_5_web_orig",
       "extent": {
         "N": "85",
@@ -755,6 +755,7 @@
     "biome": "M1",
     "layer": {
       "source": "mapbox",
+      "type": "raster",
       "tileset": "jrfep.M1_6_web_orig",
       "extent": {
         "N": "85",
@@ -781,7 +782,7 @@
     "biome": "M1",
     "layer": {
       "source": "mapbox",
-      "path": "layers/M1.7.web.orig_topo.json",
+      "type": "raster",
       "tileset": "jrfep.M1_7_web_orig",
       "extent": {
         "N": "85",
@@ -808,7 +809,7 @@
     "biome": "M1",
     "layer": {
       "source": "mapbox",
-      "path": "layers/M1.8.web.orig_topo.json",
+      "type": "raster",
       "tileset": "jrfep.M1_8_web_orig",
       "extent": {
         "N": "85",
@@ -856,6 +857,7 @@
     "biome": "M2",
     "layer": {
       "source": "mapbox",
+      "type": "raster",
       "tileset": "jrfep.M2_1_web_orig",
       "extent": {
         "N": "85",
@@ -882,6 +884,7 @@
     "biome": "M2",
     "layer": {
       "source": "mapbox",
+      "type": "raster",
       "tileset": "jrfep.M2_2_web_orig",
       "extent": {
         "N": "85",
@@ -907,10 +910,15 @@
     "path": "m_2_3",
     "biome": "M2",
     "layer": {
-      "source": "github",
-      "type": "topojson",
-      "path": "layers/M2.3.web.orig_v1.0_topo.json"
-    },
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.M2_3_web_orig",
+      "extent": {
+        "N": "85",
+        "S": "85",
+        "W": "0",
+        "E": "180"
+      }
     "title": {
       "en": "Bathypelagic ocean waters"
     },
@@ -929,6 +937,7 @@
     "biome": "M2",
     "layer": {
       "source": "mapbox",
+      "type": "raster",
       "tileset": "jrfep.M2_4_web_orig",
       "extent": {
         "N": "85",
@@ -955,6 +964,7 @@
     "biome": "M2",
     "layer": {
       "source": "mapbox",
+      "type": "raster",
       "tileset": "jrfep.M2_5_web_orig",
       "extent": {
         "N": "90",
@@ -1086,7 +1096,7 @@
     "biome": "M3",
     "layer": {
       "source": "mapbox",
-      "path": "layers/M3.6.web.orig_topo.json",
+      "type": "raster",
       "tileset": "jrfep.M3_6_web_orig",
       "extent": {
         "N": "85",
@@ -1407,7 +1417,7 @@
     "biome": "S1",
     "layer": {
       "source": "mapbox",
-      "path": "layers/S1.1.web.orig_topo.json",
+      "type": "raster",
       "tileset": "jrfep.S1_1_web_orig",
       "extent": {
         "N": "85",
