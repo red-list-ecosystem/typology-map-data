@@ -2170,7 +2170,7 @@
     "biome": "T6",
     "layer": {
       "source": "mapbox",
-      "tileset": "jrfep.T6_1_web_alt",
+      "tileset": "jrfep.T6_1_web_map",
       "extent": {
         "N": "85",
         "S": "90",
@@ -2223,10 +2223,10 @@
     "biome": "T6",
     "layer": {
       "source": "mapbox",
-      "tileset": "jrfep.T6_3_web_alt",
+      "tileset": "jrfep.T6_3_web_map",
       "extent": {
-        "N": "85",
-        "S": "90",
+        "N": "90",
+        "S": "80",
         "W": "170",
         "E": "180"
       }
@@ -2316,7 +2316,7 @@
     "biome": "T7",
     "layer": {
       "source": "mapbox",
-      "tileset": "jrfep.T7_2_web_alt",
+      "tileset": "jrfep.T7_2_web_map",
       "extent": {
         "N": "85",
         "S": "90",
