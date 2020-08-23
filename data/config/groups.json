@@ -176,8 +176,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/F1.7.web.orig_v1.0.json",
-      "geometryType": "LineString"
+      "path": "layers/F1.7.web.orig_v2.0.json"
     },
     "title": {
       "en": "Large lowland rivers"
