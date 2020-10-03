@@ -176,8 +176,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/F1.7.web.orig_v1.0.json",
-      "geometryType": "LineString"
+      "path": "layers/F1.7.web.orig_v2.0.json"
     },
     "title": {
       "en": "Large lowland rivers"
@@ -272,7 +271,7 @@
     "biome": "F2",
     "layer": {
       "source": "mapbox",
-      "path": "layers/F2.4.web.orig_topo.json",
+      "type": "raster",
       "tileset": "jrfep.F2_4_web_mix",
       "extent": {
         "N": "85",
@@ -362,7 +361,7 @@
     "biome": "F2",
     "layer": {
       "source": "mapbox",
-      "path": "layers/F2.8.web.orig_topo.json",
+      "type": "raster",
       "tileset": "jrfep.F2_8_web_mix",
       "extent": {
         "N": "85",
@@ -376,10 +375,10 @@
     },
     "image": {
       "credit": {
-        "en": "QUIM - photoblog"
+        "en": "Sfivat on Wikimedia Commons"
       },
       "caption": {
-        "en": "Umm al-Maa (Mavo Lake), Libya"
+        "en": "Ubari Oasis in the Wadi Al Hayaa District, southwestern Libya"
       }
     }
   },
@@ -389,7 +388,7 @@
     "biome": "F2",
     "layer": {
       "source": "mapbox",
-      "path": "layers/F2.9.web.orig_topo.json",
+      "type": "raster",
       "tileset": "jrfep.F2_9_web_mix",
       "extent": {
         "N": "85",
@@ -416,7 +415,7 @@
     "biome": "F2",
     "layer": {
       "source": "mapbox",
-      "path": "layers/F2.10.web.orig_topo.json",
+      "type": "raster",
       "tileset": "jrfep.F2_10_web_mix",
       "extent": {
         "N": "85",
@@ -485,7 +484,7 @@
     "biome": "F3",
     "layer": {
       "source": "mapbox",
-      "path": "layers/F3.3.web.orig_topo.json",
+      "type": "raster",
       "tileset": "jrfep.F3_3_web_alt",
       "extent": {
         "N": "85",
@@ -523,7 +522,7 @@
         "en": "Tom Fisk on Pexels"
       },
       "caption": {
-        "en": "Freshwater aquaculture ponds"
+        "en": "Freshwater aquaculture ponds, Rumpin, West Java, Indonesia"
       }
     }
   },
@@ -541,10 +540,10 @@
     },
     "image": {
       "credit": {
-        "en": "Hallie Eakin, Arizona State University"
+        "en": "Richard Thornton / Shutterstock"
       },
       "caption": {
-        "en": "Irrigation canal and valve, Phoenix, Arizona, USA"
+        "en": "California irrigation canal, USA"
       }
     }
   },
@@ -638,7 +637,7 @@
     "biome": "M1",
     "layer": {
       "source": "mapbox",
-      "path": "layers/M1.2.web.orig_topo.json",
+      "type": "raster",
       "tileset": "jrfep.M1_2_web_orig",
       "extent": {
         "N": "85",
@@ -695,7 +694,7 @@
     "biome": "M1",
     "layer": {
       "source": "mapbox",
-      "path": "layers/M1.4.web.orig_topo.json",
+      "type": "raster",
       "tileset": "jrfep.M1_4_web_orig",
       "extent": {
         "N": "85",
@@ -725,7 +724,7 @@
     "biome": "M1",
     "layer": {
       "source": "mapbox",
-      "path": "layers/M1.5.web.orig_topo.json",
+      "type": "raster",
       "tileset": "jrfep.M1_5_web_orig",
       "extent": {
         "N": "85",
@@ -755,6 +754,7 @@
     "biome": "M1",
     "layer": {
       "source": "mapbox",
+      "type": "raster",
       "tileset": "jrfep.M1_6_web_orig",
       "extent": {
         "N": "85",
@@ -768,10 +768,10 @@
     },
     "image": {
       "credit": {
-        "en": "Jodi Pirtle"
+        "en": "Dale Roberts, NOAA / CBNMS"
       },
       "caption": {
-        "en": "Starry rockfish and strawberry anemone on a rocky reef, Cordell Bank, California"
+        "en": "Red Urchin (Strongylocentrotus franciscanus) and invertebrates on rocky reef habitat, Cordell Bank National Marine Sanctuary, California"
       }
     }
   },
@@ -781,7 +781,7 @@
     "biome": "M1",
     "layer": {
       "source": "mapbox",
-      "path": "layers/M1.7.web.orig_topo.json",
+      "type": "raster",
       "tileset": "jrfep.M1_7_web_orig",
       "extent": {
         "N": "85",
@@ -808,7 +808,7 @@
     "biome": "M1",
     "layer": {
       "source": "mapbox",
-      "path": "layers/M1.8.web.orig_topo.json",
+      "type": "raster",
       "tileset": "jrfep.M1_8_web_orig",
       "extent": {
         "N": "85",
@@ -822,10 +822,10 @@
     },
     "image": {
       "credit": {
-        "en": "NOAA photo library, licensed under CC BY 2.0"
+        "en": "NOAA Okeanos Explorer Program, licensed under CC BY 2.0"
       },
       "caption": {
-        "en": "Banded tulip snail on a muddy bottom, Flower Garden Banks National Marine Sanctuary, Gulf of Mexico"
+        "en": "Mud plain with a shortspine thornyhead (Sebastolobus alascanus) and an acesta clam"
       }
     }
   },
@@ -856,6 +856,7 @@
     "biome": "M2",
     "layer": {
       "source": "mapbox",
+      "type": "raster",
       "tileset": "jrfep.M2_1_web_orig",
       "extent": {
         "N": "85",
@@ -882,6 +883,7 @@
     "biome": "M2",
     "layer": {
       "source": "mapbox",
+      "type": "raster",
       "tileset": "jrfep.M2_2_web_orig",
       "extent": {
         "N": "85",
@@ -895,10 +897,10 @@
     },
     "image": {
       "credit": {
-        "en": "Dennis Poulson"
+        "en": "Ilse Reijs and Jan-Noud Hutten, licence CC BY 2.0"
       },
       "caption": {
-        "en": "Sunfish in the mesopelagic zone of the tropical Atlantic Ocean near Florida"
+        "en": "Mola mola (sunfish) near Nusa Lembongan, Indonesia"
       }
     }
   },
@@ -907,9 +909,15 @@
     "path": "m_2_3",
     "biome": "M2",
     "layer": {
-      "source": "github",
-      "type": "topojson",
-      "path": "layers/M2.3.web.orig_v1.0_topo.json"
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.M2_3_web_orig",
+      "extent": {
+        "N": "85",
+        "S": "85",
+        "W": "0",
+        "E": "180"
+      }
     },
     "title": {
       "en": "Bathypelagic ocean waters"
@@ -929,6 +937,7 @@
     "biome": "M2",
     "layer": {
       "source": "mapbox",
+      "type": "raster",
       "tileset": "jrfep.M2_4_web_orig",
       "extent": {
         "N": "85",
@@ -955,6 +964,7 @@
     "biome": "M2",
     "layer": {
       "source": "mapbox",
+      "type": "raster",
       "tileset": "jrfep.M2_5_web_orig",
       "extent": {
         "N": "90",
@@ -1010,10 +1020,10 @@
     },
     "image": {
       "credit": {
-        "en": "Royal Navy (UK),  licensed under OGL v3.0"
+        "en": "Francisco Sanchez (IEO)"
       },
       "caption": {
-        "en": "Echo Sounding of Newly Discovered Canyon in the Red Sea"
+        "en": "Wall of La Gaviera canyon, with cold-water corals, sponges, anemones, and fish, ~850 m depth in the Cantabrian Sea"
       }
     }
   },
@@ -1031,10 +1041,10 @@
     },
     "image": {
       "credit": {
-        "en": "D. Billett (NOCS, UK)"
+        "en": "Craig Smith and Diva Amon, NOAA"
       },
       "caption": {
-        "en": "The Porcupine Abyssal Plain, Atlantic Ocean, showing a Zoraster sea star"
+        "en": "Sea cucumber Amperima sp. on the seabed in the eastern Clarion-Clipperton Fracture Zone"
       }
     }
   },
@@ -1086,7 +1096,7 @@
     "biome": "M3",
     "layer": {
       "source": "mapbox",
-      "path": "layers/M3.6.web.orig_topo.json",
+      "type": "raster",
       "tileset": "jrfep.M3_6_web_orig",
       "extent": {
         "N": "85",
@@ -1163,10 +1173,10 @@
     },
     "image": {
       "credit": {
-        "en": "CSIRO, licensed under CC BY 3.0"
+        "en": "Daniel Patman, licence CC BY-NC 2.0"
       },
       "caption": {
-        "en": "Salmon farm, Tasmania, Australia"
+        "en": "Salmon farm, North West Bay, Tasmania, Australia"
       }
     }
   },
@@ -1175,12 +1185,15 @@
     "path": "mft_1_1",
     "biome": "MFT1",
     "layer": {
-      "source": "github",
-      "type": "topojson",
-      "path": "layers/MFT1.1.web.orig_v1.0_topo.json"
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.MFT1_1_map_orig"
     },
     "title": {
       "en": "Coastal river deltas"
+    },
+    "keywords": {
+      "en": "Tidal,large"
     },
     "image": {
       "credit": {
@@ -1208,10 +1221,10 @@
     },
     "image": {
       "credit": {
-        "en": "Mangroves in Los Haitses National Park, Dominican Republic"
+        "en": "Anton Bielousov"
       },
       "caption": {
-        "en": "Anton Bielousov"
+        "en": "Mangroves in Los Haitses National Park, Dominican Republic"
       }
     }
   },
@@ -1256,10 +1269,10 @@
     },
     "image": {
       "credit": {
-        "en": "Russ Ward on Unsplash"
+        "en": "Sven Lavender / Queensland Government, licence CC BY 4.0"
       },
       "caption": {
-        "en": "Eastern US coastline near Harpswell, Maine"
+        "en": "Sea squirts or cunjevoi Pyura"
       }
     }
   },
@@ -1310,10 +1323,10 @@
     },
     "image": {
       "credit": {
-        "en": "U.S. National Parks Service"
+        "en": "Roger Jaensch, licence CC BY 4.0"
       },
       "caption": {
-        "en": "Breakers at Cape Hatteras National Seashore, North Carolina, USA"
+        "en": "Shorebirds at high tide, Shoalwater Bay, Queensland, Australia"
       }
     }
   },
@@ -1404,7 +1417,7 @@
     "biome": "S1",
     "layer": {
       "source": "mapbox",
-      "path": "layers/S1.1.web.orig_topo.json",
+      "type": "raster",
       "tileset": "jrfep.S1_1_web_orig",
       "extent": {
         "N": "85",
@@ -1460,10 +1473,10 @@
     },
     "image": {
       "credit": {
-        "en": "Abandoned NYC"
+        "en": "Maxim / Adobe Stock"
       },
       "caption": {
-        "en": "Abandoned Hoosac Tunnel, New York, USA"
+        "en": "Underground mining tunnel"
       }
     }
   },
@@ -1523,7 +1536,7 @@
     },
     "image": {
       "credit": {
-        "en": "Stutterstock"
+        "en": "Neale Cousland / Shutterstock"
       },
       "caption": {
         "en": "Water pipes in the Snowy Mountains, Australia"
@@ -1714,7 +1727,7 @@
       "tileset": "jrfep.T2_1_web_mix"
     },
     "title": {
-      "en": "Boreal and temperate montane forests and woodlands"
+      "en": "Boreal and temperate high montane forests and woodlands"
     },
     "image": {
       "credit": {
@@ -1781,10 +1794,10 @@
     },
     "image": {
       "credit": {
-        "en": "David Keith"
+        "en": "Jaime Plaza van Roon / AUSCAPE"
       },
       "caption": {
-        "en": "Warm-temperate rainforest, Royal National Park, Australia"
+        "en": "Warm temperate rainforest with Coachwood (Ceratopetalum apetalum), Washpool National Park, New South Wales, Australia"
       }
     }
   },
@@ -1810,10 +1823,10 @@
     },
     "image": {
       "credit": {
-        "en": "David Keith"
+        "en": "Monica Campbell"
       },
       "caption": {
-        "en": "Temperate fire-prone tall forests, Buladelah, Australia"
+        "en": "Structurally complex pyric wet forest, Guy Fawkes National Park, Australia"
       }
     }
   },
@@ -2049,10 +2062,10 @@
     },
     "image": {
       "credit": {
-        "en": "Eric Hoff / The Nature Conservancy"
+        "en": "indielista / Shutterstock"
       },
       "caption": {
-        "en": "Bison on the Great Plains, South Dakota, USA"
+        "en": "Herd of bison, Badlands Overlook, North Dakota USA"
       }
     }
   },
@@ -2133,10 +2146,10 @@
     },
     "image": {
       "credit": {
-        "en": ""
+        "en": "Bolatbek Gabiden via Unsplash"
       },
       "caption": {
-        "en": "Herd of camels passing in front of Khongorin Sand Dunes, Gobi Desert, Mongolia"
+        "en": "Altai mountains, Mongolia"
       }
     }
   },
@@ -2167,7 +2180,7 @@
     "biome": "T6",
     "layer": {
       "source": "mapbox",
-      "tileset": "jrfep.T6_1_web_alt",
+      "tileset": "jrfep.T6_1_web_map",
       "extent": {
         "N": "85",
         "S": "90",
@@ -2177,6 +2190,9 @@
     },
     "title": {
       "en": "Ice sheets, glaciers and perennial snowfields"
+    },
+    "keywords": {
+      "en": "ice-cap,snowpack,snowbed,glacial-ice,ice-fields"
     },
     "image": {
       "credit": {
@@ -2199,6 +2215,9 @@
     "title": {
       "en": "Polar/alpine cliffs, screes, outcrops and lava flows"
     },
+    "keywords": {
+      "en": "nunatak"
+    },
     "image": {
       "credit": {
         "en": "David Keith"
@@ -2214,10 +2233,10 @@
     "biome": "T6",
     "layer": {
       "source": "mapbox",
-      "tileset": "jrfep.T6_3_web_alt",
+      "tileset": "jrfep.T6_3_web_map",
       "extent": {
-        "N": "85",
-        "S": "90",
+        "N": "90",
+        "S": "80",
         "W": "170",
         "E": "180"
       }
@@ -2273,10 +2292,10 @@
     },
     "image": {
       "credit": {
-        "en": "National Geographic Image Collection / Alamy Stock Photo"
+        "en": "Rowan Donovan / National Geographic Image Collection / Alamy Stock Photo"
       },
       "caption": {
-        "en": "Giant lobelia, Lobelia telekii, and giant groundsels, Dendrosenecio adnivalis, growing in Rwenzori Mountains National Park."
+        "en": "Giant rosettes of Lobelia and Dendrosenecio in alpine herbfields, Rwenzori Mountains, Uganda"
       }
     }
   },
@@ -2307,7 +2326,7 @@
     "biome": "T7",
     "layer": {
       "source": "mapbox",
-      "tileset": "jrfep.T7_2_web_alt",
+      "tileset": "jrfep.T7_2_web_map",
       "extent": {
         "N": "85",
         "S": "90",
