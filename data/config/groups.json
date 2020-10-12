@@ -1705,6 +1705,12 @@
       "type": "topojson",
       "path": "layers/T1.4.web.orig_v2.0_topo.json"
     },
+    "highlight-layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "auxiliary/T1.4_buffer.topo.json",
+      "max-zoom": "3",
+    },
     "title": {
       "en": "Tropical heath forests"
     },
