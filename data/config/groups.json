@@ -8,9 +8,9 @@
       "type": "raster",
       "tileset": "jrfep.F1_1_web_mix",
       "extent": {
-        "N": "85",
-        "S": "90",
-        "W": "170",
+        "N": "90",
+        "S": "-90",
+        "W": "-180",
         "E": "180"
       }
     },
@@ -27,7 +27,7 @@
       "caption": {
         "en": "Appalachian Mountain Stream in the Spring"
       }
-    }
+    },
   },
   {
     "id": "F1.2",
@@ -38,9 +38,9 @@
       "type": "raster",
       "tileset": "jrfep.F1_2_web_map",
       "extent": {
-        "N": "85",
-        "S": "90",
-        "W": "170",
+        "N": "90",
+        "S": "-90",
+        "W": "-180",
         "E": "180"
       }
     },
@@ -70,9 +70,9 @@
       "type": "raster",
       "tileset": "jrfep.F1_3_web_map",
       "extent": {
-        "N": "85",
-        "S": "90",
-        "W": "170",
+        "N": "90",
+        "S": "-90",
+        "W": "-180",
         "E": "180"
       }
     },
@@ -86,7 +86,7 @@
       "caption": {
         "en": "Volga River, Zubstov, Russia"
       }
-    }
+    },
   },
   {
     "id": "F1.4",
@@ -97,9 +97,9 @@
       "type": "raster",
       "tileset": "jrfep.F1_4_web_map",
       "extent": {
-        "N": "85",
-        "S": "90",
-        "W": "170",
+        "N": "90",
+        "S": "-90",
+        "W": "-180",
         "E": "180"
       }
     },
@@ -113,7 +113,7 @@
       "caption": {
         "en": "Yamuna River near Mussoorie, India"
       }
-    }
+    },
   },
   {
     "id": "F1.5",
@@ -124,9 +124,9 @@
       "type": "raster",
       "tileset": "jrfep.F1_5_web_map",
       "extent": {
-        "N": "85",
-        "S": "90",
-        "W": "170",
+        "N": "90",
+        "S": "-90",
+        "W": "-180",
         "E": "180"
       }
     },
@@ -140,7 +140,7 @@
       "caption": {
         "en": "Patalon Chaung, upstream of Migyaungpon, Myanmar"
       }
-    }
+    },
   },
   {
     "id": "F1.6",
@@ -151,9 +151,9 @@
       "type": "raster",
       "tileset": "jrfep.F1_6_web_mix",
       "extent": {
-        "N": "85",
-        "S": "90",
-        "W": "170",
+        "N": "90",
+        "S": "-90",
+        "W": "-180",
         "E": "180"
       }
     },
@@ -167,7 +167,7 @@
       "caption": {
         "en": "Cooper Creek in central Australia"
       }
-    }
+    },
   },
   {
     "id": "F1.7",
@@ -188,7 +188,7 @@
       "caption": {
         "en": "Amazon River near Iquitos, Peru"
       }
-    }
+    },
   },
   {
     "id": "F2.1",
@@ -199,9 +199,9 @@
       "type": "raster",
       "tileset": "jrfep.F2_1_web_alt",
       "extent": {
-        "N": "85",
-        "S": "90",
-        "W": "170",
+        "N": "90",
+        "S": "-90",
+        "W": "-180",
         "E": "180"
       }
     },
@@ -215,7 +215,7 @@
       "caption": {
         "en": "High cichlid fish diversity in Lake Malawi, Africa"
       }
-    }
+    },
   },
   {
     "id": "F2.2",
@@ -226,9 +226,9 @@
       "type": "raster",
       "tileset": "jrfep.F2_2_web_mix",
       "extent": {
-        "N": "85",
-        "S": "90",
-        "W": "170",
+        "N": "90",
+        "S": "-90",
+        "W": "-180",
         "E": "180"
       }
     },
@@ -242,7 +242,7 @@
       "caption": {
         "en": "Lake Xinguti, Maputo Special Reserve, Mozambique"
       }
-    }
+    },
   },
   {
     "id": "F2.3",
@@ -263,7 +263,7 @@
       "caption": {
         "en": "Vernal Pool, Arabia Mountain, Georgia, USA"
       }
-    }
+    },
   },
   {
     "id": "F2.4",
@@ -274,9 +274,9 @@
       "type": "raster",
       "tileset": "jrfep.F2_4_web_mix",
       "extent": {
-        "N": "85",
-        "S": "90",
-        "W": "170",
+        "N": "90",
+        "S": "-90",
+        "W": "-180",
         "E": "180"
       }
     },
@@ -290,7 +290,7 @@
       "caption": {
         "en": "Frozen Lake, Ulriken, Bergen, Norway"
       }
-    }
+    },
   },
   {
     "id": "F2.5",
@@ -311,7 +311,7 @@
       "caption": {
         "en": "Small, episodic freshwater lake with inflow channel in the arid Tankwa-Karoo National Park, South Africa"
       }
-    }
+    },
   },
   {
     "id": "F2.6",
@@ -332,7 +332,7 @@
       "caption": {
         "en": "Flamingos on Lake Bogoria, a soda lake in Kenya"
       }
-    }
+    },
   },
   {
     "id": "F2.7",
@@ -353,7 +353,7 @@
       "caption": {
         "en": "Lake Eyre, central Australia, showing beta-carotene pigment caused by the alga, _Dunaliella salina_"
       }
-    }
+    },
   },
   {
     "id": "F2.8",
@@ -364,9 +364,9 @@
       "type": "raster",
       "tileset": "jrfep.F2_8_web_mix",
       "extent": {
-        "N": "85",
-        "S": "90",
-        "W": "170",
+        "N": "90",
+        "S": "-90",
+        "W": "-180",
         "E": "180"
       }
     },
@@ -380,7 +380,7 @@
       "caption": {
         "en": "Ubari Oasis in the Wadi Al Hayaa District, southwestern Libya"
       }
-    }
+    },
   },
   {
     "id": "F2.9",
@@ -391,9 +391,9 @@
       "type": "raster",
       "tileset": "jrfep.F2_9_web_mix",
       "extent": {
-        "N": "85",
-        "S": "90",
-        "W": "170",
+        "N": "90",
+        "S": "-90",
+        "W": "-180",
         "E": "180"
       }
     },
@@ -407,7 +407,7 @@
       "caption": {
         "en": "Extensive cyanobacterial growth downstream of Waimangu Hot Springs, Taupo Volcanic Zone, New Zealand"
       }
-    }
+    },
   },
   {
     "id": "F2.10",
@@ -418,9 +418,9 @@
       "type": "raster",
       "tileset": "jrfep.F2_10_web_mix",
       "extent": {
-        "N": "85",
-        "S": "90",
-        "W": "170",
+        "N": "90",
+        "S": "-90",
+        "W": "-180",
         "E": "180"
       }
     },
@@ -434,7 +434,7 @@
       "caption": {
         "en": "Radar image of Lake Vostok ~4 km below the icesheet surface, East Antarctica"
       }
-    }
+    },
   },
   {
     "id": "F3.1",
@@ -455,7 +455,7 @@
       "caption": {
         "en": "Gordon Dam, Tasmania, Australia"
       }
-    }
+    },
   },
   {
     "id": "F3.2",
@@ -476,7 +476,7 @@
       "caption": {
         "en": "Farm pond, Washington County, Ohio, USA"
       }
-    }
+    },
   },
   {
     "id": "F3.3",
@@ -487,9 +487,9 @@
       "type": "raster",
       "tileset": "jrfep.F3_3_web_alt",
       "extent": {
-        "N": "85",
-        "S": "90",
-        "W": "170",
+        "N": "90",
+        "S": "-90",
+        "W": "-180",
         "E": "180"
       }
     },
@@ -503,7 +503,7 @@
       "caption": {
         "en": "Rice paddies, Hai Duong, Vietnam"
       }
-    }
+    },
   },
   {
     "id": "F3.4",
@@ -524,7 +524,7 @@
       "caption": {
         "en": "Freshwater aquaculture ponds, Rumpin, West Java, Indonesia"
       }
-    }
+    },
   },
   {
     "id": "F3.5",
@@ -545,16 +545,22 @@
       "caption": {
         "en": "California irrigation canal, USA"
       }
-    }
+    },
   },
   {
     "id": "FM1.1",
     "path": "fm_1_1",
     "biome": "FM1",
     "layer": {
-      "source": "github",
-      "type": "topojson",
-      "path": "layers/FM1.1.web.alt_v3.0_topo.json"
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.FM1_1_web_map",
+      "extent": {
+        "N": "90",
+        "S": "-90",
+        "W": "-180",
+        "E": "180"
+      }
     },
     "title": {
       "en": "Deepwater coastal inlets"
@@ -566,16 +572,22 @@
       "caption": {
         "en": "Sognefjord, Norway"
       }
-    }
+    },
   },
   {
     "id": "FM1.2",
     "path": "fm_1_2",
     "biome": "FM1",
     "layer": {
-      "source": "github",
-      "type": "topojson",
-      "path": "layers/FM1.2.web.orig_v2.0_topo.json"
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.FM1_2_web_map",
+      "extent": {
+        "N": "90",
+        "S": "-90",
+        "W": "-180",
+        "E": "180"
+      }
     },
     "title": {
       "en": "Permanently open riverine estuaries and bays"
@@ -587,7 +599,7 @@
       "caption": {
         "en": "Barwon River estuary, southeastern Australia"
       }
-    }
+    },
   },
   {
     "id": "FM1.3",
@@ -608,7 +620,7 @@
       "caption": {
         "en": "Open (left) and closed (right) lagoon entrances along the New South Wales coast, Australia"
       }
-    }
+    },
   },
   {
     "id": "M1.1",
@@ -629,7 +641,7 @@
       "caption": {
         "en": "Cabo de Gata Nijar, Andalusia, Spain"
       }
-    }
+    },
   },
   {
     "id": "M1.2",
@@ -640,9 +652,9 @@
       "type": "raster",
       "tileset": "jrfep.M1_2_web_orig",
       "extent": {
-        "N": "85",
-        "S": "90",
-        "W": "170",
+        "N": "90",
+        "S": "-90",
+        "W": "-180",
         "E": "180"
       }
     },
@@ -656,7 +668,7 @@
       "caption": {
         "en": "Giant kelp forest, Southern California"
       }
-    }
+    },
   },
   {
     "id": "M1.3",
@@ -667,9 +679,9 @@
       "type": "raster",
       "tileset": "jrfep.M1_3_web_orig",
       "extent": {
-        "N": "35",
-        "S": "35",
-        "W": "170",
+        "N": "90",
+        "S": "-90",
+        "W": "-180",
         "E": "180"
       }
     },
@@ -686,7 +698,7 @@
       "caption": {
         "en": "Coral reefs, structurally complex and harbouring diverse marine life"
       }
-    }
+    },
   },
   {
     "id": "M1.4",
@@ -697,9 +709,9 @@
       "type": "raster",
       "tileset": "jrfep.M1_4_web_orig",
       "extent": {
-        "N": "85",
-        "S": "90",
-        "W": "170",
+        "N": "90",
+        "S": "-90",
+        "W": "-180",
         "E": "180"
       }
     },
@@ -716,7 +728,7 @@
       "caption": {
         "en": "Oyster reef, Georges Bay, Tasmania, Australia"
       }
-    }
+    },
   },
   {
     "id": "M1.5",
@@ -727,9 +739,9 @@
       "type": "raster",
       "tileset": "jrfep.M1_5_web_orig",
       "extent": {
-        "N": "85",
-        "S": "90",
-        "W": "170",
+        "N": "90",
+        "S": "-90",
+        "W": "-180",
         "E": "180"
       }
     },
@@ -746,7 +758,7 @@
       "caption": {
         "en": "Polychaete reef ~20m depth, Ellis Fjord, Antarctica"
       }
-    }
+    },
   },
   {
     "id": "M1.6",
@@ -757,9 +769,9 @@
       "type": "raster",
       "tileset": "jrfep.M1_6_web_orig",
       "extent": {
-        "N": "85",
-        "S": "90",
-        "W": "170",
+        "N": "90",
+        "S": "-90",
+        "W": "-180",
         "E": "180"
       }
     },
@@ -773,7 +785,7 @@
       "caption": {
         "en": "Red Urchin (Strongylocentrotus franciscanus) and invertebrates on rocky reef habitat, Cordell Bank National Marine Sanctuary, California"
       }
-    }
+    },
   },
   {
     "id": "M1.7",
@@ -784,9 +796,9 @@
       "type": "raster",
       "tileset": "jrfep.M1_7_web_orig",
       "extent": {
-        "N": "85",
-        "S": "90",
-        "W": "170",
+        "N": "90",
+        "S": "-90",
+        "W": "-180",
         "E": "180"
       }
     },
@@ -800,7 +812,7 @@
       "caption": {
         "en": "Left: Dover sole on sand, Cordell Bank National Marine Sanctuary, California. Right: Jawfish in sandy burrow."
       }
-    }
+    },
   },
   {
     "id": "M1.8",
@@ -811,9 +823,9 @@
       "type": "raster",
       "tileset": "jrfep.M1_8_web_orig",
       "extent": {
-        "N": "85",
-        "S": "90",
-        "W": "170",
+        "N": "90",
+        "S": "-90",
+        "W": "-180",
         "E": "180"
       }
     },
@@ -827,7 +839,7 @@
       "caption": {
         "en": "Mud plain with a shortspine thornyhead (Sebastolobus alascanus) and an acesta clam"
       }
-    }
+    },
   },
   {
     "id": "M1.9",
@@ -848,7 +860,7 @@
       "caption": {
         "en": "Sardine school in an upwelling zone, Malaysia"
       }
-    }
+    },
   },
   {
     "id": "M2.1",
@@ -859,9 +871,9 @@
       "type": "raster",
       "tileset": "jrfep.M2_1_web_orig",
       "extent": {
-        "N": "85",
-        "S": "90",
-        "W": "170",
+        "N": "90",
+        "S": "-90",
+        "W": "-180",
         "E": "180"
       }
     },
@@ -875,7 +887,7 @@
       "caption": {
         "en": "Epipelagic visual predators (mahi-mahi), Maldives"
       }
-    }
+    },
   },
   {
     "id": "M2.2",
@@ -886,9 +898,9 @@
       "type": "raster",
       "tileset": "jrfep.M2_2_web_orig",
       "extent": {
-        "N": "85",
-        "S": "85",
-        "W": "0",
+        "N": "90",
+        "S": "-90",
+        "W": "-180",
         "E": "180"
       }
     },
@@ -902,22 +914,16 @@
       "caption": {
         "en": "Mola mola (sunfish) near Nusa Lembongan, Indonesia"
       }
-    }
+    },
   },
   {
     "id": "M2.3",
     "path": "m_2_3",
     "biome": "M2",
     "layer": {
-      "source": "mapbox",
-      "type": "raster",
-      "tileset": "jrfep.M2_3_web_orig",
-      "extent": {
-        "N": "85",
-        "S": "85",
-        "W": "0",
-        "E": "180"
-      }
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/M2.3.web.orig_v1.0_topo.json"
     },
     "title": {
       "en": "Bathypelagic ocean waters"
@@ -929,7 +935,7 @@
       "caption": {
         "en": "Hydromedusa jellyfish in the Mariana Trench, western Pacific Ocean"
       }
-    }
+    },
   },
   {
     "id": "M2.4",
@@ -940,10 +946,10 @@
       "type": "raster",
       "tileset": "jrfep.M2_4_web_orig",
       "extent": {
-        "N": "85",
-        "S": "85",
-        "W": "175",
-        "E": "175"
+        "N": "90",
+        "S": "-90",
+        "W": "-180",
+        "E": "180"
       }
     },
     "title": {
@@ -956,22 +962,16 @@
       "caption": {
         "en": "Atlantic footballfish, (_Himantolophus groenlandicus_), Female with modified ray on the head making a 'fishing-rod', tipped with a lure"
       }
-    }
+    },
   },
   {
     "id": "M2.5",
     "path": "m_2_5",
     "biome": "M2",
     "layer": {
-      "source": "mapbox",
-      "type": "raster",
-      "tileset": "jrfep.M2_5_web_orig",
-      "extent": {
-        "N": "90",
-        "S": "90",
-        "W": "170",
-        "E": "180"
-      }
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/M2.5.web.orig_v1.0_topo.json"
     },
     "title": {
       "en": "Sea ice"
@@ -983,7 +983,7 @@
       "caption": {
         "en": "Morning visitor on sea ice"
       }
-    }
+    },
   },
   {
     "id": "M3.1",
@@ -1004,7 +1004,7 @@
       "caption": {
         "en": "Detritivorous benthic crustacean foraging on the bare sediments of a continental slope"
       }
-    }
+    },
   },
   {
     "id": "M3.2",
@@ -1025,7 +1025,7 @@
       "caption": {
         "en": "Wall of La Gaviera canyon, with cold-water corals, sponges, anemones, and fish, ~850 m depth in the Cantabrian Sea"
       }
-    }
+    },
   },
   {
     "id": "M3.3",
@@ -1046,7 +1046,7 @@
       "caption": {
         "en": "Sea cucumber Amperima sp. on the seabed in the eastern Clarion-Clipperton Fracture Zone"
       }
-    }
+    },
   },
   {
     "id": "M3.4",
@@ -1067,7 +1067,7 @@
       "caption": {
         "en": "Garden of coral at depth 2,465 meters on the Sibelius Seamount"
       }
-    }
+    },
   },
   {
     "id": "M3.5",
@@ -1088,7 +1088,7 @@
       "caption": {
         "en": "Corals and sponges on a deep Antarctic reef"
       }
-    }
+    },
   },
   {
     "id": "M3.6",
@@ -1115,7 +1115,7 @@
       "caption": {
         "en": "Typical hadal fauna: A) supergiant amphipod, B) dense clusters of scavenging amphipods, C) deposit-feeding holothurians, D) predatory decapods, and E) predatory fish"
       }
-    }
+    },
   },
   {
     "id": "M3.7",
@@ -1136,7 +1136,7 @@
       "caption": {
         "en": "Methane bubbles flow in small streams out of the sediment, north of Washington Canyon. Quill worms, anemones, and patches of microbial mat can be seen in and along the periphery of the seepage area"
       }
-    }
+    },
   },
   {
     "id": "M4.1",
@@ -1157,7 +1157,7 @@
       "caption": {
         "en": "Sydney Offshore Artificial Reef, Australia"
       }
-    }
+    },
   },
   {
     "id": "M4.2",
@@ -1178,7 +1178,7 @@
       "caption": {
         "en": "Salmon farm, North West Bay, Tasmania, Australia"
       }
-    }
+    },
   },
   {
     "id": "MFT1.1",
@@ -1187,7 +1187,13 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "jrfep.MFT1_1_map_orig"
+      "tileset": "jrfep.MFT1_1_map_orig",
+      "extent": {
+        "N": "90",
+        "S": "-90",
+        "W": "-180",
+        "E": "180"
+      }
     },
     "title": {
       "en": "Coastal river deltas"
@@ -1202,7 +1208,7 @@
       "caption": {
         "en": "Sundarbans, Ganges Delta, India & Bangladesh"
       }
-    }
+    },
   },
   {
     "id": "MFT1.2",
@@ -1211,7 +1217,13 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "jrfep.MFT1_2_web_orig"
+      "tileset": "jrfep.MFT1_2_web_orig",
+      "extent": {
+        "N": "90",
+        "S": "-90",
+        "W": "-180",
+        "E": "180"
+      }
     },
     "title": {
       "en": "Intertidal forests and shrublands"
@@ -1226,7 +1238,7 @@
       "caption": {
         "en": "Mangroves in Los Haitses National Park, Dominican Republic"
       }
-    }
+    },
   },
   {
     "id": "MFT1.3",
@@ -1235,7 +1247,13 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "jrfep.MFT1_3_web_orig"
+      "tileset": "jrfep.MFT1_3_web_orig",
+      "extent": {
+        "N": "90",
+        "S": "-90",
+        "W": "-180",
+        "E": "180"
+      }
     },
     "title": {
       "en": "Coastal saltmarshes and reedbeds"
@@ -1247,7 +1265,7 @@
       "caption": {
         "en": "Tidal creeks in salt marsh near Al Thakira, Qatar"
       }
-    }
+    },
   },
   {
     "id": "MT1.1",
@@ -1258,10 +1276,10 @@
       "type": "raster",
       "tileset": "jrfep.MT1_1_web_map",
       "extent": {
-        "N": "70",
-        "S": "70",
-        "W": "129",
-        "E": "129"
+        "N": "90",
+        "S": "-90",
+        "W": "-180",
+        "E": "180"
       }
     },
     "title": {
@@ -1274,7 +1292,7 @@
       "caption": {
         "en": "Sea squirts or cunjevoi Pyura"
       }
-    }
+    },
   },
   {
     "id": "MT1.2",
@@ -1285,10 +1303,10 @@
       "type": "raster",
       "tileset": "jrfep.MT1_2_web_map",
       "extent": {
-        "N": "70",
-        "S": "70",
-        "W": "129",
-        "E": "129"
+        "N": "90",
+        "S": "-90",
+        "W": "-180",
+        "E": "180"
       }
     },
     "title": {
@@ -1301,7 +1319,7 @@
       "caption": {
         "en": "Muddy shore of the Wadden Sea, Germany"
       }
-    }
+    },
   },
   {
     "id": "MT1.3",
@@ -1312,10 +1330,10 @@
       "type": "raster",
       "tileset": "jrfep.MT1_3_web_map",
       "extent": {
-        "N": "70",
-        "S": "70",
-        "W": "100",
-        "E": "100"
+        "N": "90",
+        "S": "-90",
+        "W": "-180",
+        "E": "180"
       }
     },
     "title": {
@@ -1328,7 +1346,7 @@
       "caption": {
         "en": "Shorebirds at high tide, Shoalwater Bay, Queensland, Australia"
       }
-    }
+    },
   },
   {
     "id": "MT1.4",
@@ -1339,10 +1357,10 @@
       "type": "raster",
       "tileset": "jrfep.MT1_4_web_map",
       "extent": {
-        "N": "70",
-        "S": "70",
-        "W": "100",
-        "E": "129"
+        "N": "90",
+        "S": "-90",
+        "W": "-180",
+        "E": "180"
       }
     },
     "title": {
@@ -1355,7 +1373,7 @@
       "caption": {
         "en": "Cobble Beach, South Downs, England"
       }
-    }
+    },
   },
   {
     "id": "MT2.1",
@@ -1366,10 +1384,10 @@
       "type": "raster",
       "tileset": "jrfep.MT2_1_web_map",
       "extent": {
-        "N": "60",
-        "S": "60",
-        "W": "100",
-        "E": "100"
+        "N": "90",
+        "S": "-90",
+        "W": "-180",
+        "E": "180"
       }
     },
     "title": {
@@ -1382,7 +1400,7 @@
       "caption": {
         "en": "Coastal shrubland, Strait of Magellan, Chile"
       }
-    }
+    },
   },
   {
     "id": "MT3.1",
@@ -1393,10 +1411,10 @@
       "type": "raster",
       "tileset": "jrfep.MT3_1_web_map",
       "extent": {
-        "N": "70",
-        "S": "70",
-        "W": "100",
-        "E": "129"
+        "N": "90",
+        "S": "-90",
+        "W": "-180",
+        "E": "180"
       }
     },
     "title": {
@@ -1409,7 +1427,7 @@
       "caption": {
         "en": "Cape Town Harbour, South Africa"
       }
-    }
+    },
   },
   {
     "id": "S1.1",
@@ -1420,9 +1438,9 @@
       "type": "raster",
       "tileset": "jrfep.S1_1_web_orig",
       "extent": {
-        "N": "85",
-        "S": "90",
-        "W": "170",
+        "N": "90",
+        "S": "-90",
+        "W": "-180",
         "E": "180"
       }
     },
@@ -1436,7 +1454,7 @@
       "caption": {
         "en": "Bat cave, Lanquín, Guatemala"
       }
-    }
+    },
   },
   {
     "id": "S1.2",
@@ -1457,7 +1475,7 @@
       "caption": {
         "en": "Endolithic nanobacteria in sandstone, Australia"
       }
-    }
+    },
   },
   {
     "id": "S2.1",
@@ -1478,7 +1496,7 @@
       "caption": {
         "en": "Underground mining tunnel"
       }
-    }
+    },
   },
   {
     "id": "SF1.1",
@@ -1499,7 +1517,7 @@
       "caption": {
         "en": "Blind cave fish, Phreatichthys andruzzii, southern Madagascar"
       }
-    }
+    },
   },
   {
     "id": "SF1.2",
@@ -1520,7 +1538,7 @@
       "caption": {
         "en": "Stygofauna from the Pilbara, Western Australia"
       }
-    }
+    },
   },
   {
     "id": "SF2.1",
@@ -1541,7 +1559,7 @@
       "caption": {
         "en": "Water pipes in the Snowy Mountains, Australia"
       }
-    }
+    },
   },
   {
     "id": "SF2.2",
@@ -1562,7 +1580,7 @@
       "caption": {
         "en": "Flooded iron ore mine, Bell Island, Newfoundland, Canada"
       }
-    }
+    },
   },
   {
     "id": "SM1.1",
@@ -1583,16 +1601,22 @@
       "caption": {
         "en": "Deep Blue Cave, Bermuda"
       }
-    }
+    },
   },
   {
     "id": "SM1.2",
     "path": "sm_1_2",
     "biome": "SM1",
     "layer": {
-      "source": "github",
-      "type": "topojson",
-      "path": "layers/SM1.1.web.grid_v3.0_topo.json"
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.SM1_2_web_grid",
+      "extent": {
+        "N": "90",
+        "S": "-90",
+        "W": "-180",
+        "E": "180"
+      }
     },
     "title": {
       "en": "Anchialine pools"
@@ -1604,7 +1628,7 @@
       "caption": {
         "en": "Anchialine Pools, Maui, Hawaii, USA"
       }
-    }
+    },
   },
   {
     "id": "SM1.3",
@@ -1625,7 +1649,7 @@
       "caption": {
         "en": "Sea cave at Aorangaia Island, New Zealand"
       }
-    }
+    },
   },
   {
     "id": "T1.1",
@@ -1634,7 +1658,13 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "jrfep.T1_1_web_mix"
+      "tileset": "jrfep.T1_1_web_mix",
+      "extent": {
+        "N": "90",
+        "S": "-90",
+        "W": "-180",
+        "E": "180"
+      }
     },
     "title": {
       "en": "Tropical/Subtropical lowland rainforests"
@@ -1646,7 +1676,7 @@
       "caption": {
         "en": "Tropical rainforest, Daintree, northeast Australia"
       }
-    }
+    },
   },
   {
     "id": "T1.2",
@@ -1655,7 +1685,13 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "jrfep.T1_2_web_mix"
+      "tileset": "jrfep.T1_2_web_mix",
+      "extent": {
+        "N": "90",
+        "S": "-90",
+        "W": "-180",
+        "E": "180"
+      }
     },
     "title": {
       "en": "Tropical/Subtropical dry forests and scrubs"
@@ -1667,7 +1703,7 @@
       "caption": {
         "en": "Tropical dry forest, northern Minas Gerais, Brazil"
       }
-    }
+    },
   },
   {
     "id": "T1.3",
@@ -1675,12 +1711,12 @@
     "biome": "T1",
     "layer": {
       "source": "mapbox",
-      "path": "layers/T1.3.web.orig_topo.json",
+      "type": "raster",
       "tileset": "jrfep.T1_3_web_alt",
       "extent": {
-        "N": "85",
-        "S": "90",
-        "W": "170",
+        "N": "90",
+        "S": "-90",
+        "W": "-180",
         "E": "180"
       }
     },
@@ -1694,7 +1730,7 @@
       "caption": {
         "en": "Cloud forest, Mt Gower, Lord Howe Island, Oceania"
       }
-    }
+    },
   },
   {
     "id": "T1.4",
@@ -1704,12 +1740,6 @@
       "source": "github",
       "type": "topojson",
       "path": "layers/T1.4.web.orig_v2.0_topo.json"
-    },
-    "highlight-layer": {
-      "source": "github",
-      "type": "topojson",
-      "path": "auxiliary/T1.4_buffer.topo.json",
-      "max-zoom": "3"
     },
     "title": {
       "en": "Tropical heath forests"
@@ -1721,6 +1751,12 @@
       "caption": {
         "en": "Kerangas Sundaland Heath Forest, Bako National Park, Malaysia"
       }
+    },,
+    "highlight-layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "auxiliary/T1.4_buffer.topo.json",
+      "max-zoom": "3"
     }
   },
   {
@@ -1730,7 +1766,13 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "jrfep.T2_1_web_mix"
+      "tileset": "jrfep.T2_1_web_mix",
+      "extent": {
+        "N": "90",
+        "S": "-90",
+        "W": "-180",
+        "E": "180"
+      }
     },
     "title": {
       "en": "Boreal and temperate high montane forests and woodlands"
@@ -1742,7 +1784,7 @@
       "caption": {
         "en": "Boreal forest, Liesjärvi National Park, Tammela, Finland"
       }
-    }
+    },
   },
   {
     "id": "T2.2",
@@ -1751,7 +1793,13 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "jrfep.T2_2_web_mix"
+      "tileset": "jrfep.T2_2_web_mix",
+      "extent": {
+        "N": "90",
+        "S": "-90",
+        "W": "-180",
+        "E": "180"
+      }
     },
     "title": {
       "en": "Deciduous temperate forests"
@@ -1763,7 +1811,7 @@
       "caption": {
         "en": "Deciduous forest during autumn leaf fall, Inkoo, Finland"
       }
-    }
+    },
   },
   {
     "id": "T2.3",
@@ -1784,7 +1832,7 @@
       "caption": {
         "en": "Cool temperate evergreen forest, Hwequehwe, Chile"
       }
-    }
+    },
   },
   {
     "id": "T2.4",
@@ -1805,7 +1853,7 @@
       "caption": {
         "en": "Warm temperate rainforest with Coachwood (Ceratopetalum apetalum), Washpool National Park, New South Wales, Australia"
       }
-    }
+    },
   },
   {
     "id": "T2.5",
@@ -1813,11 +1861,12 @@
     "biome": "T2",
     "layer": {
       "source": "mapbox",
+      "type": "raster",
       "tileset": "jrfep.T2_5_web_alt",
       "extent": {
-        "N": "85",
-        "S": "90",
-        "W": "170",
+        "N": "90",
+        "S": "-90",
+        "W": "-180",
         "E": "180"
       }
     },
@@ -1834,7 +1883,7 @@
       "caption": {
         "en": "Structurally complex pyric wet forest, Guy Fawkes National Park, Australia"
       }
-    }
+    },
   },
   {
     "id": "T2.6",
@@ -1842,12 +1891,12 @@
     "biome": "T2",
     "layer": {
       "source": "mapbox",
-      "path": "layers/T2.6.web.orig_topo.json",
+      "type": "raster",
       "tileset": "jrfep.T2_6_web_mix",
       "extent": {
-        "N": "85",
-        "S": "90",
-        "W": "170",
+        "N": "90",
+        "S": "-90",
+        "W": "-180",
         "E": "180"
       }
     },
@@ -1864,7 +1913,7 @@
       "caption": {
         "en": "Dry Sclerophyll Forest, Royal National Park, Australia"
       }
-    }
+    },
   },
   {
     "id": "T3.1",
@@ -1885,7 +1934,7 @@
       "caption": {
         "en": "Tropical maquis on serpentinite, Pic Maloui, New Caledonia"
       }
-    }
+    },
   },
   {
     "id": "T3.2",
@@ -1906,7 +1955,7 @@
       "caption": {
         "en": "Temperate Heath, Mt Lesueur, Western Australia"
       }
-    }
+    },
   },
   {
     "id": "T3.3",
@@ -1914,11 +1963,12 @@
     "biome": "T3",
     "layer": {
       "source": "mapbox",
+      "type": "raster",
       "tileset": "jrfep.T3_3_web_alt",
       "extent": {
-        "N": "85",
-        "S": "90",
-        "W": "170",
+        "N": "90",
+        "S": "-90",
+        "W": "-180",
         "E": "180"
       }
     },
@@ -1932,7 +1982,7 @@
       "caption": {
         "en": "Magellanic heath, Patagonia, Chile"
       }
-    }
+    },
   },
   {
     "id": "T3.4",
@@ -1941,7 +1991,13 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "jrfep.T3_4_web_mix"
+      "tileset": "jrfep.T3_4_web_mix",
+      "extent": {
+        "N": "90",
+        "S": "-90",
+        "W": "-180",
+        "E": "180"
+      }
     },
     "title": {
       "en": "Young rocky pavements, lava flows and screes"
@@ -1953,7 +2009,7 @@
       "caption": {
         "en": "Lava flow, Conguillo National Park, Chile"
       }
-    }
+    },
   },
   {
     "id": "T4.1",
@@ -1961,12 +2017,12 @@
     "biome": "T4",
     "layer": {
       "source": "mapbox",
-      "path": "layers/T4.1.web.orig_topo.json",
+      "type": "raster",
       "tileset": "jrfep.T4_1_web_mix",
       "extent": {
-        "N": "85",
-        "S": "90",
-        "W": "170",
+        "N": "90",
+        "S": "-90",
+        "W": "-180",
         "E": "180"
       }
     },
@@ -1980,7 +2036,7 @@
       "caption": {
         "en": "Wildebeest in Serengeti National Park, Tanzania"
       }
-    }
+    },
   },
   {
     "id": "T4.2",
@@ -1988,12 +2044,12 @@
     "biome": "T4",
     "layer": {
       "source": "mapbox",
-      "path": "layers/T4.2.web.orig_topo.json",
+      "type": "raster",
       "tileset": "jrfep.T4_2_web_orig",
       "extent": {
-        "N": "85",
-        "S": "90",
-        "W": "170",
+        "N": "90",
+        "S": "-90",
+        "W": "-180",
         "E": "180"
       }
     },
@@ -2010,7 +2066,7 @@
       "caption": {
         "en": "Gran Sabana near Rio Carrao, Venezuela"
       }
-    }
+    },
   },
   {
     "id": "T4.3",
@@ -2031,7 +2087,7 @@
       "caption": {
         "en": "Termite mound in spinifex savanna, Western Australia"
       }
-    }
+    },
   },
   {
     "id": "T4.4",
@@ -2052,7 +2108,7 @@
       "caption": {
         "en": "Temperate grassy woodland, Tamworth, Australia"
       }
-    }
+    },
   },
   {
     "id": "T4.5",
@@ -2073,7 +2129,7 @@
       "caption": {
         "en": "Herd of bison, Badlands Overlook, North Dakota USA"
       }
-    }
+    },
   },
   {
     "id": "T5.1",
@@ -2082,7 +2138,13 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "jrfep.T5_1_web_mix"
+      "tileset": "jrfep.T5_1_web_mix",
+      "extent": {
+        "N": "90",
+        "S": "-90",
+        "W": "-180",
+        "E": "180"
+      }
     },
     "title": {
       "en": "Semi-desert steppe"
@@ -2094,7 +2156,7 @@
       "caption": {
         "en": "Sagebrush steppe in Seedskadee National Wildlife Refuge, southwest Wyoming"
       }
-    }
+    },
   },
   {
     "id": "T5.2",
@@ -2103,7 +2165,13 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "jrfep.T5_2_web_mix"
+      "tileset": "jrfep.T5_2_web_mix",
+      "extent": {
+        "N": "90",
+        "S": "-90",
+        "W": "-180",
+        "E": "180"
+      }
     },
     "title": {
       "en": "Succulent or Thorny deserts and semi-deserts"
@@ -2115,7 +2183,7 @@
       "caption": {
         "en": "Thorny Desert, Cataviña, Mexico"
       }
-    }
+    },
   },
   {
     "id": "T5.3",
@@ -2124,7 +2192,13 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "jrfep.T5_3_web_mix"
+      "tileset": "jrfep.T5_3_web_mix",
+      "extent": {
+        "N": "90",
+        "S": "-90",
+        "W": "-180",
+        "E": "180"
+      }
     },
     "title": {
       "en": "Sclerophyll hot deserts and semi-deserts"
@@ -2136,7 +2210,7 @@
       "caption": {
         "en": "Hummock grasses, Great Victoria Desert, Australia"
       }
-    }
+    },
   },
   {
     "id": "T5.4",
@@ -2145,7 +2219,13 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "jrfep.T5_4_web_mix"
+      "tileset": "jrfep.T5_4_web_mix",
+      "extent": {
+        "N": "90",
+        "S": "-90",
+        "W": "-180",
+        "E": "180"
+      }
     },
     "title": {
       "en": "Cool deserts and semi-deserts"
@@ -2157,7 +2237,7 @@
       "caption": {
         "en": "Altai mountains, Mongolia"
       }
-    }
+    },
   },
   {
     "id": "T5.5",
@@ -2166,7 +2246,13 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "jrfep.T5_5_web_mix"
+      "tileset": "jrfep.T5_5_web_mix",
+      "extent": {
+        "N": "90",
+        "S": "-90",
+        "W": "-180",
+        "E": "180"
+      }
     },
     "title": {
       "en": "Hyper-arid deserts"
@@ -2178,7 +2264,7 @@
       "caption": {
         "en": "Sparsely vegetated Atacama desert, Peru, where sea fog is the main source of moisture"
       }
-    }
+    },
   },
   {
     "id": "T6.1",
@@ -2186,11 +2272,12 @@
     "biome": "T6",
     "layer": {
       "source": "mapbox",
+      "type": "raster",
       "tileset": "jrfep.T6_1_web_map",
       "extent": {
-        "N": "85",
-        "S": "90",
-        "W": "170",
+        "N": "90",
+        "S": "-90",
+        "W": "-180",
         "E": "180"
       }
     },
@@ -2207,7 +2294,7 @@
       "caption": {
         "en": "Edge of the Antarctic ice sheet, Paradise Bay"
       }
-    }
+    },
   },
   {
     "id": "T6.2",
@@ -2231,7 +2318,7 @@
       "caption": {
         "en": "Rocky mountains around Paradise Bay, Antarctica"
       }
-    }
+    },
   },
   {
     "id": "T6.3",
@@ -2239,11 +2326,12 @@
     "biome": "T6",
     "layer": {
       "source": "mapbox",
+      "type": "raster",
       "tileset": "jrfep.T6_3_web_map",
       "extent": {
         "N": "90",
-        "S": "80",
-        "W": "170",
+        "S": "-90",
+        "W": "-180",
         "E": "180"
       }
     },
@@ -2257,7 +2345,7 @@
       "caption": {
         "en": "Tundra vegetation at Sydkap, inner Scoresby Sund, East Greenland"
       }
-    }
+    },
   },
   {
     "id": "T6.4",
@@ -2278,7 +2366,7 @@
       "caption": {
         "en": "Alpine grassland with diverse herbs, Davos Klosters, Switzerland"
       }
-    }
+    },
   },
   {
     "id": "T6.5",
@@ -2287,7 +2375,13 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "jrfep.T6_5_web_mix"
+      "tileset": "jrfep.T6_5_web_mix",
+      "extent": {
+        "N": "90",
+        "S": "-90",
+        "W": "-180",
+        "E": "180"
+      }
     },
     "title": {
       "en": "Tropical alpine grasslands and herbfields"
@@ -2303,7 +2397,7 @@
       "caption": {
         "en": "Giant rosettes of Lobelia and Dendrosenecio in alpine herbfields, Rwenzori Mountains, Uganda"
       }
-    }
+    },
   },
   {
     "id": "T7.1",
@@ -2312,7 +2406,13 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "jrfep.T7_1_web_mix"
+      "tileset": "jrfep.T7_1_web_alt",
+      "extent": {
+        "N": "90",
+        "S": "-90",
+        "W": "-180",
+        "E": "180"
+      }
     },
     "title": {
       "en": "Annual croplands"
@@ -2324,7 +2424,7 @@
       "caption": {
         "en": "Wheat crop at harvest time, Hohenberg-Krusemark, Germany"
       }
-    }
+    },
   },
   {
     "id": "T7.2",
@@ -2332,11 +2432,12 @@
     "biome": "T7",
     "layer": {
       "source": "mapbox",
+      "type": "raster",
       "tileset": "jrfep.T7_2_web_map",
       "extent": {
-        "N": "85",
-        "S": "90",
-        "W": "170",
+        "N": "90",
+        "S": "-90",
+        "W": "-180",
         "E": "180"
       }
     },
@@ -2350,7 +2451,7 @@
       "caption": {
         "en": "Dairy cattle on sown pasture, Ireland"
       }
-    }
+    },
   },
   {
     "id": "T7.3",
@@ -2359,7 +2460,13 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "jrfep.T7_3_web_mix"
+      "tileset": "jrfep.T7_3_web_alt",
+      "extent": {
+        "N": "90",
+        "S": "-90",
+        "W": "-180",
+        "E": "180"
+      }
     },
     "title": {
       "en": "Plantations"
@@ -2371,7 +2478,7 @@
       "caption": {
         "en": "Multi-species plantation (shade coffee), Chikmagalur, India"
       }
-    }
+    },
   },
   {
     "id": "T7.4",
@@ -2380,7 +2487,13 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "jrfep.T7_4_web_orig"
+      "tileset": "jrfep.T7_4_web_orig",
+      "extent": {
+        "N": "90",
+        "S": "-90",
+        "W": "-180",
+        "E": "180"
+      }
     },
     "title": {
       "en": "Urban and industrial ecosystems"
@@ -2392,7 +2505,7 @@
       "caption": {
         "en": "São Paulo, Brazil"
       }
-    }
+    },
   },
   {
     "id": "T7.5",
@@ -2401,7 +2514,13 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "jrfep.T7_5_web_mix"
+      "tileset": "jrfep.T7_5_web_mix",
+      "extent": {
+        "N": "90",
+        "S": "-90",
+        "W": "-180",
+        "E": "180"
+      }
     },
     "title": {
       "en": "Derived semi-natural pastures and old fields"
@@ -2413,7 +2532,7 @@
       "caption": {
         "en": "Semi-natural grassland, South Downs, England"
       }
-    }
+    },
   },
   {
     "id": "TF1.1",
@@ -2422,7 +2541,13 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "jrfep.TF1_1_web_map"
+      "tileset": "jrfep.TF1_1_web_map",
+      "extent": {
+        "N": "90",
+        "S": "-90",
+        "W": "-180",
+        "E": "180"
+      }
     },
     "title": {
       "en": "Tropical flooded forests and peat forests"
@@ -2434,7 +2559,7 @@
       "caption": {
         "en": "Black water peat swamp forest, Gunung Mulu National Park, Sarawak, Malaysia"
       }
-    }
+    },
   },
   {
     "id": "TF1.2",
@@ -2455,7 +2580,7 @@
       "caption": {
         "en": "River Red Gum forest, Murray River, Australia"
       }
-    }
+    },
   },
   {
     "id": "TF1.3",
@@ -2476,7 +2601,7 @@
       "caption": {
         "en": "Everlasting Swamp, NSW, Australia"
       }
-    }
+    },
   },
   {
     "id": "TF1.4",
@@ -2485,7 +2610,13 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "jrfep.TF1_4_web_map"
+      "tileset": "jrfep.TF1_4_web_map",
+      "extent": {
+        "N": "90",
+        "S": "-90",
+        "W": "-180",
+        "E": "180"
+      }
     },
     "title": {
       "en": "Seasonal floodplain marshes"
@@ -2497,7 +2628,7 @@
       "caption": {
         "en": "The Pantanal, Brazil"
       }
-    }
+    },
   },
   {
     "id": "TF1.5",
@@ -2506,7 +2637,13 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "jrfep.TF1_5_web_map"
+      "tileset": "jrfep.TF1_5_web_map",
+      "extent": {
+        "N": "90",
+        "S": "-90",
+        "W": "-180",
+        "E": "180"
+      }
     },
     "title": {
       "en": "Episodic arid floodplains"
@@ -2518,7 +2655,7 @@
       "caption": {
         "en": "Episodic Eyre Creek arid floodplain, Queensland, Australia"
       }
-    }
+    },
   },
   {
     "id": "TF1.6",
@@ -2539,7 +2676,7 @@
       "caption": {
         "en": "Raised peat bog with Sphagnum, scattered trees and flark pools, Kemeri Bog, Latvia"
       }
-    }
+    },
   },
   {
     "id": "TF1.7",
@@ -2560,6 +2697,6 @@
       "caption": {
         "en": "Avaste fen, Estonia"
       }
-    }
+    },
   }
 ]
