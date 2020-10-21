@@ -921,9 +921,9 @@
     "path": "m_2_3",
     "biome": "M2",
     "layer": {
-      "source": "github",
-      "type": "topojson",
-      "path": "layers/M2.3.web.orig_v1.0_topo.json"
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.M2_3_web_orig",
     },
     "title": {
       "en": "Bathypelagic ocean waters"
