@@ -1,0 +1,2565 @@
+[
+  {
+    "id": "F1.1",
+    "path": "f_1_1",
+    "biome": "F1",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.F1_1_web_mix",
+      "extent": {
+        "N": "85",
+        "S": "90",
+        "W": "170",
+        "E": "180"
+      }
+    },
+    "title": {
+      "en": "Permanent upland streams"
+    },
+    "keywords": {
+      "en": "rivers"
+    },
+    "image": {
+      "credit": {
+        "en": "Samuel H Austin / Virginia Water Science Center"
+      },
+      "caption": {
+        "en": "Appalachian Mountain Stream in the Spring"
+      }
+    }
+  },
+  {
+    "id": "F1.2",
+    "path": "f_1_2",
+    "biome": "F1",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.F1_2_web_map",
+      "extent": {
+        "N": "85",
+        "S": "90",
+        "W": "170",
+        "E": "180"
+      }
+    },
+    "title": {
+      "en": "Permanent lowland rivers"
+    },
+    "image": {
+      "credit": {
+        "en": "David Keith"
+      },
+      "caption": {
+        "en": "Rio Carrao, Venezuela"
+      }
+    },
+    "diagram": {
+      "caption": {
+        "en": "A custom diagram caption set in /config/groups.json"
+      }
+    }
+  },
+  {
+    "id": "F1.3",
+    "path": "f_1_3",
+    "biome": "F1",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.F1_3_web_map",
+      "extent": {
+        "N": "85",
+        "S": "90",
+        "W": "170",
+        "E": "180"
+      }
+    },
+    "title": {
+      "en": "Freeze-thaw rivers and streams"
+    },
+    "image": {
+      "credit": {
+        "en": "Kastey on Wikimedia Commons, licensed under CC 4.0"
+      },
+      "caption": {
+        "en": "Volga River, Zubstov, Russia"
+      }
+    }
+  },
+  {
+    "id": "F1.4",
+    "path": "f_1_4",
+    "biome": "F1",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.F1_4_web_map",
+      "extent": {
+        "N": "85",
+        "S": "90",
+        "W": "170",
+        "E": "180"
+      }
+    },
+    "title": {
+      "en": "Seasonal upland streams"
+    },
+    "image": {
+      "credit": {
+        "en": "Raanation on Wikimedia Commons"
+      },
+      "caption": {
+        "en": "Yamuna River near Mussoorie, India"
+      }
+    }
+  },
+  {
+    "id": "F1.5",
+    "path": "f_1_5",
+    "biome": "F1",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.F1_5_web_map",
+      "extent": {
+        "N": "85",
+        "S": "90",
+        "W": "170",
+        "E": "180"
+      }
+    },
+    "title": {
+      "en": "Seasonal lowland rivers"
+    },
+    "image": {
+      "credit": {
+        "en": "David Keith"
+      },
+      "caption": {
+        "en": "Patalon Chaung, upstream of Migyaungpon, Myanmar"
+      }
+    }
+  },
+  {
+    "id": "F1.6",
+    "path": "f_1_6",
+    "biome": "F1",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.F1_6_web_mix",
+      "extent": {
+        "N": "85",
+        "S": "90",
+        "W": "170",
+        "E": "180"
+      }
+    },
+    "title": {
+      "en": "Episodic arid rivers"
+    },
+    "image": {
+      "credit": {
+        "en": "Richard Kingsford"
+      },
+      "caption": {
+        "en": "Cooper Creek in central Australia"
+      }
+    }
+  },
+  {
+    "id": "F1.7",
+    "path": "f_1_7",
+    "biome": "F1",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/F1.7.web.orig_v2.0.json"
+    },
+    "title": {
+      "en": "Large lowland rivers"
+    },
+    "image": {
+      "credit": {
+        "en": "Amazon Images / Alamy Stock Photo"
+      },
+      "caption": {
+        "en": "Amazon River near Iquitos, Peru"
+      }
+    }
+  },
+  {
+    "id": "F2.1",
+    "path": "f_2_1",
+    "biome": "F2",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.F2_1_web_alt",
+      "extent": {
+        "N": "85",
+        "S": "90",
+        "W": "170",
+        "E": "180"
+      }
+    },
+    "title": {
+      "en": "Large permanent freshwater lakes"
+    },
+    "image": {
+      "credit": {
+        "en": "Michel Roggo / [roggo.ch](http://www.roggo.ch)"
+      },
+      "caption": {
+        "en": "High cichlid fish diversity in Lake Malawi, Africa"
+      }
+    }
+  },
+  {
+    "id": "F2.2",
+    "path": "f_2_2",
+    "biome": "F2",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.F2_2_web_mix",
+      "extent": {
+        "N": "85",
+        "S": "90",
+        "W": "170",
+        "E": "180"
+      }
+    },
+    "title": {
+      "en": "Small permanent freshwater lakes"
+    },
+    "image": {
+      "credit": {
+        "en": "David Keith"
+      },
+      "caption": {
+        "en": "Lake Xinguti, Maputo Special Reserve, Mozambique"
+      }
+    }
+  },
+  {
+    "id": "F2.3",
+    "path": "f_2_3",
+    "biome": "F2",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/F2.3.web.mix_v2.0_topo.json"
+    },
+    "title": {
+      "en": "Seasonal freshwater lakes"
+    },
+    "image": {
+      "credit": {
+        "en": "Jamie Kneitel"
+      },
+      "caption": {
+        "en": "Vernal Pool, Arabia Mountain, Georgia, USA"
+      }
+    }
+  },
+  {
+    "id": "F2.4",
+    "path": "f_2_4",
+    "biome": "F2",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.F2_4_web_mix",
+      "extent": {
+        "N": "85",
+        "S": "90",
+        "W": "170",
+        "E": "180"
+      }
+    },
+    "title": {
+      "en": "Freeze-thaw freshwater lakes"
+    },
+    "image": {
+      "credit": {
+        "en": "Sveter on Wikimedia commons, licensed under CC BY-SA 3.0"
+      },
+      "caption": {
+        "en": "Frozen Lake, Ulriken, Bergen, Norway"
+      }
+    }
+  },
+  {
+    "id": "F2.5",
+    "path": "f_2_5",
+    "biome": "F2",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/F2.5.web.mix_v1.0_topo.json"
+    },
+    "title": {
+      "en": "Ephemeral freshwater lakes"
+    },
+    "image": {
+      "credit": {
+        "en": "Dirk Roux"
+      },
+      "caption": {
+        "en": "Small, episodic freshwater lake with inflow channel in the arid Tankwa-Karoo National Park, South Africa"
+      }
+    }
+  },
+  {
+    "id": "F2.6",
+    "path": "f_2_6",
+    "biome": "F2",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/F2.6.web.mix_v4.0_topo.json"
+    },
+    "title": {
+      "en": "Permanent salt and soda lakes"
+    },
+    "image": {
+      "credit": {
+        "en": "Richard Kingsford"
+      },
+      "caption": {
+        "en": "Flamingos on Lake Bogoria, a soda lake in Kenya"
+      }
+    }
+  },
+  {
+    "id": "F2.7",
+    "path": "f_2_7",
+    "biome": "F2",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/F2.7.web.mix_v1.0_topo.json"
+    },
+    "title": {
+      "en": "Ephemeral salt lakes"
+    },
+    "image": {
+      "credit": {
+        "en": "Richard Kingsford"
+      },
+      "caption": {
+        "en": "Lake Eyre, central Australia, showing beta-carotene pigment caused by the alga, _Dunaliella salina_"
+      }
+    }
+  },
+  {
+    "id": "F2.8",
+    "path": "f_2_8",
+    "biome": "F2",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.F2_8_web_mix",
+      "extent": {
+        "N": "85",
+        "S": "90",
+        "W": "170",
+        "E": "180"
+      }
+    },
+    "title": {
+      "en": "Artesian springs and oases"
+    },
+    "image": {
+      "credit": {
+        "en": "Sfivat on Wikimedia Commons"
+      },
+      "caption": {
+        "en": "Ubari Oasis in the Wadi Al Hayaa District, southwestern Libya"
+      }
+    }
+  },
+  {
+    "id": "F2.9",
+    "path": "f_2_9",
+    "biome": "F2",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.F2_9_web_mix",
+      "extent": {
+        "N": "85",
+        "S": "90",
+        "W": "170",
+        "E": "180"
+      }
+    },
+    "title": {
+      "en": "Geothermal pools and wetlands"
+    },
+    "image": {
+      "credit": {
+        "en": "Sylvia Hay"
+      },
+      "caption": {
+        "en": "Extensive cyanobacterial growth downstream of Waimangu Hot Springs, Taupo Volcanic Zone, New Zealand"
+      }
+    }
+  },
+  {
+    "id": "F2.10",
+    "path": "f_2_10",
+    "biome": "F2",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.F2_10_web_mix",
+      "extent": {
+        "N": "85",
+        "S": "90",
+        "W": "170",
+        "E": "180"
+      }
+    },
+    "title": {
+      "en": "Subglacial lakes"
+    },
+    "image": {
+      "credit": {
+        "en": "Goddard Space Flight Center / NASA, public domain"
+      },
+      "caption": {
+        "en": "Radar image of Lake Vostok ~4 km below the icesheet surface, East Antarctica"
+      }
+    }
+  },
+  {
+    "id": "F3.1",
+    "path": "f_3_1",
+    "biome": "F3",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/F3.1.web.orig_v1.0_topo.json"
+    },
+    "title": {
+      "en": "Large reservoirs"
+    },
+    "image": {
+      "credit": {
+        "en": "Dante Aguiar, public domain"
+      },
+      "caption": {
+        "en": "Gordon Dam, Tasmania, Australia"
+      }
+    }
+  },
+  {
+    "id": "F3.2",
+    "path": "f_3_2",
+    "biome": "F3",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/F3.2.web.orig_v1.0_topo.json"
+    },
+    "title": {
+      "en": "Constructed lacustrine wetlands"
+    },
+    "image": {
+      "credit": {
+        "en": "Dianne Johnson, United States Department of Agriculture"
+      },
+      "caption": {
+        "en": "Farm pond, Washington County, Ohio, USA"
+      }
+    }
+  },
+  {
+    "id": "F3.3",
+    "path": "f_3_3",
+    "biome": "F3",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.F3_3_web_alt",
+      "extent": {
+        "N": "85",
+        "S": "90",
+        "W": "170",
+        "E": "180"
+      }
+    },
+    "title": {
+      "en": "Rice paddies"
+    },
+    "image": {
+      "credit": {
+        "en": "Eric Baker on Flickr"
+      },
+      "caption": {
+        "en": "Rice paddies, Hai Duong, Vietnam"
+      }
+    }
+  },
+  {
+    "id": "F3.4",
+    "path": "f_3_4",
+    "biome": "F3",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/F3.4.web.orig_v1.0_topo.json"
+    },
+    "title": {
+      "en": "Freshwater aquafarms"
+    },
+    "image": {
+      "credit": {
+        "en": "Tom Fisk on Pexels"
+      },
+      "caption": {
+        "en": "Freshwater aquaculture ponds, Rumpin, West Java, Indonesia"
+      }
+    }
+  },
+  {
+    "id": "F3.5",
+    "path": "f_3_5",
+    "biome": "F3",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/F3.5.web.orig_v1.0_topo.json"
+    },
+    "title": {
+      "en": "Canals, ditches and drains"
+    },
+    "image": {
+      "credit": {
+        "en": "Richard Thornton / Shutterstock"
+      },
+      "caption": {
+        "en": "California irrigation canal, USA"
+      }
+    }
+  },
+  {
+    "id": "FM1.1",
+    "path": "fm_1_1",
+    "biome": "FM1",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/FM1.1.web.alt_v3.0_topo.json"
+    },
+    "title": {
+      "en": "Deepwater coastal inlets"
+    },
+    "image": {
+      "credit": {
+        "en": "Arild Lindgaard"
+      },
+      "caption": {
+        "en": "Sognefjord, Norway"
+      }
+    }
+  },
+  {
+    "id": "FM1.2",
+    "path": "fm_1_2",
+    "biome": "FM1",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/FM1.2.web.orig_v2.0_topo.json"
+    },
+    "title": {
+      "en": "Permanently open riverine estuaries and bays"
+    },
+    "image": {
+      "credit": {
+        "en": "Ralph MacNally"
+      },
+      "caption": {
+        "en": "Barwon River estuary, southeastern Australia"
+      }
+    }
+  },
+  {
+    "id": "FM1.3",
+    "path": "fm_1_3",
+    "biome": "FM1",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/FM1.3.web.orig_v2.0_topo.json"
+    },
+    "title": {
+      "en": "Intermittently closed and open lakes and lagoons"
+    },
+    "image": {
+      "credit": {
+        "en": "C. Garside"
+      },
+      "caption": {
+        "en": "Open (left) and closed (right) lagoon entrances along the New South Wales coast, Australia"
+      }
+    }
+  },
+  {
+    "id": "M1.1",
+    "path": "m_1_1",
+    "biome": "M1",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/M1.1.web.orig_v1.0_topo.json"
+    },
+    "title": {
+      "en": "Seagrass meadows"
+    },
+    "image": {
+      "credit": {
+        "en": "Damocean / istock photo"
+      },
+      "caption": {
+        "en": "Cabo de Gata Nijar, Andalusia, Spain"
+      }
+    }
+  },
+  {
+    "id": "M1.2",
+    "path": "m_1_2",
+    "biome": "M1",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.M1_2_web_orig",
+      "extent": {
+        "N": "85",
+        "S": "90",
+        "W": "170",
+        "E": "180"
+      }
+    },
+    "title": {
+      "en": "Kelp forests"
+    },
+    "image": {
+      "credit": {
+        "en": "Brett Seymour / US NPS"
+      },
+      "caption": {
+        "en": "Giant kelp forest, Southern California"
+      }
+    }
+  },
+  {
+    "id": "M1.3",
+    "path": "m_1_3",
+    "biome": "M1",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.M1_3_web_orig",
+      "extent": {
+        "N": "35",
+        "S": "35",
+        "W": "170",
+        "E": "180"
+      }
+    },
+    "title": {
+      "en": "Photic coral reefs"
+    },
+    "keywords": {
+      "en": "biogenic"
+    },
+    "image": {
+      "credit": {
+        "en": "Francesco Ungaro"
+      },
+      "caption": {
+        "en": "Coral reefs, structurally complex and harbouring diverse marine life"
+      }
+    }
+  },
+  {
+    "id": "M1.4",
+    "path": "m_1_4",
+    "biome": "M1",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.M1_4_web_orig",
+      "extent": {
+        "N": "85",
+        "S": "90",
+        "W": "170",
+        "E": "180"
+      }
+    },
+    "title": {
+      "en": "Shellfish beds and reefs"
+    },
+    "keywords": {
+      "en": "biogenic"
+    },
+    "image": {
+      "credit": {
+        "en": "Chris Gillies, The Nature Conservancy"
+      },
+      "caption": {
+        "en": "Oyster reef, Georges Bay, Tasmania, Australia"
+      }
+    }
+  },
+  {
+    "id": "M1.5",
+    "path": "m_1_5",
+    "biome": "M1",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.M1_5_web_orig",
+      "extent": {
+        "N": "85",
+        "S": "90",
+        "W": "170",
+        "E": "180"
+      }
+    },
+    "title": {
+      "en": "Photo-limited marine animal forests"
+    },
+    "keywords": {
+      "en": "biogenic,coral"
+    },
+    "image": {
+      "credit": {
+        "en": "Jonathan Stark / Australian Antarctic Division"
+      },
+      "caption": {
+        "en": "Polychaete reef ~20m depth, Ellis Fjord, Antarctica"
+      }
+    }
+  },
+  {
+    "id": "M1.6",
+    "path": "m_1_6",
+    "biome": "M1",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.M1_6_web_orig",
+      "extent": {
+        "N": "85",
+        "S": "90",
+        "W": "170",
+        "E": "180"
+      }
+    },
+    "title": {
+      "en": "Subtidal rocky reefs"
+    },
+    "image": {
+      "credit": {
+        "en": "Dale Roberts, NOAA / CBNMS"
+      },
+      "caption": {
+        "en": "Red Urchin (Strongylocentrotus franciscanus) and invertebrates on rocky reef habitat, Cordell Bank National Marine Sanctuary, California"
+      }
+    }
+  },
+  {
+    "id": "M1.7",
+    "path": "m_1_7",
+    "biome": "M1",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.M1_7_web_orig",
+      "extent": {
+        "N": "85",
+        "S": "90",
+        "W": "170",
+        "E": "180"
+      }
+    },
+    "title": {
+      "en": "Subtidal sand beds"
+    },
+    "image": {
+      "credit": {
+        "en": "Andrew David, NOAA/NMFS (left). Rick Starr, NOAA/CBNMS (right)"
+      },
+      "caption": {
+        "en": "Left: Dover sole on sand, Cordell Bank National Marine Sanctuary, California. Right: Jawfish in sandy burrow."
+      }
+    }
+  },
+  {
+    "id": "M1.8",
+    "path": "m_1_8",
+    "biome": "M1",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.M1_8_web_orig",
+      "extent": {
+        "N": "85",
+        "S": "90",
+        "W": "170",
+        "E": "180"
+      }
+    },
+    "title": {
+      "en": "Subtidal mud plains"
+    },
+    "image": {
+      "credit": {
+        "en": "NOAA Okeanos Explorer Program, licensed under CC BY 2.0"
+      },
+      "caption": {
+        "en": "Mud plain with a shortspine thornyhead (Sebastolobus alascanus) and an acesta clam"
+      }
+    }
+  },
+  {
+    "id": "M1.9",
+    "path": "m_1_9",
+    "biome": "M1",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/M1.9.web.orig_v1.0_topo.json"
+    },
+    "title": {
+      "en": "Upwelling zones"
+    },
+    "image": {
+      "credit": {
+        "en": "Rich Carey / Shutterstock"
+      },
+      "caption": {
+        "en": "Sardine school in an upwelling zone, Malaysia"
+      }
+    }
+  },
+  {
+    "id": "M2.1",
+    "path": "m_2_1",
+    "biome": "M2",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.M2_1_web_orig",
+      "extent": {
+        "N": "85",
+        "S": "90",
+        "W": "170",
+        "E": "180"
+      }
+    },
+    "title": {
+      "en": "Epipelagic ocean waters"
+    },
+    "image": {
+      "credit": {
+        "en": "Hani Amir on Flickr, licensed under CC BY-NC-ND 2.0"
+      },
+      "caption": {
+        "en": "Epipelagic visual predators (mahi-mahi), Maldives"
+      }
+    }
+  },
+  {
+    "id": "M2.2",
+    "path": "m_2_2",
+    "biome": "M2",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.M2_2_web_orig",
+      "extent": {
+        "N": "85",
+        "S": "85",
+        "W": "0",
+        "E": "180"
+      }
+    },
+    "title": {
+      "en": "Mesopelagic ocean water"
+    },
+    "image": {
+      "credit": {
+        "en": "Ilse Reijs and Jan-Noud Hutten, licence CC BY 2.0"
+      },
+      "caption": {
+        "en": "Mola mola (sunfish) near Nusa Lembongan, Indonesia"
+      }
+    }
+  },
+  {
+    "id": "M2.3",
+    "path": "m_2_3",
+    "biome": "M2",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.M2_3_web_orig",
+      "extent": {
+        "N": "85",
+        "S": "85",
+        "W": "0",
+        "E": "180"
+      }
+    },
+    "title": {
+      "en": "Bathypelagic ocean waters"
+    },
+    "image": {
+      "credit": {
+        "en": "NOAA Office of Ocean Exploration and Research"
+      },
+      "caption": {
+        "en": "Hydromedusa jellyfish in the Mariana Trench, western Pacific Ocean"
+      }
+    }
+  },
+  {
+    "id": "M2.4",
+    "path": "m_2_4",
+    "biome": "M2",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.M2_4_web_orig",
+      "extent": {
+        "N": "85",
+        "S": "85",
+        "W": "175",
+        "E": "175"
+      }
+    },
+    "title": {
+      "en": "Abyssopelagic ocean waters"
+    },
+    "image": {
+      "credit": {
+        "en": "Paulo Oliveira / Alamy Stock Photo"
+      },
+      "caption": {
+        "en": "Atlantic footballfish, (_Himantolophus groenlandicus_), Female with modified ray on the head making a 'fishing-rod', tipped with a lure"
+      }
+    }
+  },
+  {
+    "id": "M2.5",
+    "path": "m_2_5",
+    "biome": "M2",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.M2_5_web_orig",
+      "extent": {
+        "N": "90",
+        "S": "90",
+        "W": "170",
+        "E": "180"
+      }
+    },
+    "title": {
+      "en": "Sea ice"
+    },
+    "image": {
+      "credit": {
+        "en": "fruchtzwerg's world on Flickr"
+      },
+      "caption": {
+        "en": "Morning visitor on sea ice"
+      }
+    }
+  },
+  {
+    "id": "M3.1",
+    "path": "m_3_1",
+    "biome": "M3",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/M3.1.web.orig_v1.0_topo.json"
+    },
+    "title": {
+      "en": "Continental and island slopes"
+    },
+    "image": {
+      "credit": {
+        "en": "V. Tunnicliffe (UBC, Canada)"
+      },
+      "caption": {
+        "en": "Detritivorous benthic crustacean foraging on the bare sediments of a continental slope"
+      }
+    }
+  },
+  {
+    "id": "M3.2",
+    "path": "m_3_2",
+    "biome": "M3",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.M3_2_web_orig"
+    },
+    "title": {
+      "en": "Submarine canyons"
+    },
+    "image": {
+      "credit": {
+        "en": "Francisco Sanchez (IEO)"
+      },
+      "caption": {
+        "en": "Wall of La Gaviera canyon, with cold-water corals, sponges, anemones, and fish, ~850 m depth in the Cantabrian Sea"
+      }
+    }
+  },
+  {
+    "id": "M3.3",
+    "path": "m_3_3",
+    "biome": "M3",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.M3_3_web_orig"
+    },
+    "title": {
+      "en": "Abyssal plains"
+    },
+    "image": {
+      "credit": {
+        "en": "Craig Smith and Diva Amon, NOAA"
+      },
+      "caption": {
+        "en": "Sea cucumber Amperima sp. on the seabed in the eastern Clarion-Clipperton Fracture Zone"
+      }
+    }
+  },
+  {
+    "id": "M3.4",
+    "path": "m_3_4",
+    "biome": "M3",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.M3_4_web_orig"
+    },
+    "title": {
+      "en": "Seamounts, ridges and plateaus"
+    },
+    "image": {
+      "credit": {
+        "en": "NOAA Office of Ocean Exploration and Research, public domain"
+      },
+      "caption": {
+        "en": "Garden of coral at depth 2,465 meters on the Sibelius Seamount"
+      }
+    }
+  },
+  {
+    "id": "M3.5",
+    "path": "m_3_5",
+    "biome": "M3",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.M3_5_web_orig"
+    },
+    "title": {
+      "en": "Deepwater biogenic beds"
+    },
+    "image": {
+      "credit": {
+        "en": "Australian Antarctic Division"
+      },
+      "caption": {
+        "en": "Corals and sponges on a deep Antarctic reef"
+      }
+    }
+  },
+  {
+    "id": "M3.6",
+    "path": "m_3_6",
+    "biome": "M3",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.M3_6_web_orig",
+      "extent": {
+        "N": "85",
+        "S": "90",
+        "W": "170",
+        "E": "180"
+      }
+    },
+    "title": {
+      "en": "Hadal trenches and troughs"
+    },
+    "image": {
+      "credit": {
+        "en": "Alan Jamieson"
+      },
+      "caption": {
+        "en": "Typical hadal fauna: A) supergiant amphipod, B) dense clusters of scavenging amphipods, C) deposit-feeding holothurians, D) predatory decapods, and E) predatory fish"
+      }
+    }
+  },
+  {
+    "id": "M3.7",
+    "path": "m_3_7",
+    "biome": "M3",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/M3.7.web.orig_v1.0_topo.json"
+    },
+    "title": {
+      "en": "Chemosynthetic-based-ecosystems (CBE)"
+    },
+    "image": {
+      "credit": {
+        "en": "NOAA"
+      },
+      "caption": {
+        "en": "Methane bubbles flow in small streams out of the sediment, north of Washington Canyon. Quill worms, anemones, and patches of microbial mat can be seen in and along the periphery of the seepage area"
+      }
+    }
+  },
+  {
+    "id": "M4.1",
+    "path": "m_4_1",
+    "biome": "M4",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/M4.1.web.orig_v1.0_topo.json"
+    },
+    "title": {
+      "en": "Submerged artificial structures"
+    },
+    "image": {
+      "credit": {
+        "en": "Andrew Boomer, Sydney Institute of Marine Science"
+      },
+      "caption": {
+        "en": "Sydney Offshore Artificial Reef, Australia"
+      }
+    }
+  },
+  {
+    "id": "M4.2",
+    "path": "m_4_2",
+    "biome": "M4",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/M4.2.web.orig_v1.0_topo.json"
+    },
+    "title": {
+      "en": "Marine aquafarms"
+    },
+    "image": {
+      "credit": {
+        "en": "Daniel Patman, licence CC BY-NC 2.0"
+      },
+      "caption": {
+        "en": "Salmon farm, North West Bay, Tasmania, Australia"
+      }
+    }
+  },
+  {
+    "id": "MFT1.1",
+    "path": "mft_1_1",
+    "biome": "MFT1",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.MFT1_1_map_orig"
+    },
+    "title": {
+      "en": "Coastal river deltas"
+    },
+    "keywords": {
+      "en": "Tidal,large"
+    },
+    "image": {
+      "credit": {
+        "en": "Jesse Allen, NASA Earth Observatory, licensed under CC 4.0"
+      },
+      "caption": {
+        "en": "Sundarbans, Ganges Delta, India & Bangladesh"
+      }
+    }
+  },
+  {
+    "id": "MFT1.2",
+    "path": "mft_1_2",
+    "biome": "MFT1",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.MFT1_2_web_orig"
+    },
+    "title": {
+      "en": "Intertidal forests and shrublands"
+    },
+    "keywords": {
+      "en": "Mangroves"
+    },
+    "image": {
+      "credit": {
+        "en": "Anton Bielousov"
+      },
+      "caption": {
+        "en": "Mangroves in Los Haitses National Park, Dominican Republic"
+      }
+    }
+  },
+  {
+    "id": "MFT1.3",
+    "path": "mft_1_3",
+    "biome": "MFT1",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.MFT1_3_web_orig"
+    },
+    "title": {
+      "en": "Coastal saltmarshes and reedbeds"
+    },
+    "image": {
+      "credit": {
+        "en": "Alexey Sergeev"
+      },
+      "caption": {
+        "en": "Tidal creeks in salt marsh near Al Thakira, Qatar"
+      }
+    }
+  },
+  {
+    "id": "MT1.1",
+    "path": "mt_1_1",
+    "biome": "MT1",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.MT1_1_web_map",
+      "extent": {
+        "N": "70",
+        "S": "70",
+        "W": "129",
+        "E": "129"
+      }
+    },
+    "title": {
+      "en": "Rocky Shorelines"
+    },
+    "image": {
+      "credit": {
+        "en": "Sven Lavender / Queensland Government, licence CC BY 4.0"
+      },
+      "caption": {
+        "en": "Sea squirts or cunjevoi Pyura"
+      }
+    }
+  },
+  {
+    "id": "MT1.2",
+    "path": "mt_1_2",
+    "biome": "MT1",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.MT1_2_web_map",
+      "extent": {
+        "N": "70",
+        "S": "70",
+        "W": "129",
+        "E": "129"
+      }
+    },
+    "title": {
+      "en": "Muddy Shorelines"
+    },
+    "image": {
+      "credit": {
+        "en": "Schleswig-Holstein Wadden Sea National Park, licensed under CC 4.0"
+      },
+      "caption": {
+        "en": "Muddy shore of the Wadden Sea, Germany"
+      }
+    }
+  },
+  {
+    "id": "MT1.3",
+    "path": "mt_1_3",
+    "biome": "MT1",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.MT1_3_web_map",
+      "extent": {
+        "N": "70",
+        "S": "70",
+        "W": "100",
+        "E": "100"
+      }
+    },
+    "title": {
+      "en": "Sandy Shorelines"
+    },
+    "image": {
+      "credit": {
+        "en": "Roger Jaensch, licence CC BY 4.0"
+      },
+      "caption": {
+        "en": "Shorebirds at high tide, Shoalwater Bay, Queensland, Australia"
+      }
+    }
+  },
+  {
+    "id": "MT1.4",
+    "path": "mt_1_4",
+    "biome": "MT1",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.MT1_4_web_map",
+      "extent": {
+        "N": "70",
+        "S": "70",
+        "W": "100",
+        "E": "129"
+      }
+    },
+    "title": {
+      "en": "Boulder and cobble shores"
+    },
+    "image": {
+      "credit": {
+        "en": "David Keith"
+      },
+      "caption": {
+        "en": "Cobble Beach, South Downs, England"
+      }
+    }
+  },
+  {
+    "id": "MT2.1",
+    "path": "mt_2_1",
+    "biome": "MT2",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.MT2_1_web_map",
+      "extent": {
+        "N": "60",
+        "S": "60",
+        "W": "100",
+        "E": "100"
+      }
+    },
+    "title": {
+      "en": "Coastal shrublands and grasslands"
+    },
+    "image": {
+      "credit": {
+        "en": "David Keith"
+      },
+      "caption": {
+        "en": "Coastal shrubland, Strait of Magellan, Chile"
+      }
+    }
+  },
+  {
+    "id": "MT3.1",
+    "path": "mt_3_1",
+    "biome": "MT3",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.MT3_1_web_map",
+      "extent": {
+        "N": "70",
+        "S": "70",
+        "W": "100",
+        "E": "129"
+      }
+    },
+    "title": {
+      "en": "Artificial shorelines"
+    },
+    "image": {
+      "credit": {
+        "en": "SkyPixels on Wikimedia Commons"
+      },
+      "caption": {
+        "en": "Cape Town Harbour, South Africa"
+      }
+    }
+  },
+  {
+    "id": "S1.1",
+    "path": "s_1_1",
+    "biome": "S1",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.S1_1_web_orig",
+      "extent": {
+        "N": "85",
+        "S": "90",
+        "W": "170",
+        "E": "180"
+      }
+    },
+    "title": {
+      "en": "Aerobic caves"
+    },
+    "image": {
+      "credit": {
+        "en": "Heather on aroundthisworld.com"
+      },
+      "caption": {
+        "en": "Bat cave, Lanquín, Guatemala"
+      }
+    }
+  },
+  {
+    "id": "S1.2",
+    "path": "s_1_2",
+    "biome": "S1",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/S1.2.web.orig_v1.0_topo.json"
+    },
+    "title": {
+      "en": "Endolithic systems"
+    },
+    "image": {
+      "credit": {
+        "en": "Philippa Uwins"
+      },
+      "caption": {
+        "en": "Endolithic nanobacteria in sandstone, Australia"
+      }
+    }
+  },
+  {
+    "id": "S2.1",
+    "path": "s_2_1",
+    "biome": "S2",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/S2.1.web.orig_v1.0_topo.json"
+    },
+    "title": {
+      "en": "Anthropogenic subterranean voids"
+    },
+    "image": {
+      "credit": {
+        "en": "Maxim / Adobe Stock"
+      },
+      "caption": {
+        "en": "Underground mining tunnel"
+      }
+    }
+  },
+  {
+    "id": "SF1.1",
+    "path": "sf_1_1",
+    "biome": "SF1",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/SF1.1.web.orig_v1.0_topo.json"
+    },
+    "title": {
+      "en": "Underground streams and pools"
+    },
+    "image": {
+      "credit": {
+        "en": "Hectonichus on Wikimedia Commons, licensed under CC BY-SA 3.0"
+      },
+      "caption": {
+        "en": "Blind cave fish, Phreatichthys andruzzii, southern Madagascar"
+      }
+    }
+  },
+  {
+    "id": "SF1.2",
+    "path": "sf_1_2",
+    "biome": "SF1",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/SF1.2.web.orig_v1.0_topo.json"
+    },
+    "title": {
+      "en": "Groundwater ecosystems"
+    },
+    "image": {
+      "credit": {
+        "en": "Jane McRae"
+      },
+      "caption": {
+        "en": "Stygofauna from the Pilbara, Western Australia"
+      }
+    }
+  },
+  {
+    "id": "SF2.1",
+    "path": "sf_2_1",
+    "biome": "SF2",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/SF2.1.web.orig_v1.0_topo.json"
+    },
+    "title": {
+      "en": "Water pipes and subterranean canals"
+    },
+    "image": {
+      "credit": {
+        "en": "Neale Cousland / Shutterstock"
+      },
+      "caption": {
+        "en": "Water pipes in the Snowy Mountains, Australia"
+      }
+    }
+  },
+  {
+    "id": "SF2.2",
+    "path": "sf_2_2",
+    "biome": "SF2",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/SF2.2.web.orig_v1.0_topo.json"
+    },
+    "title": {
+      "en": "Flooded mines and other voids"
+    },
+    "image": {
+      "credit": {
+        "en": "Jill Heinerth"
+      },
+      "caption": {
+        "en": "Flooded iron ore mine, Bell Island, Newfoundland, Canada"
+      }
+    }
+  },
+  {
+    "id": "SM1.1",
+    "path": "sm_1_1",
+    "biome": "SM1",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/SM1.1.web.grid_v3.0_topo.json"
+    },
+    "title": {
+      "en": "Anchialine caves"
+    },
+    "image": {
+      "credit": {
+        "en": "Tom Iliffe and Deron Long"
+      },
+      "caption": {
+        "en": "Deep Blue Cave, Bermuda"
+      }
+    }
+  },
+  {
+    "id": "SM1.2",
+    "path": "sm_1_2",
+    "biome": "SM1",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/SM1.1.web.grid_v3.0_topo.json"
+    },
+    "title": {
+      "en": "Anchialine pools"
+    },
+    "image": {
+      "credit": {
+        "en": "Troy Sakihara, Dept Land and Natural Resources, Hawaii"
+      },
+      "caption": {
+        "en": "Anchialine Pools, Maui, Hawaii, USA"
+      }
+    }
+  },
+  {
+    "id": "SM1.3",
+    "path": "sm_1_3",
+    "biome": "SM1",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/SM1.3.web.grid_v3.0_topo.json"
+    },
+    "title": {
+      "en": "Sea caves"
+    },
+    "image": {
+      "credit": {
+        "en": "Pseudopanax on Wikimedia Commons"
+      },
+      "caption": {
+        "en": "Sea cave at Aorangaia Island, New Zealand"
+      }
+    }
+  },
+  {
+    "id": "T1.1",
+    "path": "t_1_1",
+    "biome": "T1",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.T1_1_web_mix"
+    },
+    "title": {
+      "en": "Tropical/Subtropical lowland rainforests"
+    },
+    "image": {
+      "credit": {
+        "en": "David Keith"
+      },
+      "caption": {
+        "en": "Tropical rainforest, Daintree, northeast Australia"
+      }
+    }
+  },
+  {
+    "id": "T1.2",
+    "path": "t_1_2",
+    "biome": "T1",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.T1_2_web_mix"
+    },
+    "title": {
+      "en": "Tropical/Subtropical dry forests and scrubs"
+    },
+    "image": {
+      "credit": {
+        "en": "Toby Pennington"
+      },
+      "caption": {
+        "en": "Tropical dry forest, northern Minas Gerais, Brazil"
+      }
+    }
+  },
+  {
+    "id": "T1.3",
+    "path": "t_1_3",
+    "biome": "T1",
+    "layer": {
+      "source": "mapbox",
+      "path": "layers/T1.3.web.orig_topo.json",
+      "tileset": "jrfep.T1_3_web_alt",
+      "extent": {
+        "N": "85",
+        "S": "90",
+        "W": "170",
+        "E": "180"
+      }
+    },
+    "title": {
+      "en": "Tropical/Subtropical montane rainforests"
+    },
+    "image": {
+      "credit": {
+        "en": "David Keith"
+      },
+      "caption": {
+        "en": "Cloud forest, Mt Gower, Lord Howe Island, Oceania"
+      }
+    }
+  },
+  {
+    "id": "T1.4",
+    "path": "t_1_4",
+    "biome": "T1",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/T1.4.web.orig_v2.0_topo.json"
+    },
+    "highlight-layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "auxiliary/T1.4_buffer.topo.json",
+      "max-zoom": "3"
+    },
+    "title": {
+      "en": "Tropical heath forests"
+    },
+    "image": {
+      "credit": {
+        "en": "Bernard Dupont"
+      },
+      "caption": {
+        "en": "Kerangas Sundaland Heath Forest, Bako National Park, Malaysia"
+      }
+    }
+  },
+  {
+    "id": "T2.1",
+    "path": "t_2_1",
+    "biome": "T2",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.T2_1_web_mix"
+    },
+    "title": {
+      "en": "Boreal and temperate high montane forests and woodlands"
+    },
+    "image": {
+      "credit": {
+        "en": "Seppo Tuominen"
+      },
+      "caption": {
+        "en": "Boreal forest, Liesjärvi National Park, Tammela, Finland"
+      }
+    }
+  },
+  {
+    "id": "T2.2",
+    "path": "t_2_2",
+    "biome": "T2",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.T2_2_web_mix"
+    },
+    "title": {
+      "en": "Deciduous temperate forests"
+    },
+    "image": {
+      "credit": {
+        "en": "Anne Raunio"
+      },
+      "caption": {
+        "en": "Deciduous forest during autumn leaf fall, Inkoo, Finland"
+      }
+    }
+  },
+  {
+    "id": "T2.3",
+    "path": "t_2_3",
+    "biome": "T2",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/T2.3.web.orig_v1.0_topo.json"
+    },
+    "title": {
+      "en": "Oceanic cool temperate rainforests"
+    },
+    "image": {
+      "credit": {
+        "en": "David Keith"
+      },
+      "caption": {
+        "en": "Cool temperate evergreen forest, Hwequehwe, Chile"
+      }
+    }
+  },
+  {
+    "id": "T2.4",
+    "path": "t_2_4",
+    "biome": "T2",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/T2.4.web.orig_v2.0_topo.json"
+    },
+    "title": {
+      "en": "Warm temperate laurophyll forests"
+    },
+    "image": {
+      "credit": {
+        "en": "Jaime Plaza van Roon / AUSCAPE"
+      },
+      "caption": {
+        "en": "Warm temperate rainforest with Coachwood (Ceratopetalum apetalum), Washpool National Park, New South Wales, Australia"
+      }
+    }
+  },
+  {
+    "id": "T2.5",
+    "path": "t_2_5",
+    "biome": "T2",
+    "layer": {
+      "source": "mapbox",
+      "tileset": "jrfep.T2_5_web_alt",
+      "extent": {
+        "N": "85",
+        "S": "90",
+        "W": "170",
+        "E": "180"
+      }
+    },
+    "title": {
+      "en": "Temperate pyric humid forests"
+    },
+    "keywords": {
+      "en": "fire,pyrogenic"
+    },
+    "image": {
+      "credit": {
+        "en": "Monica Campbell"
+      },
+      "caption": {
+        "en": "Structurally complex pyric wet forest, Guy Fawkes National Park, Australia"
+      }
+    }
+  },
+  {
+    "id": "T2.6",
+    "path": "t_2_6",
+    "biome": "T2",
+    "layer": {
+      "source": "mapbox",
+      "path": "layers/T2.6.web.orig_topo.json",
+      "tileset": "jrfep.T2_6_web_mix",
+      "extent": {
+        "N": "85",
+        "S": "90",
+        "W": "170",
+        "E": "180"
+      }
+    },
+    "title": {
+      "en": "Temperate pyric sclerophyll forests and woodlands"
+    },
+    "keywords": {
+      "en": "fire,pyrogenic"
+    },
+    "image": {
+      "credit": {
+        "en": "David Keith"
+      },
+      "caption": {
+        "en": "Dry Sclerophyll Forest, Royal National Park, Australia"
+      }
+    }
+  },
+  {
+    "id": "T3.1",
+    "path": "t_3_1",
+    "biome": "T3",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/T3.1.web.orig_v2.0_topo.json"
+    },
+    "title": {
+      "en": "Seasonally dry tropical shrublands"
+    },
+    "image": {
+      "credit": {
+        "en": "Oliver Descoeudres"
+      },
+      "caption": {
+        "en": "Tropical maquis on serpentinite, Pic Maloui, New Caledonia"
+      }
+    }
+  },
+  {
+    "id": "T3.2",
+    "path": "t_3_2",
+    "biome": "T3",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/T3.2.web.orig_v1.0_topo.json"
+    },
+    "title": {
+      "en": "Seasonally dry temperate heath and shrublands"
+    },
+    "image": {
+      "credit": {
+        "en": "David Keith"
+      },
+      "caption": {
+        "en": "Temperate Heath, Mt Lesueur, Western Australia"
+      }
+    }
+  },
+  {
+    "id": "T3.3",
+    "path": "t_3_3",
+    "biome": "T3",
+    "layer": {
+      "source": "mapbox",
+      "tileset": "jrfep.T3_3_web_alt",
+      "extent": {
+        "N": "85",
+        "S": "90",
+        "W": "170",
+        "E": "180"
+      }
+    },
+    "title": {
+      "en": "Cool temperate heathlands"
+    },
+    "image": {
+      "credit": {
+        "en": "David Keith"
+      },
+      "caption": {
+        "en": "Magellanic heath, Patagonia, Chile"
+      }
+    }
+  },
+  {
+    "id": "T3.4",
+    "path": "t_3_4",
+    "biome": "T3",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.T3_4_web_mix"
+    },
+    "title": {
+      "en": "Young rocky pavements, lava flows and screes"
+    },
+    "image": {
+      "credit": {
+        "en": "David Keith"
+      },
+      "caption": {
+        "en": "Lava flow, Conguillo National Park, Chile"
+      }
+    }
+  },
+  {
+    "id": "T4.1",
+    "path": "t_4_1",
+    "biome": "T4",
+    "layer": {
+      "source": "mapbox",
+      "path": "layers/T4.1.web.orig_topo.json",
+      "tileset": "jrfep.T4_1_web_mix",
+      "extent": {
+        "N": "85",
+        "S": "90",
+        "W": "170",
+        "E": "180"
+      }
+    },
+    "title": {
+      "en": "Trophic savannas"
+    },
+    "image": {
+      "credit": {
+        "en": "Mike W. on Flickr"
+      },
+      "caption": {
+        "en": "Wildebeest in Serengeti National Park, Tanzania"
+      }
+    }
+  },
+  {
+    "id": "T4.2",
+    "path": "t_4_2",
+    "biome": "T4",
+    "layer": {
+      "source": "mapbox",
+      "path": "layers/T4.2.web.orig_topo.json",
+      "tileset": "jrfep.T4_2_web_orig",
+      "extent": {
+        "N": "85",
+        "S": "90",
+        "W": "170",
+        "E": "180"
+      }
+    },
+    "title": {
+      "en": "Pyric tussock savannas"
+    },
+    "keywords": {
+      "en": "fire,pyrogenic"
+    },
+    "image": {
+      "credit": {
+        "en": "David Keith"
+      },
+      "caption": {
+        "en": "Gran Sabana near Rio Carrao, Venezuela"
+      }
+    }
+  },
+  {
+    "id": "T4.3",
+    "path": "t_4_3",
+    "biome": "T4",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/T4.3.web.orig_v1.0_topo.json"
+    },
+    "title": {
+      "en": "Hummock savannas"
+    },
+    "image": {
+      "credit": {
+        "en": "yaruman5 on Flickr"
+      },
+      "caption": {
+        "en": "Termite mound in spinifex savanna, Western Australia"
+      }
+    }
+  },
+  {
+    "id": "T4.4",
+    "path": "t_4_4",
+    "biome": "T4",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/T4.4.web.orig_v1.0_topo.json"
+    },
+    "title": {
+      "en": "Temperate woodlands"
+    },
+    "image": {
+      "credit": {
+        "en": "David Keith"
+      },
+      "caption": {
+        "en": "Temperate grassy woodland, Tamworth, Australia"
+      }
+    }
+  },
+  {
+    "id": "T4.5",
+    "path": "t_4_5",
+    "biome": "T4",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/T4.5.web.orig_v1.0_topo.json"
+    },
+    "title": {
+      "en": "Temperate subhumid grasslands"
+    },
+    "image": {
+      "credit": {
+        "en": "indielista / Shutterstock"
+      },
+      "caption": {
+        "en": "Herd of bison, Badlands Overlook, North Dakota USA"
+      }
+    }
+  },
+  {
+    "id": "T5.1",
+    "path": "t_5_1",
+    "biome": "T5",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.T5_1_web_mix"
+    },
+    "title": {
+      "en": "Semi-desert steppe"
+    },
+    "image": {
+      "credit": {
+        "en": "Tom Koerner, U.S. Fish and Wildlife Service"
+      },
+      "caption": {
+        "en": "Sagebrush steppe in Seedskadee National Wildlife Refuge, southwest Wyoming"
+      }
+    }
+  },
+  {
+    "id": "T5.2",
+    "path": "t_5_2",
+    "biome": "T5",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.T5_2_web_mix"
+    },
+    "title": {
+      "en": "Succulent or Thorny deserts and semi-deserts"
+    },
+    "image": {
+      "credit": {
+        "en": "David Keith"
+      },
+      "caption": {
+        "en": "Thorny Desert, Cataviña, Mexico"
+      }
+    }
+  },
+  {
+    "id": "T5.3",
+    "path": "t_5_3",
+    "biome": "T5",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.T5_3_web_mix"
+    },
+    "title": {
+      "en": "Sclerophyll hot deserts and semi-deserts"
+    },
+    "image": {
+      "credit": {
+        "en": "S.D. Hopper"
+      },
+      "caption": {
+        "en": "Hummock grasses, Great Victoria Desert, Australia"
+      }
+    }
+  },
+  {
+    "id": "T5.4",
+    "path": "t_5_4",
+    "biome": "T5",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.T5_4_web_mix"
+    },
+    "title": {
+      "en": "Cool deserts and semi-deserts"
+    },
+    "image": {
+      "credit": {
+        "en": "Bolatbek Gabiden via Unsplash"
+      },
+      "caption": {
+        "en": "Altai mountains, Mongolia"
+      }
+    }
+  },
+  {
+    "id": "T5.5",
+    "path": "t_5_5",
+    "biome": "T5",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.T5_5_web_mix"
+    },
+    "title": {
+      "en": "Hyper-arid deserts"
+    },
+    "image": {
+      "credit": {
+        "en": "Toby Pennington"
+      },
+      "caption": {
+        "en": "Sparsely vegetated Atacama desert, Peru, where sea fog is the main source of moisture"
+      }
+    }
+  },
+  {
+    "id": "T6.1",
+    "path": "t_6_1",
+    "biome": "T6",
+    "layer": {
+      "source": "mapbox",
+      "tileset": "jrfep.T6_1_web_map",
+      "extent": {
+        "N": "85",
+        "S": "90",
+        "W": "170",
+        "E": "180"
+      }
+    },
+    "title": {
+      "en": "Ice sheets, glaciers and perennial snowfields"
+    },
+    "keywords": {
+      "en": "ice-cap,snowpack,snowbed,glacial-ice,ice-fields"
+    },
+    "image": {
+      "credit": {
+        "en": "David Keith"
+      },
+      "caption": {
+        "en": "Edge of the Antarctic ice sheet, Paradise Bay"
+      }
+    }
+  },
+  {
+    "id": "T6.2",
+    "path": "t_6_2",
+    "biome": "T6",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/T6.2.web.alt_v2.0_topo.json"
+    },
+    "title": {
+      "en": "Polar/alpine cliffs, screes, outcrops and lava flows"
+    },
+    "keywords": {
+      "en": "nunatak"
+    },
+    "image": {
+      "credit": {
+        "en": "David Keith"
+      },
+      "caption": {
+        "en": "Rocky mountains around Paradise Bay, Antarctica"
+      }
+    }
+  },
+  {
+    "id": "T6.3",
+    "path": "t_6_3",
+    "biome": "T6",
+    "layer": {
+      "source": "mapbox",
+      "tileset": "jrfep.T6_3_web_map",
+      "extent": {
+        "N": "90",
+        "S": "80",
+        "W": "170",
+        "E": "180"
+      }
+    },
+    "title": {
+      "en": "Polar tundra and deserts"
+    },
+    "image": {
+      "credit": {
+        "en": "Hannes Grobe, licensed under CC 2.5"
+      },
+      "caption": {
+        "en": "Tundra vegetation at Sydkap, inner Scoresby Sund, East Greenland"
+      }
+    }
+  },
+  {
+    "id": "T6.4",
+    "path": "t_6_4",
+    "biome": "T6",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/T6.4.web.orig_v1.0_topo.json"
+    },
+    "title": {
+      "en": "Temperate alpine grasslands and shrublands"
+    },
+    "image": {
+      "credit": {
+        "en": "David Keith"
+      },
+      "caption": {
+        "en": "Alpine grassland with diverse herbs, Davos Klosters, Switzerland"
+      }
+    }
+  },
+  {
+    "id": "T6.5",
+    "path": "t_6_5",
+    "biome": "T6",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.T6_5_web_mix"
+    },
+    "title": {
+      "en": "Tropical alpine grasslands and herbfields"
+    },
+    "keywords": {
+      "en": "andes,afroalpine,paramo",
+      "es": "páramo"
+    },
+    "image": {
+      "credit": {
+        "en": "Rowan Donovan / National Geographic Image Collection / Alamy Stock Photo"
+      },
+      "caption": {
+        "en": "Giant rosettes of Lobelia and Dendrosenecio in alpine herbfields, Rwenzori Mountains, Uganda"
+      }
+    }
+  },
+  {
+    "id": "T7.1",
+    "path": "t_7_1",
+    "biome": "T7",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.T7_1_web_mix"
+    },
+    "title": {
+      "en": "Annual croplands"
+    },
+    "image": {
+      "credit": {
+        "en": "Heiko Janowski on Unsplash"
+      },
+      "caption": {
+        "en": "Wheat crop at harvest time, Hohenberg-Krusemark, Germany"
+      }
+    }
+  },
+  {
+    "id": "T7.2",
+    "path": "t_7_2",
+    "biome": "T7",
+    "layer": {
+      "source": "mapbox",
+      "tileset": "jrfep.T7_2_web_map",
+      "extent": {
+        "N": "85",
+        "S": "90",
+        "W": "170",
+        "E": "180"
+      }
+    },
+    "title": {
+      "en": "Sown pastures and fields"
+    },
+    "image": {
+      "credit": {
+        "en": "Martin Abegglen on Wikimedia Commons, licensed under CC BY-SA 2.0"
+      },
+      "caption": {
+        "en": "Dairy cattle on sown pasture, Ireland"
+      }
+    }
+  },
+  {
+    "id": "T7.3",
+    "path": "t_7_3",
+    "biome": "T7",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.T7_3_web_mix"
+    },
+    "title": {
+      "en": "Plantations"
+    },
+    "image": {
+      "credit": {
+        "en": "Prashantby on Flickr, licensed under Creative Commons"
+      },
+      "caption": {
+        "en": "Multi-species plantation (shade coffee), Chikmagalur, India"
+      }
+    }
+  },
+  {
+    "id": "T7.4",
+    "path": "t_7_4",
+    "biome": "T7",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.T7_4_web_orig"
+    },
+    "title": {
+      "en": "Urban and industrial ecosystems"
+    },
+    "image": {
+      "credit": {
+        "en": "Sergio Souza"
+      },
+      "caption": {
+        "en": "São Paulo, Brazil"
+      }
+    }
+  },
+  {
+    "id": "T7.5",
+    "path": "t_7_5",
+    "biome": "T7",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.T7_5_web_mix"
+    },
+    "title": {
+      "en": "Derived semi-natural pastures and old fields"
+    },
+    "image": {
+      "credit": {
+        "en": "David Keith"
+      },
+      "caption": {
+        "en": "Semi-natural grassland, South Downs, England"
+      }
+    }
+  },
+  {
+    "id": "TF1.1",
+    "path": "tf_1_1",
+    "biome": "TF1",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.TF1_1_web_map"
+    },
+    "title": {
+      "en": "Tropical flooded forests and peat forests"
+    },
+    "image": {
+      "credit": {
+        "en": "Jeremiah Harris"
+      },
+      "caption": {
+        "en": "Black water peat swamp forest, Gunung Mulu National Park, Sarawak, Malaysia"
+      }
+    }
+  },
+  {
+    "id": "TF1.2",
+    "path": "tf_1_2",
+    "biome": "TF1",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/TF1.2.web.orig_v2.0_topo.json"
+    },
+    "title": {
+      "en": "Subtropical/temperate forested wetlands"
+    },
+    "image": {
+      "credit": {
+        "en": "Shaun Cunningham"
+      },
+      "caption": {
+        "en": "River Red Gum forest, Murray River, Australia"
+      }
+    }
+  },
+  {
+    "id": "TF1.3",
+    "path": "tf_1_3",
+    "biome": "TF1",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/TF1.3.web.orig_v1.0_topo.json"
+    },
+    "title": {
+      "en": "Permanent marshes"
+    },
+    "image": {
+      "credit": {
+        "en": " John Spencer / OEH"
+      },
+      "caption": {
+        "en": "Everlasting Swamp, NSW, Australia"
+      }
+    }
+  },
+  {
+    "id": "TF1.4",
+    "path": "tf_1_4",
+    "biome": "TF1",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.TF1_4_web_map"
+    },
+    "title": {
+      "en": "Seasonal floodplain marshes"
+    },
+    "image": {
+      "credit": {
+        "en": "Richard Kingsford"
+      },
+      "caption": {
+        "en": "The Pantanal, Brazil"
+      }
+    }
+  },
+  {
+    "id": "TF1.5",
+    "path": "tf_1_5",
+    "biome": "TF1",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.TF1_5_web_map"
+    },
+    "title": {
+      "en": "Episodic arid floodplains"
+    },
+    "image": {
+      "credit": {
+        "en": "Richard Kingsford"
+      },
+      "caption": {
+        "en": "Episodic Eyre Creek arid floodplain, Queensland, Australia"
+      }
+    }
+  },
+  {
+    "id": "TF1.6",
+    "path": "tf_1_6",
+    "biome": "TF1",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/TF1.6.web.orig_v1.0_topo.json"
+    },
+    "title": {
+      "en": "Boreal, temperate and montane peat bogs"
+    },
+    "image": {
+      "credit": {
+        "en": "David Keith"
+      },
+      "caption": {
+        "en": "Raised peat bog with Sphagnum, scattered trees and flark pools, Kemeri Bog, Latvia"
+      }
+    }
+  },
+  {
+    "id": "TF1.7",
+    "path": "tf_1_7",
+    "biome": "TF1",
+    "layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/TF1.7.web.orig_v1.0_topo.json"
+    },
+    "title": {
+      "en": "Boreal and temperate fens"
+    },
+    "image": {
+      "credit": {
+        "en": "Ivo Kruusamägi on Wikimedia commons, licensed under CC 4.0"
+      },
+      "caption": {
+        "en": "Avaste fen, Estonia"
+      }
+    }
+  }
+]
