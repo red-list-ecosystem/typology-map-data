@@ -1067,7 +1067,13 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "jrfep.M3_4_web_orig"
+      "tileset": "jrfep.M3_4_web_orig",
+      "extent": {
+        "N": "90",
+        "S": "90",
+        "W": "180",
+        "E": "180"
+      }
     },
     "title": {
       "en": "Seamounts, ridges and plateaus"
@@ -1088,7 +1094,13 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "jrfep.M3_5_web_orig"
+      "tileset": "jrfep.M3_5_web_orig",
+      "extent": {
+        "N": "90",
+        "S": "90",
+        "W": "180",
+        "E": "180"
+      }
     },
     "title": {
       "en": "Deepwater biogenic beds"
@@ -1111,9 +1123,9 @@
       "type": "raster",
       "tileset": "jrfep.M3_6_web_orig",
       "extent": {
-        "N": "85",
+        "N": "90",
         "S": "90",
-        "W": "170",
+        "W": "180",
         "E": "180"
       }
     },
