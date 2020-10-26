@@ -2421,7 +2421,13 @@
       "caption": {
         "en": "Giant rosettes of Lobelia and Dendrosenecio in alpine herbfields, Rwenzori Mountains, Uganda"
       }
-    }
+   },
+   "highlight-layer": {
+     "source": "github",
+     "type": "topojson",
+     "path": "auxiliary/T6.5_buffer.topo.json",
+     "max-zoom": "3"
+   }
   },
   {
     "id": "T7.1",
