@@ -2318,7 +2318,13 @@
       "caption": {
         "en": "Edge of the Antarctic ice sheet, Paradise Bay"
       }
-    }
+    },
+   "highlight-layer": {
+     "source": "github",
+     "type": "topojson",
+     "path": "auxiliary/T6.1_buffer.topo.json",
+     "max-zoom": "3"
+   }
   },
   {
     "id": "T6.2",
