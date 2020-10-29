@@ -86,6 +86,12 @@
       "caption": {
         "en": "Volga River, Zubstov, Russia"
       }
+    },
+    "highlight-layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "auxiliary/F1.3_buffer.topo.json",
+      "max-zoom": "3"
     }
   },
   {
@@ -140,6 +146,12 @@
       "caption": {
         "en": "Patalon Chaung, upstream of Migyaungpon, Myanmar"
       }
+    },
+    "highlight-layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "auxiliary/F1.5_buffer.topo.json",
+      "max-zoom": "3"
     }
   },
   {
@@ -167,6 +179,12 @@
       "caption": {
         "en": "Cooper Creek in central Australia"
       }
+    },
+    "highlight-layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "auxiliary/F1.6_buffer.topo.json",
+      "max-zoom": "3"
     }
   },
   {
@@ -275,6 +293,12 @@
       "caption": {
         "en": "Vernal Pool, Arabia Mountain, Georgia, USA"
       }
+    },
+    "highlight-layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "auxiliary/F2.3_buffer.topo.json",
+      "max-zoom": "3"
     }
   },
   {
@@ -302,6 +326,12 @@
       "caption": {
         "en": "Frozen Lake, Ulriken, Bergen, Norway"
       }
+    },
+    "highlight-layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "auxiliary/F2.4_buffer.topo.json",
+      "max-zoom": "3"
     }
   },
   {
@@ -323,6 +353,12 @@
       "caption": {
         "en": "Small, episodic freshwater lake with inflow channel in the arid Tankwa-Karoo National Park, South Africa"
       }
+    },
+    "highlight-layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "auxiliary/F2.5_buffer.topo.json",
+      "max-zoom": "3"
     }
   },
   {
@@ -344,6 +380,12 @@
       "caption": {
         "en": "Flamingos on Lake Bogoria, a soda lake in Kenya"
       }
+    },
+    "highlight-layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "auxiliary/F2.6_buffer.topo.json",
+      "max-zoom": "3"
     }
   },
   {
@@ -365,6 +407,12 @@
       "caption": {
         "en": "Lake Eyre, central Australia, showing beta-carotene pigment caused by the alga, _Dunaliella salina_"
       }
+    },
+    "highlight-layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "auxiliary/F2.7_buffer.topo.json",
+      "max-zoom": "3"
     }
   },
   {
