@@ -1700,6 +1700,12 @@
       "caption": {
         "en": "Tropical rainforest, Daintree, northeast Australia"
       }
+    },
+    "highlight-layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "auxiliary/T1.1_buffer.topo.json",
+      "max-zoom": "3"
     }
   },
   {
@@ -1727,6 +1733,12 @@
       "caption": {
         "en": "Tropical dry forest, northern Minas Gerais, Brazil"
       }
+    },
+    "highlight-layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "auxiliary/T1.2_buffer.topo.json",
+      "max-zoom": "3"
     }
   },
   {
@@ -1754,6 +1766,12 @@
       "caption": {
         "en": "Cloud forest, Mt Gower, Lord Howe Island, Oceania"
       }
+    },
+    "highlight-layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "auxiliary/T1.3_buffer.topo.json",
+      "max-zoom": "3"
     }
   },
   {
