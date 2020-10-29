@@ -215,6 +215,12 @@
       "caption": {
         "en": "High cichlid fish diversity in Lake Malawi, Africa"
       }
+    },
+    "highlight-layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "auxiliary/F2.1_buffer.topo.json",
+      "max-zoom": "3"
     }
   },
   {
@@ -242,6 +248,12 @@
       "caption": {
         "en": "Lake Xinguti, Maputo Special Reserve, Mozambique"
       }
+    },
+    "highlight-layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "auxiliary/F2.2_buffer.topo.json",
+      "max-zoom": "3"
     }
   },
   {
