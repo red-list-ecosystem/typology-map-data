@@ -632,6 +632,12 @@
       "caption": {
         "en": "Sognefjord, Norway"
       }
+    },
+    "highlight-layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "auxiliary/FM1.1_buffer.topo.json",
+      "max-zoom": "3"
     }
   },
   {
@@ -701,6 +707,12 @@
       "caption": {
         "en": "Cabo de Gata Nijar, Andalusia, Spain"
       }
+    },
+    "highlight-layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "auxiliary/M1.1_buffer.topo.json",
+      "max-zoom": "3"
     }
   },
   {
@@ -728,6 +740,12 @@
       "caption": {
         "en": "Giant kelp forest, Southern California"
       }
+    },
+    "highlight-layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "auxiliary/M1.2_buffer.topo.json",
+      "max-zoom": "3"
     }
   },
   {
@@ -758,6 +776,12 @@
       "caption": {
         "en": "Coral reefs, structurally complex and harbouring diverse marine life"
       }
+    },
+    "highlight-layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "auxiliary/M1.3_buffer.topo.json",
+      "max-zoom": "3"
     }
   },
   {
@@ -920,6 +944,12 @@
       "caption": {
         "en": "Sardine school in an upwelling zone, Malaysia"
       }
+    },
+    "highlight-layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "auxiliary/M1.9_buffer.topo.json",
+      "max-zoom": "3"
     }
   },
   {
