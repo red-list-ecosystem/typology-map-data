@@ -1322,6 +1322,12 @@
       "caption": {
         "en": "Sundarbans, Ganges Delta, India & Bangladesh"
       }
+    },
+    "highlight-layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "auxiliary/MFT1.1_buffer.topo.json",
+      "max-zoom": "3"
     }
   },
   {
@@ -1352,6 +1358,12 @@
       "caption": {
         "en": "Mangroves in Los Haitses National Park, Dominican Republic"
       }
+    },
+    "highlight-layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "auxiliary/MFT1.2_buffer.topo.json",
+      "max-zoom": "3"
     }
   },
   {
@@ -1379,6 +1391,12 @@
       "caption": {
         "en": "Tidal creeks in salt marsh near Al Thakira, Qatar"
       }
+    },
+    "highlight-layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "auxiliary/MFT1.3_buffer.topo.json",
+      "max-zoom": "3"
     }
   },
   {
