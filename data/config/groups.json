@@ -2781,7 +2781,13 @@
       "caption": {
         "en": "Black water peat swamp forest, Gunung Mulu National Park, Sarawak, Malaysia"
       }
-    }
+    },
+   "highlight-layer": {
+     "source": "github",
+     "type": "topojson",
+     "path": "auxiliary/TF1.1_buffer.topo.json",
+     "max-zoom": "3"
+   }
   },
   {
     "id": "TF1.2",
@@ -2823,7 +2829,13 @@
       "caption": {
         "en": "Everlasting Swamp, NSW, Australia"
       }
-    }
+    },
+   "highlight-layer": {
+     "source": "github",
+     "type": "topojson",
+     "path": "auxiliary/TF1.3_buffer.topo.json",
+     "max-zoom": "3"
+   }
   },
   {
     "id": "TF1.4",
@@ -2850,7 +2862,13 @@
       "caption": {
         "en": "The Pantanal, Brazil"
       }
-    }
+    },
+   "highlight-layer": {
+     "source": "github",
+     "type": "topojson",
+     "path": "auxiliary/TF1.4_buffer.topo.json",
+     "max-zoom": "3"
+   }
   },
   {
     "id": "TF1.5",
@@ -2877,7 +2895,13 @@
       "caption": {
         "en": "Episodic Eyre Creek arid floodplain, Queensland, Australia"
       }
-    }
+    },
+   "highlight-layer": {
+     "source": "github",
+     "type": "topojson",
+     "path": "auxiliary/TF1.5_buffer.topo.json",
+     "max-zoom": "3"
+   }
   },
   {
     "id": "TF1.6",
