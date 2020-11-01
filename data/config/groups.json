@@ -2333,6 +2333,12 @@
       "caption": {
         "en": "Thorny Desert, Cataviña, Mexico"
       }
+    },
+    "highlight-layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "auxiliary/T5.2_buffer.topo.json",
+      "max-zoom": "3"
     }
   },
   {
@@ -2414,6 +2420,12 @@
       "caption": {
         "en": "Sparsely vegetated Atacama desert, Peru, where sea fog is the main source of moisture"
       }
+    },
+    "highlight-layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "auxiliary/T5.5_buffer.topo.json",
+      "max-zoom": "3"
     }
   },
   {
