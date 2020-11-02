@@ -194,7 +194,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/F1.7.web.orig_v2.0.json"
+      "path": "layers/F1.7.web.orig_v2.0_topo.json"
     },
     "title": {
       "en": "Large lowland rivers"
@@ -2943,7 +2943,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/TF1.7.web.orig_v1.0_topo.json"
+      "path": "layers/TF1.7.web.orig_v2.0_topo.json"
     },
     "title": {
       "en": "Boreal and temperate fens"
