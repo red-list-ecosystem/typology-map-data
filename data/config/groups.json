@@ -1719,10 +1719,15 @@
     "path": "sm_1_1",
     "biome": "SM1",
     "layer": {
-      "source": "github",
-      "type": "topojson",
-      "path": "layers/SM1.1.web.grid_v3.0_topo.json"
-    },
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.SM1_1_web_grid",
+      "extent": {
+        "N": "90",
+        "S": "90",
+        "W": "180",
+        "E": "180"
+     },
     "title": {
       "en": "Anchialine caves"
     },
@@ -1767,10 +1772,15 @@
     "path": "sm_1_3",
     "biome": "SM1",
     "layer": {
-      "source": "github",
-      "type": "topojson",
-      "path": "layers/SM1.3.web.grid_v3.0_topo.json"
-    },
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.SM1_1_web_grid",
+      "extent": {
+        "N": "90",
+        "S": "90",
+        "W": "180",
+        "E": "180"
+     },
     "title": {
       "en": "Sea caves"
     },
