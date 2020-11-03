@@ -441,15 +441,9 @@
     "path": "f_2_9",
     "biome": "F2",
     "layer": {
-      "source": "mapbox",
-      "type": "raster",
-      "tileset": "jrfep.F2_9_web_mix",
-      "extent": {
-        "N": "90",
-        "S": "90",
-        "W": "180",
-        "E": "180"
-      }
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/F2.9.web.mix_v1.0_topo.json"
     },
     "title": {
       "en": "Geothermal pools and wetlands"
@@ -639,15 +633,9 @@
     "path": "fm_1_2",
     "biome": "FM1",
     "layer": {
-      "source": "mapbox",
-      "type": "raster",
-      "tileset": "jrfep.FM1_2_web_map",
-      "extent": {
-        "N": "90",
-        "S": "90",
-        "W": "180",
-        "E": "180"
-      }
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/FM1.2.web.map_v1.0_topo.json"
     },
     "title": {
       "en": "Permanently open riverine estuaries and bays"
@@ -747,16 +735,10 @@
     "path": "m_1_3",
     "biome": "M1",
     "layer": {
-      "source": "mapbox",
-      "type": "raster",
-      "tileset": "jrfep.M1_3_web_orig",
-      "extent": {
-        "N": "90",
-        "S": "90",
-        "W": "180",
-        "E": "180"
-      }
-    },
+     "source": "github",
+     "type": "topojson",
+     "path": "layers/M1.3.web.orig_v1.0_topo.json"
+   },
     "title": {
       "en": "Photic coral reefs"
     },
@@ -783,15 +765,9 @@
     "path": "m_1_4",
     "biome": "M1",
     "layer": {
-      "source": "mapbox",
-      "type": "raster",
-      "tileset": "jrfep.M1_4_web_orig",
-      "extent": {
-        "N": "90",
-        "S": "90",
-        "W": "180",
-        "E": "180"
-      }
+     "source": "github",
+     "type": "topojson",
+     "path": "layers/M1.4.web.orig_v1.0_topo.json"
     },
     "title": {
       "en": "Shellfish beds and reefs"
@@ -1005,16 +981,10 @@
     "path": "m_2_3",
     "biome": "M2",
     "layer": {
-      "source": "mapbox",
-      "type": "raster",
-      "tileset": "jrfep.M2_3_web_orig",
-      "extent": {
-        "N": "90",
-        "S": "90",
-        "W": "180",
-        "E": "180"
-      }
-    },
+     "source": "github",
+     "type": "topojson",
+     "path": "layers/M2.3.web.orig_v1.0_topo.json"
+   },
     "title": {
       "en": "Bathypelagic ocean waters"
     },
@@ -1059,16 +1029,10 @@
     "path": "m_2_5",
     "biome": "M2",
     "layer": {
-      "source": "mapbox",
-      "type": "raster",
-      "tileset": "jrfep.M2_5_web_orig",
-      "extent": {
-        "N": "90",
-        "S": "90",
-        "W": "180",
-        "E": "180"
-      }
-    },
+     "source": "github",
+     "type": "topojson",
+     "path": "layers/M2.5.web.orig_v1.0_topo.json"
+   },
     "title": {
       "en": "Sea ice"
     },
@@ -1203,15 +1167,9 @@
     "path": "m_3_6",
     "biome": "M3",
     "layer": {
-      "source": "mapbox",
-      "type": "raster",
-      "tileset": "jrfep.M3_6_web_orig",
-      "extent": {
-        "N": "90",
-        "S": "90",
-        "W": "180",
-        "E": "180"
-      }
+    "source": "github",
+    "type": "topojson",
+    "path": "layers/M3.6.web.orig_v1.0_topo.json"
     },
     "title": {
       "en": "Hadal trenches and troughs"
@@ -1293,16 +1251,10 @@
     "path": "mft_1_1",
     "biome": "MFT1",
     "layer": {
-      "source": "mapbox",
-      "type": "raster",
-      "tileset": "jrfep.MFT1_1_map_orig",
-      "extent": {
-        "N": "90",
-        "S": "90",
-        "W": "180",
-        "E": "180"
-      }
-    },
+     "source": "github",
+     "type": "topojson",
+     "path": "layers/MFT1.1.map.orig_v1.0_topo.json"
+   },
     "title": {
       "en": "Coastal river deltas"
     },
