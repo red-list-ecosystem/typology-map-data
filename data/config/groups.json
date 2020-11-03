@@ -420,15 +420,9 @@
     "path": "f_2_8",
     "biome": "F2",
     "layer": {
-      "source": "mapbox",
-      "type": "raster",
-      "tileset": "jrfep.F2_8_web_mix",
-      "extent": {
-        "N": "90",
-        "S": "90",
-        "W": "180",
-        "E": "180"
-      }
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/F2.8.web.mix_v1.0_topo.json"
     },
     "title": {
       "en": "Artesian springs and oases"
@@ -1866,15 +1860,9 @@
     "path": "t_1_3",
     "biome": "T1",
     "layer": {
-      "source": "mapbox",
-      "type": "raster",
-      "tileset": "jrfep.T1_3_web_alt",
-      "extent": {
-        "N": "90",
-        "S": "90",
-        "W": "180",
-        "E": "180"
-      }
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/T1.3.web.orig_v2.0_topo.json"
     },
     "title": {
       "en": "Tropical/Subtropical montane rainforests"
