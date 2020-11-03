@@ -159,15 +159,9 @@
     "path": "f_1_6",
     "biome": "F1",
     "layer": {
-      "source": "mapbox",
-      "type": "raster",
-      "tileset": "jrfep.F1_6_web_mix",
-      "extent": {
-        "N": "90",
-        "S": "90",
-        "W": "180",
-        "E": "180"
-      }
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/F1.6.web.mix_v1.0_topo.json"
     },
     "title": {
       "en": "Episodic arid rivers"
