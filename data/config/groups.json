@@ -1512,15 +1512,9 @@
     "path": "s_1_1",
     "biome": "S1",
     "layer": {
-      "source": "mapbox",
-      "type": "raster",
-      "tileset": "jrfep.S1_1_web_orig",
-      "extent": {
-        "N": "90",
-        "S": "90",
-        "W": "180",
-        "E": "180"
-      }
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/S1.1.web.orig_v1.0_topo.json"
     },
     "title": {
       "en": "Aerobic caves"
