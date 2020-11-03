@@ -1862,7 +1862,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/T1.3.web.orig_v2.0_topo.json"
+      "path": "layers/T1.3.web.alt_v2.1_topo.json"
     },
     "title": {
       "en": "Tropical/Subtropical montane rainforests"
@@ -2875,15 +2875,9 @@
     "path": "tf_1_5",
     "biome": "TF1",
     "layer": {
-      "source": "mapbox",
-      "type": "raster",
-      "tileset": "jrfep.TF1_5_web_map",
-      "extent": {
-        "N": "90",
-        "S": "90",
-        "W": "180",
-        "E": "180"
-      }
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/TF1.5.web.map_v1.0_topo.json"
     },
     "title": {
       "en": "Episodic arid floodplains"
