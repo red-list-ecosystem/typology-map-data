@@ -729,10 +729,10 @@
     "path": "m_1_3",
     "biome": "M1",
     "layer": {
-     "source": "github",
-     "type": "topojson",
-     "path": "layers/M1.3.web.orig_v1.0_topo.json"
-   },
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/M1.3.web.orig_v1.0_topo.json"
+    },
     "title": {
       "en": "Photic coral reefs"
     },
@@ -759,9 +759,9 @@
     "path": "m_1_4",
     "biome": "M1",
     "layer": {
-     "source": "github",
-     "type": "topojson",
-     "path": "layers/M1.4.web.orig_v1.0_topo.json"
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/M1.4.web.orig_v1.0_topo.json"
     },
     "title": {
       "en": "Shellfish beds and reefs"
@@ -981,16 +981,16 @@
     "path": "m_2_3",
     "biome": "M2",
     "layer": {
-     "source": "mapbox",
-     "type": "raster",
-     "tileset": "jrfep.M2_3_web_orig",
-     "extent": {
-      "N": "90",
-      "S": "90",
-      "W": "180",
-      "E": "180"
-     }
-  },
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.M2_3_web_orig",
+      "extent": {
+        "N": "90",
+        "S": "90",
+        "W": "180",
+        "E": "180"
+      }
+    },
     "title": {
       "en": "Bathypelagic ocean waters"
     },
@@ -1035,16 +1035,16 @@
     "path": "m_2_5",
     "biome": "M2",
     "layer": {
-     "source": "mapbox",
-     "type": "raster",
-     "tileset": "jrfep.M2_5_web_orig",
-     "extent": {
-      "N": "90",
-      "S": "90",
-      "W": "180",
-      "E": "180"
-     }
-  },
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.M2_5_web_orig",
+      "extent": {
+        "N": "90",
+        "S": "90",
+        "W": "180",
+        "E": "180"
+      }
+    },
     "title": {
       "en": "Sea ice"
     },
@@ -1179,9 +1179,9 @@
     "path": "m_3_6",
     "biome": "M3",
     "layer": {
-    "source": "github",
-    "type": "topojson",
-    "path": "layers/M3.6.web.orig_v1.0_topo.json"
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/M3.6.web.orig_v1.0_topo.json"
     },
     "title": {
       "en": "Hadal trenches and troughs"
@@ -1263,10 +1263,10 @@
     "path": "mft_1_1",
     "biome": "MFT1",
     "layer": {
-     "source": "github",
-     "type": "topojson",
-     "path": "layers/MFT1.1.map.orig_v1.0_topo.json"
-   },
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/MFT1.1.map.orig_v1.0_topo.json"
+    },
     "title": {
       "en": "Coastal river deltas"
     },
@@ -1680,7 +1680,7 @@
         "W": "180",
         "E": "180"
       }
-     },
+    },
     "title": {
       "en": "Anchialine caves"
     },
@@ -1734,7 +1734,7 @@
         "W": "180",
         "E": "180"
       }
-     },
+    },
     "title": {
       "en": "Sea caves"
     },
@@ -2463,12 +2463,12 @@
         "en": "Edge of the Antarctic ice sheet, Paradise Bay"
       }
     },
-   "highlight-layer": {
-     "source": "github",
-     "type": "topojson",
-     "path": "auxiliary/T6.1_buffer.topo.json",
-     "max-zoom": "3"
-   }
+    "highlight-layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "auxiliary/T6.1_buffer.topo.json",
+      "max-zoom": "3"
+    }
   },
   {
     "id": "T6.2",
@@ -2571,13 +2571,13 @@
       "caption": {
         "en": "Giant rosettes of Lobelia and Dendrosenecio in alpine herbfields, Rwenzori Mountains, Uganda"
       }
-   },
-   "highlight-layer": {
-     "source": "github",
-     "type": "topojson",
-     "path": "auxiliary/T6.5_buffer.topo.json",
-     "max-zoom": "3"
-   }
+    },
+    "highlight-layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "auxiliary/T6.5_buffer.topo.json",
+      "max-zoom": "3"
+    }
   },
   {
     "id": "T7.1",
@@ -2740,12 +2740,12 @@
         "en": "Black water peat swamp forest, Gunung Mulu National Park, Sarawak, Malaysia"
       }
     },
-   "highlight-layer": {
-     "source": "github",
-     "type": "topojson",
-     "path": "auxiliary/TF1.1_buffer.topo.json",
-     "max-zoom": "3"
-   }
+    "highlight-layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "auxiliary/TF1.1_buffer.topo.json",
+      "max-zoom": "3"
+    }
   },
   {
     "id": "TF1.2",
@@ -2788,12 +2788,12 @@
         "en": "Everlasting Swamp, NSW, Australia"
       }
     },
-   "highlight-layer": {
-     "source": "github",
-     "type": "topojson",
-     "path": "auxiliary/TF1.3_buffer.topo.json",
-     "max-zoom": "3"
-   }
+    "highlight-layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "auxiliary/TF1.3_buffer.topo.json",
+      "max-zoom": "3"
+    }
   },
   {
     "id": "TF1.4",
@@ -2821,12 +2821,12 @@
         "en": "The Pantanal, Brazil"
       }
     },
-   "highlight-layer": {
-     "source": "github",
-     "type": "topojson",
-     "path": "auxiliary/TF1.4_buffer.topo.json",
-     "max-zoom": "3"
-   }
+    "highlight-layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "auxiliary/TF1.4_buffer.topo.json",
+      "max-zoom": "3"
+    }
   },
   {
     "id": "TF1.5",
@@ -2848,12 +2848,12 @@
         "en": "Episodic Eyre Creek arid floodplain, Queensland, Australia"
       }
     },
-   "highlight-layer": {
-     "source": "github",
-     "type": "topojson",
-     "path": "auxiliary/TF1.5_buffer.topo.json",
-     "max-zoom": "3"
-   }
+    "highlight-layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "auxiliary/TF1.5_buffer.topo.json",
+      "max-zoom": "3"
+    }
   },
   {
     "id": "TF1.6",
@@ -2883,7 +2883,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/TF1.7.web.orig_v2.0_topo.json"
+      "path": "layers/TF1.7.web.orig_v1.0_topo.json"
     },
     "title": {
       "en": "Boreal and temperate fens"
