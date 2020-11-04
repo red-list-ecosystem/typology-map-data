@@ -594,15 +594,9 @@
     "path": "fm_1_1",
     "biome": "FM1",
     "layer": {
-      "source": "mapbox",
-      "type": "raster",
-      "tileset": "jrfep.FM1_1_web_map",
-      "extent": {
-        "N": "90",
-        "S": "90",
-        "W": "180",
-        "E": "180"
-      }
+      "source": "github",
+      "type": "topojson",
+      "path": "layers/FM1.1.web.map_v1.0_topo.json"
     },
     "title": {
       "en": "Deepwater coastal inlets"
