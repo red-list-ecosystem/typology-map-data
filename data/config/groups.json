@@ -941,6 +941,12 @@
       "caption": {
         "en": "Epipelagic visual predators (mahi-mahi), Maldives"
       }
+    },
+    "highlight-layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "auxiliary/F1.3_buffer.topo.json",
+      "max-zoom": "3"
     }
   },
   {
