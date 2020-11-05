@@ -1423,10 +1423,10 @@
       "type": "raster",
       "tileset": "jrfep.MFT1_3_web_orig",
       "extent": {
-        "N": 76,
-        "S": 56,
-        "W": 180,
-        "E": 180
+        "N": "76",
+        "S": "56",
+        "W": "180",
+        "E": "180"
       }
     },
     "title": {
@@ -1817,7 +1817,7 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "jrfep.SM1_1_web_grid",
+      "tileset": "jrfep.SM1_3_web_grid",
       "extent": {
         "N": "90",
         "S": "90",
@@ -1846,10 +1846,10 @@
       "type": "raster",
       "tileset": "jrfep.T1_1_web_mix",
       "extent": {
-        "N": 33,
-        "S": 35,
-        "W": 180,
-        "E": 180
+        "N": "33",
+        "S": "35",
+        "W": "180",
+        "E": "180"
       }
     },
     "title": {
@@ -1879,10 +1879,10 @@
       "type": "raster",
       "tileset": "jrfep.T1_2_web_mix",
       "extent": {
-        "N": 36,
-        "S": 41,
-        "W": 180,
-        "E": 180
+        "N": "36",
+        "S": "41",
+        "W": "180",
+        "E": "180"
       }
     },
     "title": {
@@ -1966,8 +1966,8 @@
       "type": "raster",
       "tileset": "jrfep.T2_1_web_mix",
       "extent": {
-        "N": "90",
-        "S": "90",
+        "N": "72",
+        "S": "-9",
         "W": "180",
         "E": "180"
       }
@@ -1982,6 +1982,12 @@
       "caption": {
         "en": "Boreal forest, Liesjärvi National Park, Tammela, Finland"
       }
+    },
+    "highlight-layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "auxiliary/T2.1_buffer.topo.json",
+      "max-zoom": 3
     }
   },
   {
@@ -1993,10 +1999,10 @@
       "type": "raster",
       "tileset": "jrfep.T2_2_web_mix",
       "extent": {
-        "N": "90",
-        "S": "90",
-        "W": "180",
-        "E": "180"
+        "N": "71",
+        "S": "-20",
+        "W": "125",
+        "E": "171"
       }
     },
     "title": {
@@ -2009,6 +2015,12 @@
       "caption": {
         "en": "Deciduous forest during autumn leaf fall, Inkoo, Finland"
       }
+    },
+    "highlight-layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "auxiliary/T2.2_buffer.topo.json",
+      "max-zoom": 3
     }
   },
   {
@@ -2074,10 +2086,10 @@
       "type": "raster",
       "tileset": "jrfep.T2_5_web_alt",
       "extent": {
-        "N": -14,
-        "S": 45,
-        "W": -113,
-        "E": 156
+        "N": "-14",
+        "S": "45",
+        "W": "-113",
+        "E": "156"
       }
     },
     "title": {
@@ -2110,10 +2122,10 @@
       "type": "raster",
       "tileset": "jrfep.T2_6_web_mix",
       "extent": {
-        "N": 47,
-        "S": 45,
-        "W": 123,
-        "E": 156
+        "N": "47",
+        "S": "45",
+        "W": "123",
+        "E": "156"
       }
     },
     "title": {
@@ -2200,10 +2212,10 @@
       "type": "raster",
       "tileset": "jrfep.T3_3_web_alt",
       "extent": {
-        "N": 64,
-        "S": 57,
-        "W": 180,
-        "E": 180
+        "N": "64",
+        "S": "57",
+        "W": "180",
+        "E": "180"
       }
     },
     "title": {
@@ -2233,10 +2245,10 @@
       "type": "raster",
       "tileset": "jrfep.T3_4_web_mix",
       "extent": {
-        "N": 68,
-        "S": 47,
-        "W": 180,
-        "E": 180
+        "N": "68",
+        "S": "47",
+        "W": "180",
+        "E": "180"
       }
     },
     "title": {
@@ -2413,10 +2425,10 @@
       "type": "raster",
       "tileset": "jrfep.T5_2_web_mix",
       "extent": {
-        "N": 40,
-        "S": 46,
-        "W": 121,
-        "E": 84
+        "N": "40",
+        "S": "46",
+        "W": "121",
+        "E": "84"
       }
     },
     "title": {
@@ -2500,10 +2512,10 @@
       "type": "raster",
       "tileset": "jrfep.T5_5_web_mix",
       "extent": {
-        "N": 35,
-        "S": 30,
-        "W": 84,
-        "E": 60
+        "N": "35",
+        "S": "30",
+        "W": "84",
+        "E": "60"
       }
     },
     "title": {
@@ -2533,10 +2545,10 @@
       "type": "raster",
       "tileset": "jrfep.T6_1_web_map",
       "extent": {
-        "N": 84,
-        "S": 88,
-        "W": 180,
-        "E": 180
+        "N": "84",
+        "S": "88",
+        "W": "180",
+        "E": "180"
       }
     },
     "title": {
@@ -2599,10 +2611,10 @@
       "type": "raster",
       "tileset": "jrfep.T6_3_web_map",
       "extent": {
-        "N": 84,
-        "S": 75,
-        "W": 180,
-        "E": 180
+        "N": "84",
+        "S": "75",
+        "W": "180",
+        "E": "180"
       }
     },
     "title": {
@@ -2659,10 +2671,10 @@
       "type": "raster",
       "tileset": "jrfep.T6_5_web_mix",
       "extent": {
-        "N": 25,
-        "S": 25,
-        "W": 88,
-        "E": 151
+        "N": "25",
+        "S": "25",
+        "W": "88",
+        "E": "151"
       }
     },
     "title": {
@@ -2831,10 +2843,10 @@
       "type": "raster",
       "tileset": "jrfep.TF1_1_web_map",
       "extent": {
-        "N": 26,
-        "S": 32,
-        "W": 92,
-        "E": 152
+        "N": "26",
+        "S": "32",
+        "W": "92",
+        "E": "152"
       }
     },
     "title": {
@@ -2912,10 +2924,10 @@
       "type": "raster",
       "tileset": "jrfep.TF1_4_web_map",
       "extent": {
-        "N": 73,
-        "S": 55,
-        "W": 179,
-        "E": 180
+        "N": "73",
+        "S": "55",
+        "W": "179",
+        "E": "180"
       }
     },
     "title": {
