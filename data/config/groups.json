@@ -6,7 +6,7 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "jrfep.F1_1_web_mix",
+      "tileset": "jrfep.F1.1.web.mix",
       "extent": {
         "N": 64,
         "S": 57,
@@ -42,7 +42,7 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "jrfep.F1_2_web_map",
+      "tileset": "jrfep.F1.2.web.map",
       "extent": {
         "N": 63,
         "S": 57,
@@ -80,7 +80,7 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "jrfep.F1_3_web_map",
+      "tileset": "jrfep.F1.3.web.map",
       "extent": {
         "N": 84,
         "S": 57,
@@ -113,7 +113,7 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "jrfep.F1_4_web_map",
+      "tileset": "jrfep.F1.4.web.map",
       "extent": {
         "N": 59,
         "S": 57,
@@ -146,7 +146,7 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "jrfep.F1_5_web_map",
+      "tileset": "jrfep.F1.5.web.map",
       "extent": {
         "N": 51,
         "S": 56,
@@ -233,7 +233,7 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "jrfep.F2_1_web_alt",
+      "tileset": "jrfep.F2.1.web.alt",
       "extent": {
         "N": 65,
         "S": 57,
@@ -266,7 +266,7 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "jrfep.F2_2_web_mix",
+      "tileset": "jrfep.F2.2.web.mix",
       "extent": {
         "N": 62,
         "S": 56,
@@ -326,7 +326,7 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "jrfep.F2_4_web_mix",
+      "tileset": "jrfep.F2.4.web.mix",
       "extent": {
         "N": 84,
         "S": 57,
@@ -506,12 +506,12 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "jrfep.F2_10_web_mix",
+      "tileset": "jrfep.F2.10.web.mix",
       "extent": {
-        "N": "90",
-        "S": "90",
-        "W": "180",
-        "E": "180"
+        "N": 90,
+        "S": 90,
+        "W": 180,
+        "E": 180
       }
     },
     "title": {
@@ -545,6 +545,12 @@
       "caption": {
         "en": "Gordon Dam, Tasmania, Australia"
       }
+    },
+    "highlight-layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "auxiliary/F3.1_buffer.topo.json",
+      "max-zoom": 3
     }
   },
   {
@@ -566,6 +572,12 @@
       "caption": {
         "en": "Farm pond, Washington County, Ohio, USA"
       }
+    },
+    "highlight-layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "auxiliary/F3.2_buffer.topo.json",
+      "max-zoom": 3
     }
   },
   {
@@ -575,12 +587,12 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "jrfep.F3_3_web_alt",
+      "tileset": "jrfep.F3.3.web.alt",
       "extent": {
-        "N": "90",
-        "S": "90",
-        "W": "180",
-        "E": "180"
+        "N": 55,
+        "S": 43,
+        "W": 126,
+        "E": 154
       }
     },
     "title": {
@@ -593,6 +605,12 @@
       "caption": {
         "en": "Rice paddies, Hai Duong, Vietnam"
       }
+    },
+    "highlight-layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "auxiliary/F3.3_buffer.topo.json",
+      "max-zoom": 3
     }
   },
   {
@@ -614,6 +632,12 @@
       "caption": {
         "en": "Freshwater aquaculture ponds, Rumpin, West Java, Indonesia"
       }
+    },
+    "highlight-layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "auxiliary/F3.4_buffer.topo.json",
+      "max-zoom": 3
     }
   },
   {
@@ -635,6 +659,12 @@
       "caption": {
         "en": "California irrigation canal, USA"
       }
+    },
+    "highlight-layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "auxiliary/F3.5_buffer.topo.json",
+      "max-zoom": 3
     }
   },
   {
