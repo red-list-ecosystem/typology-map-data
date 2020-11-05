@@ -452,6 +452,12 @@
       "caption": {
         "en": "Ubari Oasis in the Wadi Al Hayaa District, southwestern Libya"
       }
+    },
+    "highlight-layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "auxiliary/F2.8_buffer.topo.json",
+      "max-zoom": 3
     }
   },
   {
@@ -473,6 +479,12 @@
       "caption": {
         "en": "Extensive cyanobacterial growth downstream of Waimangu Hot Springs, Taupo Volcanic Zone, New Zealand"
       }
+    },
+    "highlight-layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "auxiliary/F2.9_buffer.topo.json",
+      "max-zoom": 3
     }
   },
   {
