@@ -357,9 +357,15 @@
     "path": "f_2_5",
     "biome": "F2",
     "layer": {
-      "source": "github",
-      "type": "topojson",
-      "path": "layers/F2.5.web.mix_v1.0_topo.json"
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.F2.5.web.mix",
+      "extent": {
+        "N": 58,
+        "S": 55,
+        "W": 163,
+        "E": 180
+      }
     },
     "title": {
       "en": "Ephemeral freshwater lakes"
@@ -384,9 +390,15 @@
     "path": "f_2_6",
     "biome": "F2",
     "layer": {
-      "source": "github",
-      "type": "topojson",
-      "path": "layers/F2.6.web.mix_v4.0_topo.json"
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.F2.6.web.mix",
+      "extent": {
+        "N": 56,
+        "S": 41,
+        "W": 123,
+        "E": 148
+      }
     },
     "title": {
       "en": "Permanent salt and soda lakes"
