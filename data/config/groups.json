@@ -2798,10 +2798,10 @@
       "type": "raster",
       "tileset": "jrfep.TF1_4_web_map",
       "extent": {
-        "N": "90",
-        "S": "90",
-        "W": "180",
-        "E": "180"
+        "N": 73,
+        "S": 55,
+        "W": 179,
+        "E": 180
       }
     },
     "title": {
@@ -2819,7 +2819,7 @@
       "source": "github",
       "type": "topojson",
       "path": "auxiliary/TF1.4_buffer.topo.json",
-      "max-zoom": "3"
+      "max-zoom": 3
     }
   },
   {
