@@ -1462,8 +1462,8 @@
       "type": "raster",
       "tileset": "jrfep.MT1_1_web_map",
       "extent": {
-        "N": "90",
-        "S": "90",
+        "N": "78",
+        "S": "62",
         "W": "180",
         "E": "180"
       }
@@ -1478,6 +1478,12 @@
       "caption": {
         "en": "Sea squirts or cunjevoi Pyura"
       }
+    },
+    "highlight-layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "auxiliary/MT1.1_buffer.topo.json",
+      "max-zoom": 3
     }
   },
   {
@@ -1489,8 +1495,8 @@
       "type": "raster",
       "tileset": "jrfep.MT1_2_web_map",
       "extent": {
-        "N": "90",
-        "S": "90",
+        "N": "61",
+        "S": "57",
         "W": "180",
         "E": "180"
       }
@@ -1505,6 +1511,12 @@
       "caption": {
         "en": "Muddy shore of the Wadden Sea, Germany"
       }
+    },
+    "highlight-layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "auxiliary/MT1.2_buffer.topo.json",
+      "max-zoom": 3
     }
   },
   {
@@ -1516,8 +1528,8 @@
       "type": "raster",
       "tileset": "jrfep.MT1_3_web_map",
       "extent": {
-        "N": "90",
-        "S": "90",
+        "N": "68",
+        "S": "57",
         "W": "180",
         "E": "180"
       }
@@ -1532,6 +1544,12 @@
       "caption": {
         "en": "Shorebirds at high tide, Shoalwater Bay, Queensland, Australia"
       }
+    },
+    "highlight-layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "auxiliary/MT1.3_buffer.topo.json",
+      "max-zoom": 3
     }
   },
   {
@@ -1543,8 +1561,8 @@
       "type": "raster",
       "tileset": "jrfep.MT1_4_web_map",
       "extent": {
-        "N": "90",
-        "S": "90",
+        "N": "84",
+        "S": "74",
         "W": "180",
         "E": "180"
       }
@@ -1559,6 +1577,12 @@
       "caption": {
         "en": "Cobble Beach, South Downs, England"
       }
+    },
+    "highlight-layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "auxiliary/MT1.4_buffer.topo.json",
+      "max-zoom": 3
     }
   },
   {
@@ -1570,8 +1594,8 @@
       "type": "raster",
       "tileset": "jrfep.MT2_1_web_map",
       "extent": {
-        "N": "90",
-        "S": "90",
+        "N": "71",
+        "S": "61",
         "W": "180",
         "E": "180"
       }
@@ -1586,6 +1610,12 @@
       "caption": {
         "en": "Coastal shrubland, Strait of Magellan, Chile"
       }
+    },
+    "highlight-layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "auxiliary/MT2.1_buffer.topo.json",
+      "max-zoom": 3
     }
   },
   {
@@ -1709,6 +1739,12 @@
       "caption": {
         "en": "Blind cave fish, Phreatichthys andruzzii, southern Madagascar"
       }
+    },
+    "highlight-layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "auxiliary/SF1.1_buffer.topo.json",
+      "max-zoom": 3
     }
   },
   {
@@ -1730,6 +1766,12 @@
       "caption": {
         "en": "Stygofauna from the Pilbara, Western Australia"
       }
+    },
+    "highlight-layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "auxiliary/SF1.2_buffer.topo.json",
+      "max-zoom": 3
     }
   },
   {
