@@ -2278,10 +2278,10 @@
       "type": "raster",
       "tileset": "jrfep.T4_1_web_mix",
       "extent": {
-        "N": "90",
-        "S": "90",
-        "W": "180",
-        "E": "180"
+        "N": "36",
+        "S": "35",
+        "W": "20",
+        "E": "101"
       }
     },
     "title": {
@@ -2294,6 +2294,12 @@
       "caption": {
         "en": "Wildebeest in Serengeti National Park, Tanzania"
       }
+    },
+    "highlight-layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "auxiliary/T4.1_buffer.topo.json",
+      "max-zoom": 3
     }
   },
   {
@@ -2305,10 +2311,10 @@
       "type": "raster",
       "tileset": "jrfep.T4_2_web_orig",
       "extent": {
-        "N": "90",
-        "S": "90",
-        "W": "180",
-        "E": "180"
+        "N": "44",
+        "S": "37",
+        "W": "163",
+        "E": "155"
       }
     },
     "title": {
@@ -2324,6 +2330,12 @@
       "caption": {
         "en": "Gran Sabana near Rio Carrao, Venezuela"
       }
+    },
+    "highlight-layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "auxiliary/T4.2_buffer.topo.json",
+      "max-zoom": 3
     }
   },
   {
@@ -2345,6 +2357,12 @@
       "caption": {
         "en": "Termite mound in spinifex savanna, Western Australia"
       }
+    },
+    "highlight-layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "auxiliary/T4.3_buffer.topo.json",
+      "max-zoom": 3
     }
   },
   {
@@ -2366,6 +2384,12 @@
       "caption": {
         "en": "Temperate grassy woodland, Tamworth, Australia"
       }
+    },
+    "highlight-layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "auxiliary/T4.4_buffer.topo.json",
+      "max-zoom": 3
     }
   },
   {
@@ -2387,6 +2411,12 @@
       "caption": {
         "en": "Herd of bison, Badlands Overlook, North Dakota USA"
       }
+    },
+    "highlight-layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "auxiliary/T4.5_buffer.topo.json",
+      "max-zoom": 3
     }
   },
   {
