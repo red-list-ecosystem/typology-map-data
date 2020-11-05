@@ -2934,6 +2934,12 @@
       "caption": {
         "en": "River Red Gum forest, Murray River, Australia"
       }
+    },
+    "highlight-layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "auxiliary/TF1.2_buffer.topo.json",
+      "max-zoom": 3
     }
   },
   {
@@ -3042,6 +3048,12 @@
       "caption": {
         "en": "Raised peat bog with Sphagnum, scattered trees and flark pools, Kemeri Bog, Latvia"
       }
+    },
+    "highlight-layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "auxiliary/TF1.6_buffer.topo.json",
+      "max-zoom": 3
     }
   },
   {
@@ -3063,6 +3075,12 @@
       "caption": {
         "en": "Avaste fen, Estonia"
       }
+    },
+    "highlight-layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "auxiliary/TF1.7_buffer.topo.json",
+      "max-zoom": 3
     }
   }
 ]
