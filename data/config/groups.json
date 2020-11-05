@@ -784,10 +784,10 @@
       "type": "raster",
       "tileset": "jrfep.M1_2_web_orig",
       "extent": {
-        "N": 82,
-        "S": 61,
-        "W": 180,
-        "E": 180
+        "N": "82",
+        "S": "61",
+        "W": "180",
+        "E": "180"
       }
     },
     "title": {
@@ -1009,10 +1009,10 @@
       "type": "raster",
       "tileset": "jrfep.M2_1_web_orig",
       "extent": {
-        "N": 82,
-        "S": 55,
-        "W": 126,
-        "E": 150
+        "N": "90",
+        "S": "90",
+        "W": "180",
+        "E": "180"
       }
     },
     "title": {
@@ -1163,7 +1163,13 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "jrfep.M3_2_web_orig"
+      "tileset": "jrfep.M3_2_web_orig",
+      "extent": {
+        "N": "90",
+        "S": "90",
+        "W": "180",
+        "E": "180"
+      }
     },
     "title": {
       "en": "Submarine canyons"
@@ -1184,7 +1190,13 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "jrfep.M3_3_web_orig"
+      "tileset": "jrfep.M3_3_web_orig",
+      "extent": {
+        "N": "90",
+        "S": "90",
+        "W": "180",
+        "E": "180"
+      }
     },
     "title": {
       "en": "Abyssal plains"
@@ -1375,10 +1387,10 @@
       "type": "raster",
       "tileset": "jrfep.MFT1_2_web_orig",
       "extent": {
-        "N": 35,
-        "S": 41,
-        "W": 180,
-        "E": 180
+        "N": "35",
+        "S": "41",
+        "W": "180",
+        "E": "180"
       }
     },
     "title": {
