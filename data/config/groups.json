@@ -860,6 +860,12 @@
       "caption": {
         "en": "Oyster reef, Georges Bay, Tasmania, Australia"
       }
+    },
+    "highlight-layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "auxiliary/M1.4_buffer.topo.json",
+      "max-zoom": 3
     }
   },
   {
@@ -1628,6 +1634,12 @@
       "caption": {
         "en": "Bat cave, Lanquín, Guatemala"
       }
+    },
+    "highlight-layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "auxiliary/S1.1_buffer.topo.json",
+      "max-zoom": 3
     }
   },
   {
@@ -1670,6 +1682,12 @@
       "caption": {
         "en": "Underground mining tunnel"
       }
+    },
+    "highlight-layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "auxiliary/S2.1_buffer.topo.json",
+      "max-zoom": 3
     }
   },
   {
