@@ -1978,9 +1978,9 @@
       "type": "raster",
       "tileset": "jrfep.T2_5_web_alt",
       "extent": {
-        "N": 14,
+        "N": -14,
         "S": 45,
-        "W": 113,
+        "W": -113,
         "E": 156
       }
     },
