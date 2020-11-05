@@ -8,10 +8,10 @@
       "type": "raster",
       "tileset": "jrfep.F1_1_web_mix",
       "extent": {
-        "N": "90",
-        "S": "90",
-        "W": "180",
-        "E": "180"
+        "N": 64,
+        "S": 57,
+        "W": 127,
+        "E": 180
       }
     },
     "title": {
@@ -27,6 +27,12 @@
       "caption": {
         "en": "Appalachian Mountain Stream in the Spring"
       }
+    },
+    "highlight-layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "auxiliary/F1.1_buffer.topo.json",
+      "max-zoom": 3
     }
   },
   {
@@ -38,10 +44,10 @@
       "type": "raster",
       "tileset": "jrfep.F1_2_web_map",
       "extent": {
-        "N": "90",
-        "S": "90",
-        "W": "180",
-        "E": "180"
+        "N": 63,
+        "S": 57,
+        "W": 127,
+        "E": 180
       }
     },
     "title": {
@@ -59,6 +65,12 @@
       "caption": {
         "en": "A custom diagram caption set in /config/groups.json"
       }
+    },
+    "highlight-layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "auxiliary/F1.2_buffer.topo.json",
+      "max-zoom": 3
     }
   },
   {
@@ -103,10 +115,10 @@
       "type": "raster",
       "tileset": "jrfep.F1_4_web_map",
       "extent": {
-        "N": "90",
-        "S": "90",
-        "W": "180",
-        "E": "180"
+        "N": 59,
+        "S": 57,
+        "W": 127,
+        "E": 156
       }
     },
     "title": {
@@ -119,6 +131,12 @@
       "caption": {
         "en": "Yamuna River near Mussoorie, India"
       }
+    },
+    "highlight-layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "auxiliary/F1.4_buffer.topo.json",
+      "max-zoom": 3
     }
   },
   {
@@ -200,6 +218,12 @@
       "caption": {
         "en": "Amazon River near Iquitos, Peru"
       }
+    },
+    "highlight-layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "auxiliary/F1.7_buffer.topo.json",
+      "max-zoom": 3
     }
   },
   {
