@@ -713,6 +713,12 @@
       "caption": {
         "en": "Barwon River estuary, southeastern Australia"
       }
+    },
+    "highlight-layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "auxiliary/FM1.2_buffer.topo.json",
+      "max-zoom": 3
     }
   },
   {
@@ -734,6 +740,12 @@
       "caption": {
         "en": "Open (left) and closed (right) lagoon entrances along the New South Wales coast, Australia"
       }
+    },
+    "highlight-layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "auxiliary/FM1.3_buffer.topo.json",
+      "max-zoom": 3
     }
   },
   {
