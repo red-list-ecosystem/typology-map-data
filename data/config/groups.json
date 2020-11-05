@@ -2428,10 +2428,10 @@
       "type": "raster",
       "tileset": "jrfep.T5_1_web_mix",
       "extent": {
-        "N": "90",
-        "S": "90",
-        "W": "180",
-        "E": "180"
+        "N": "54",
+        "S": "46",
+        "W": "125",
+        "E": "154"
       }
     },
     "title": {
@@ -2444,6 +2444,12 @@
       "caption": {
         "en": "Sagebrush steppe in Seedskadee National Wildlife Refuge, southwest Wyoming"
       }
+    },
+    "highlight-layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "auxiliary/T5.1_buffer.topo.json",
+      "max-zoom": 3
     }
   },
   {
@@ -2488,10 +2494,10 @@
       "type": "raster",
       "tileset": "jrfep.T5_3_web_mix",
       "extent": {
-        "N": "90",
-        "S": "90",
-        "W": "180",
-        "E": "180"
+        "N": "-15",
+        "S": "38",
+        "W": "-111",
+        "E": "152"
       }
     },
     "title": {
@@ -2504,6 +2510,12 @@
       "caption": {
         "en": "Hummock grasses, Great Victoria Desert, Australia"
       }
+    },
+    "highlight-layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "auxiliary/T5.3_buffer.topo.json",
+      "max-zoom": 3
     }
   },
   {
@@ -2515,10 +2527,10 @@
       "type": "raster",
       "tileset": "jrfep.T5_4_web_mix",
       "extent": {
-        "N": "90",
-        "S": "90",
-        "W": "180",
-        "E": "180"
+        "N": "58",
+        "S": "56",
+        "W": "124",
+        "E": "117"
       }
     },
     "title": {
@@ -2531,6 +2543,12 @@
       "caption": {
         "en": "Altai mountains, Mongolia"
       }
+    },
+    "highlight-layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "auxiliary/T5.4_buffer.topo.json",
+      "max-zoom": 3
     }
   },
   {
