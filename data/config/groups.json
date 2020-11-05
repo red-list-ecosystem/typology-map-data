@@ -6,7 +6,7 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "jrfep.F1.1.web.mix",
+      "tileset": "jrfep.F1_1_web_mix",
       "extent": {
         "N": "64",
         "S": "57",
@@ -42,7 +42,7 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "jrfep.F1.2.web.map",
+      "tileset": "jrfep.F1_2_web_map",
       "extent": {
         "N": "63",
         "S": "57",
@@ -80,7 +80,7 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "jrfep.F1.3.web.map",
+      "tileset": "jrfep.F1_3_web_map",
       "extent": {
         "N": "84",
         "S": "57",
@@ -113,7 +113,7 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "jrfep.F1.4.web.map",
+      "tileset": "jrfep.F1_4_web_map",
       "extent": {
         "N": "59",
         "S": "57",
@@ -146,7 +146,7 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "jrfep.F1.5.web.map",
+      "tileset": "jrfep.F1_5_web_map",
       "extent": {
         "N": "51",
         "S": "56",
@@ -233,7 +233,7 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "jrfep.F2.1.web.alt",
+      "tileset": "jrfep.F2_1_web_alt",
       "extent": {
         "N": "65",
         "S": "57",
@@ -266,7 +266,7 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "jrfep.F2.2.web.mix",
+      "tileset": "jrfep.F2_2_web_mix",
       "extent": {
         "N": "62",
         "S": "56",
@@ -326,7 +326,7 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "jrfep.F2.4.web.mix",
+      "tileset": "jrfep.F2_4_web_mix",
       "extent": {
         "N": "84",
         "S": "57",
@@ -359,7 +359,7 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "jrfep.F2.5.web.mix",
+      "tileset": "jrfep.F2_5_web_mix",
       "extent": {
         "N": "58",
         "S": "55",
@@ -392,7 +392,7 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "jrfep.F2.6.web.mix",
+      "tileset": "jrfep.F2_6_web_mix",
       "extent": {
         "N": "56",
         "S": "41",
@@ -506,7 +506,7 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "jrfep.F2.10.web.mix",
+      "tileset": "jrfep.F2_10_web_mix",
       "extent": {
         "N": "90",
         "S": "90",
@@ -587,7 +587,7 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "jrfep.F3.3.web.alt",
+      "tileset": "jrfep.F3_3_web_alt",
       "extent": {
         "N": "55",
         "S": "43",
