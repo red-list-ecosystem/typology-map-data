@@ -70,10 +70,10 @@
       "type": "raster",
       "tileset": "jrfep.F1_3_web_map",
       "extent": {
-        "N": "90",
-        "S": "90",
-        "W": "180",
-        "E": "180"
+        "N": 84,
+        "S": 57,
+        "W": 180,
+        "E": 180
       }
     },
     "title": {
@@ -91,7 +91,7 @@
       "source": "github",
       "type": "topojson",
       "path": "auxiliary/F1.3_buffer.topo.json",
-      "max-zoom": "3"
+      "max-zoom": 3
     }
   },
   {
@@ -130,10 +130,10 @@
       "type": "raster",
       "tileset": "jrfep.F1_5_web_map",
       "extent": {
-        "N": "90",
-        "S": "90",
-        "W": "180",
-        "E": "180"
+        "N": 51,
+        "S": 56,
+        "W": 127,
+        "E": 150
       }
     },
     "title": {
@@ -151,7 +151,7 @@
       "source": "github",
       "type": "topojson",
       "path": "auxiliary/F1.5_buffer.topo.json",
-      "max-zoom": "3"
+      "max-zoom": 3
     }
   },
   {
@@ -178,7 +178,7 @@
       "source": "github",
       "type": "topojson",
       "path": "auxiliary/F1.6_buffer.topo.json",
-      "max-zoom": "3"
+      "max-zoom": 3
     }
   },
   {
@@ -211,10 +211,10 @@
       "type": "raster",
       "tileset": "jrfep.F2_1_web_alt",
       "extent": {
-        "N": "90",
-        "S": "90",
-        "W": "180",
-        "E": "180"
+        "N": 65,
+        "S": 57,
+        "W": 160,
+        "E": 179
       }
     },
     "title": {
@@ -232,7 +232,7 @@
       "source": "github",
       "type": "topojson",
       "path": "auxiliary/F2.1_buffer.topo.json",
-      "max-zoom": "3"
+      "max-zoom": 3
     }
   },
   {
@@ -244,10 +244,10 @@
       "type": "raster",
       "tileset": "jrfep.F2_2_web_mix",
       "extent": {
-        "N": "90",
-        "S": "90",
-        "W": "180",
-        "E": "180"
+        "N": 62,
+        "S": 56,
+        "W": 179,
+        "E": 180
       }
     },
     "title": {
@@ -265,7 +265,7 @@
       "source": "github",
       "type": "topojson",
       "path": "auxiliary/F2.2_buffer.topo.json",
-      "max-zoom": "3"
+      "max-zoom": 3
     }
   },
   {
@@ -292,7 +292,7 @@
       "source": "github",
       "type": "topojson",
       "path": "auxiliary/F2.3_buffer.topo.json",
-      "max-zoom": "3"
+      "max-zoom": 3
     }
   },
   {
@@ -304,10 +304,10 @@
       "type": "raster",
       "tileset": "jrfep.F2_4_web_mix",
       "extent": {
-        "N": "90",
-        "S": "90",
-        "W": "180",
-        "E": "180"
+        "N": 84,
+        "S": 57,
+        "W": 180,
+        "E": 180
       }
     },
     "title": {
@@ -325,7 +325,7 @@
       "source": "github",
       "type": "topojson",
       "path": "auxiliary/F2.4_buffer.topo.json",
-      "max-zoom": "3"
+      "max-zoom": 3
     }
   },
   {
@@ -352,7 +352,7 @@
       "source": "github",
       "type": "topojson",
       "path": "auxiliary/F2.5_buffer.topo.json",
-      "max-zoom": "3"
+      "max-zoom": 3
     }
   },
   {
@@ -379,7 +379,7 @@
       "source": "github",
       "type": "topojson",
       "path": "auxiliary/F2.6_buffer.topo.json",
-      "max-zoom": "3"
+      "max-zoom": 3
     }
   },
   {
@@ -406,7 +406,7 @@
       "source": "github",
       "type": "topojson",
       "path": "auxiliary/F2.7_buffer.topo.json",
-      "max-zoom": "3"
+      "max-zoom": 3
     }
   },
   {
@@ -613,7 +613,7 @@
       "source": "github",
       "type": "topojson",
       "path": "auxiliary/FM1.1_buffer.topo.json",
-      "max-zoom": "3"
+      "max-zoom": 3
     }
   },
   {
@@ -682,7 +682,7 @@
       "source": "github",
       "type": "topojson",
       "path": "auxiliary/M1.1_buffer.topo.json",
-      "max-zoom": "3"
+      "max-zoom": 3
     }
   },
   {
@@ -694,10 +694,10 @@
       "type": "raster",
       "tileset": "jrfep.M1_2_web_orig",
       "extent": {
-        "N": "90",
-        "S": "90",
-        "W": "180",
-        "E": "180"
+        "N": 82,
+        "S": 61,
+        "W": 180,
+        "E": 180
       }
     },
     "title": {
@@ -715,7 +715,7 @@
       "source": "github",
       "type": "topojson",
       "path": "auxiliary/M1.2_buffer.topo.json",
-      "max-zoom": "3"
+      "max-zoom": 3
     }
   },
   {
@@ -745,7 +745,7 @@
       "source": "github",
       "type": "topojson",
       "path": "auxiliary/M1.3_buffer.topo.json",
-      "max-zoom": "3"
+      "max-zoom": 3
     }
   },
   {
@@ -907,7 +907,7 @@
       "source": "github",
       "type": "topojson",
       "path": "auxiliary/M1.9_buffer.topo.json",
-      "max-zoom": "3"
+      "max-zoom": 3
     }
   },
   {
@@ -919,10 +919,10 @@
       "type": "raster",
       "tileset": "jrfep.M2_1_web_orig",
       "extent": {
-        "N": "90",
-        "S": "90",
-        "W": "180",
-        "E": "180"
+        "N": 82,
+        "S": 55,
+        "W": 126,
+        "E": 150
       }
     },
     "title": {
@@ -939,8 +939,8 @@
     "highlight-layer": {
       "source": "github",
       "type": "topojson",
-      "path": "auxiliary/F1.3_buffer.topo.json",
-      "max-zoom": "3"
+      "path": "auxiliary/M2.1_buffer.topo.json",
+      "max-zoom": 3
     }
   },
   {
@@ -1279,7 +1279,7 @@
       "source": "github",
       "type": "topojson",
       "path": "auxiliary/MFT1.1_buffer.topo.json",
-      "max-zoom": "3"
+      "max-zoom": 3
     }
   },
   {
@@ -1291,10 +1291,10 @@
       "type": "raster",
       "tileset": "jrfep.MFT1_2_web_orig",
       "extent": {
-        "N": "90",
-        "S": "90",
-        "W": "180",
-        "E": "180"
+        "N": 35,
+        "S": 41,
+        "W": 180,
+        "E": 180
       }
     },
     "title": {
@@ -1315,7 +1315,7 @@
       "source": "github",
       "type": "topojson",
       "path": "auxiliary/MFT1.2_buffer.topo.json",
-      "max-zoom": "3"
+      "max-zoom": 3
     }
   },
   {
@@ -1327,10 +1327,10 @@
       "type": "raster",
       "tileset": "jrfep.MFT1_3_web_orig",
       "extent": {
-        "N": "90",
-        "S": "90",
-        "W": "180",
-        "E": "180"
+        "N": 76,
+        "S": 56,
+        "W": 180,
+        "E": 180
       }
     },
     "title": {
@@ -1348,7 +1348,7 @@
       "source": "github",
       "type": "topojson",
       "path": "auxiliary/MFT1.3_buffer.topo.json",
-      "max-zoom": "3"
+      "max-zoom": 3
     }
   },
   {
@@ -1750,10 +1750,10 @@
       "type": "raster",
       "tileset": "jrfep.T1_1_web_mix",
       "extent": {
-        "N": "90",
-        "S": "90",
-        "W": "180",
-        "E": "180"
+        "N": 33,
+        "S": 35,
+        "W": 180,
+        "E": 180
       }
     },
     "title": {
@@ -1771,7 +1771,7 @@
       "source": "github",
       "type": "topojson",
       "path": "auxiliary/T1.1_buffer.topo.json",
-      "max-zoom": "3"
+      "max-zoom": 3
     }
   },
   {
@@ -1783,10 +1783,10 @@
       "type": "raster",
       "tileset": "jrfep.T1_2_web_mix",
       "extent": {
-        "N": "90",
-        "S": "90",
-        "W": "180",
-        "E": "180"
+        "N": 36,
+        "S": 41,
+        "W": 180,
+        "E": 180
       }
     },
     "title": {
@@ -1804,7 +1804,7 @@
       "source": "github",
       "type": "topojson",
       "path": "auxiliary/T1.2_buffer.topo.json",
-      "max-zoom": "3"
+      "max-zoom": 3
     }
   },
   {
@@ -1831,7 +1831,7 @@
       "source": "github",
       "type": "topojson",
       "path": "auxiliary/T1.3_buffer.topo.json",
-      "max-zoom": "3"
+      "max-zoom": 3
     }
   },
   {
@@ -1858,7 +1858,7 @@
       "source": "github",
       "type": "topojson",
       "path": "auxiliary/T1.4_buffer.topo.json",
-      "max-zoom": "3"
+      "max-zoom": 3
     }
   },
   {
@@ -1939,7 +1939,7 @@
       "source": "github",
       "type": "topojson",
       "path": "auxiliary/T2.3_buffer.topo.json",
-      "max-zoom": "3"
+      "max-zoom": 3
     }
   },
   {
@@ -1966,7 +1966,7 @@
       "source": "github",
       "type": "topojson",
       "path": "auxiliary/T2.4_buffer.topo.json",
-      "max-zoom": "3"
+      "max-zoom": 3
     }
   },
   {
@@ -1978,10 +1978,10 @@
       "type": "raster",
       "tileset": "jrfep.T2_5_web_alt",
       "extent": {
-        "N": "90",
-        "S": "90",
-        "W": "180",
-        "E": "180"
+        "N": 14,
+        "S": 45,
+        "W": 113,
+        "E": 156
       }
     },
     "title": {
@@ -2002,7 +2002,7 @@
       "source": "github",
       "type": "topojson",
       "path": "auxiliary/T2.5_buffer.topo.json",
-      "max-zoom": "3"
+      "max-zoom": 3
     }
   },
   {
@@ -2014,10 +2014,10 @@
       "type": "raster",
       "tileset": "jrfep.T2_6_web_mix",
       "extent": {
-        "N": "90",
-        "S": "90",
-        "W": "180",
-        "E": "180"
+        "N": 47,
+        "S": 45,
+        "W": 123,
+        "E": 156
       }
     },
     "title": {
@@ -2038,7 +2038,7 @@
       "source": "github",
       "type": "topojson",
       "path": "auxiliary/T2.6_buffer.topo.json",
-      "max-zoom": "3"
+      "max-zoom": 3
     }
   },
   {
@@ -2065,7 +2065,7 @@
       "source": "github",
       "type": "topojson",
       "path": "auxiliary/T3.1_buffer.topo.json",
-      "max-zoom": "3"
+      "max-zoom": 3
     }
   },
   {
@@ -2092,7 +2092,7 @@
       "source": "github",
       "type": "topojson",
       "path": "auxiliary/T3.2_buffer.topo.json",
-      "max-zoom": "3"
+      "max-zoom": 3
     }
   },
   {
@@ -2104,10 +2104,10 @@
       "type": "raster",
       "tileset": "jrfep.T3_3_web_alt",
       "extent": {
-        "N": "90",
-        "S": "90",
-        "W": "180",
-        "E": "180"
+        "N": 64,
+        "S": 57,
+        "W": 180,
+        "E": 180
       }
     },
     "title": {
@@ -2125,7 +2125,7 @@
       "source": "github",
       "type": "topojson",
       "path": "auxiliary/T3.3_buffer.topo.json",
-      "max-zoom": "3"
+      "max-zoom": 3
     }
   },
   {
@@ -2137,10 +2137,10 @@
       "type": "raster",
       "tileset": "jrfep.T3_4_web_mix",
       "extent": {
-        "N": "90",
-        "S": "90",
-        "W": "180",
-        "E": "180"
+        "N": 68,
+        "S": 47,
+        "W": 180,
+        "E": 180
       }
     },
     "title": {
@@ -2158,7 +2158,7 @@
       "source": "github",
       "type": "topojson",
       "path": "auxiliary/T3.4_buffer.topo.json",
-      "max-zoom": "3"
+      "max-zoom": 3
     }
   },
   {
@@ -2317,10 +2317,10 @@
       "type": "raster",
       "tileset": "jrfep.T5_2_web_mix",
       "extent": {
-        "N": "90",
-        "S": "90",
-        "W": "180",
-        "E": "180"
+        "N": 40,
+        "S": 46,
+        "W": 121,
+        "E": 84
       }
     },
     "title": {
@@ -2338,7 +2338,7 @@
       "source": "github",
       "type": "topojson",
       "path": "auxiliary/T5.2_buffer.topo.json",
-      "max-zoom": "3"
+      "max-zoom": 3
     }
   },
   {
@@ -2404,10 +2404,10 @@
       "type": "raster",
       "tileset": "jrfep.T5_5_web_mix",
       "extent": {
-        "N": "90",
-        "S": "90",
-        "W": "180",
-        "E": "180"
+        "N": 35,
+        "S": 30,
+        "W": 84,
+        "E": 60
       }
     },
     "title": {
@@ -2425,7 +2425,7 @@
       "source": "github",
       "type": "topojson",
       "path": "auxiliary/T5.5_buffer.topo.json",
-      "max-zoom": "3"
+      "max-zoom": 3
     }
   },
   {
@@ -2437,10 +2437,10 @@
       "type": "raster",
       "tileset": "jrfep.T6_1_web_map",
       "extent": {
-        "N": "90",
-        "S": "90",
-        "W": "180",
-        "E": "180"
+        "N": 84,
+        "S": 88,
+        "W": 180,
+        "E": 180
       }
     },
     "title": {
@@ -2461,7 +2461,7 @@
       "source": "github",
       "type": "topojson",
       "path": "auxiliary/T6.1_buffer.topo.json",
-      "max-zoom": "3"
+      "max-zoom": 3
     }
   },
   {
@@ -2486,6 +2486,12 @@
       "caption": {
         "en": "Rocky mountains around Paradise Bay, Antarctica"
       }
+    },
+    "highlight-layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "auxiliary/T6.2_buffer.topo.json",
+      "max-zoom": 3
     }
   },
   {
@@ -2497,10 +2503,10 @@
       "type": "raster",
       "tileset": "jrfep.T6_3_web_map",
       "extent": {
-        "N": "90",
-        "S": "90",
-        "W": "180",
-        "E": "180"
+        "N": 84,
+        "S": 75,
+        "W": 180,
+        "E": 180
       }
     },
     "title": {
@@ -2513,6 +2519,12 @@
       "caption": {
         "en": "Tundra vegetation at Sydkap, inner Scoresby Sund, East Greenland"
       }
+    },
+    "highlight-layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "auxiliary/T6.3_buffer.topo.json",
+      "max-zoom": 3
     }
   },
   {
@@ -2534,6 +2546,12 @@
       "caption": {
         "en": "Alpine grassland with diverse herbs, Davos Klosters, Switzerland"
       }
+    },
+    "highlight-layer": {
+      "source": "github",
+      "type": "topojson",
+      "path": "auxiliary/T6.4_buffer.topo.json",
+      "max-zoom": 3
     }
   },
   {
@@ -2545,10 +2563,10 @@
       "type": "raster",
       "tileset": "jrfep.T6_5_web_mix",
       "extent": {
-        "N": "24",
-        "S": "24",
-        "W": "90",
-        "E": "150"
+        "N": 25,
+        "S": 25,
+        "W": 88,
+        "E": 151
       }
     },
     "title": {
@@ -2570,7 +2588,7 @@
       "source": "github",
       "type": "topojson",
       "path": "auxiliary/T6.5_buffer.topo.json",
-      "max-zoom": "3"
+      "max-zoom": 3
     }
   },
   {
@@ -2717,10 +2735,10 @@
       "type": "raster",
       "tileset": "jrfep.TF1_1_web_map",
       "extent": {
-        "N": "90",
-        "S": "90",
-        "W": "180",
-        "E": "180"
+        "N": 26,
+        "S": 32,
+        "W": 92,
+        "E": 152
       }
     },
     "title": {
@@ -2738,7 +2756,7 @@
       "source": "github",
       "type": "topojson",
       "path": "auxiliary/TF1.1_buffer.topo.json",
-      "max-zoom": "3"
+      "max-zoom": 3
     }
   },
   {
@@ -2786,7 +2804,7 @@
       "source": "github",
       "type": "topojson",
       "path": "auxiliary/TF1.3_buffer.topo.json",
-      "max-zoom": "3"
+      "max-zoom": 3
     }
   },
   {
@@ -2846,7 +2864,7 @@
       "source": "github",
       "type": "topojson",
       "path": "auxiliary/TF1.5_buffer.topo.json",
-      "max-zoom": "3"
+      "max-zoom": 3
     }
   },
   {
