@@ -3087,7 +3087,7 @@
     "layer": {
       "source": "github",
       "type": "topojson",
-      "path": "layers/TF1.5.web.map_v1.0_topo.json"
+      "path": "layers/TF1.5.web.map_v2.0_topo.json"
     },
     "title": {
       "en": "Episodic arid floodplains"
