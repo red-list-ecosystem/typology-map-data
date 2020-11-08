@@ -524,6 +524,12 @@
       "caption": {
         "en": "Radar image of Lake Vostok ~4 km below the icesheet surface, East Antarctica"
       }
+    },
+    "highlight-layer": {
+      "source": "github",
+      "type": "geojson",
+      "path": "auxiliary/F2.10_points.json",
+      "max-zoom": 6
     }
   },
   {
