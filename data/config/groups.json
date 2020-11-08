@@ -527,9 +527,9 @@
     },
     "highlight-layer": {
       "source": "github",
-      "type": "geojson",
+      "type": "topojson",
       "path": "auxiliary/F2.10_buffer.topo.json",
-      "max-zoom": 3
+      "max-zoom": 6
     }
   },
   {
