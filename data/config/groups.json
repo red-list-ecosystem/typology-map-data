@@ -528,8 +528,8 @@
     "highlight-layer": {
       "source": "github",
       "type": "geojson",
-      "path": "auxiliary/F2.10_points.json",
-      "max-zoom": 6
+      "path": "auxiliary/F2.10_buffer.topo.json",
+      "max-zoom": 3
     }
   },
   {
