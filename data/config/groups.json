@@ -1241,7 +1241,7 @@
       "en": "Seamounts, ridges and plateaus"
     },
     "keywords": {
-      "en": "hydrothermal vents,cold seeps,organic falls,tubeworms,seamounts,ridges"
+      "en": "tubeworms,seamounts,ridges"
     },
     "image": {
       "credit": {
@@ -1311,6 +1311,9 @@
     },
     "title": {
       "en": "Chemosynthetic-based-ecosystems (CBE)"
+    },
+    "keywords": {
+      "en": "hydrothermal vents,cold seeps,organic falls,tubeworms,seamounts,ridges"
     },
     "image": {
       "credit": {
