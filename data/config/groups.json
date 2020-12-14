@@ -93,10 +93,10 @@
     },
     "image": {
       "credit": {
-        "en": "Kastey on Wikimedia Commons, licensed under CC 4.0"
+        "en": "Nitin Gupta on Unsplash"
       },
       "caption": {
-        "en": "Volga River, Zubstov, Russia"
+        "en": "Frozen Zanskar River, Leh, India"
       }
     },
     "highlight-layer": {
@@ -126,7 +126,7 @@
     },
     "image": {
       "credit": {
-        "en": "Raanation on Wikimedia Commons"
+        "en": "Raanation on Wikimedia Commons, CC BY-SA 4.0"
       },
       "caption": {
         "en": "Yamuna River near Mussoorie, India"
@@ -339,7 +339,7 @@
     },
     "image": {
       "credit": {
-        "en": "Sveter on Wikimedia commons, licensed under CC BY-SA 3.0"
+        "en": "Sveter on Wikimedia commons, CC BY-SA 3.0"
       },
       "caption": {
         "en": "Frozen Lake, Ulriken, Bergen, Norway"
@@ -432,10 +432,10 @@
     },
     "image": {
       "credit": {
-        "en": "Richard Kingsford"
+        "en": "David Keith"
       },
       "caption": {
-        "en": "Lake Eyre, central Australia, showing beta-carotene pigment caused by the alga, _Dunaliella salina_"
+        "en": "Hutt Lagoon, Port Gregory, Western Australia, pink colour caused by the alga, _Dunaliella salina_"
       }
     },
     "highlight-layer": {
@@ -714,10 +714,10 @@
     },
     "image": {
       "credit": {
-        "en": "Ralph MacNally"
+        "en": "Jean-Paul Ferrero/AUSCAPE"
       },
       "caption": {
-        "en": "Barwon River estuary, southeastern Australia"
+        "en": "Port Davey southern shores with Stephens Bay, Hannant Inlet and Mount Rugby beyond, Tasmania, Australia."
       }
     },
     "highlight-layer": {
@@ -741,10 +741,10 @@
     },
     "image": {
       "credit": {
-        "en": "C. Garside"
+        "en": "Phil Melgren / DOC (NZ)"
       },
       "caption": {
-        "en": "Open (left) and closed (right) lagoon entrances along the New South Wales coast, Australia"
+        "en": "Waituna lagoon, New Zealand"
       }
     },
     "highlight-layer": {
@@ -831,7 +831,7 @@
     },
     "image": {
       "credit": {
-        "en": "Francesco Ungaro"
+        "en": "Francesco Ungaro on Unsplash"
       },
       "caption": {
         "en": "Coral reefs, structurally complex and harbouring diverse marine life"
@@ -927,7 +927,7 @@
         "en": "Dale Roberts, NOAA / CBNMS"
       },
       "caption": {
-        "en": "Red Urchin (Strongylocentrotus franciscanus) and invertebrates on rocky reef habitat, Cordell Bank National Marine Sanctuary, California"
+        "en": "Red Urchin (_Strongylocentrotus franciscanus_) and invertebrates on rocky reef habitat, Cordell Bank National Marine Sanctuary, California"
       }
     }
   },
@@ -951,7 +951,7 @@
     },
     "image": {
       "credit": {
-        "en": "Andrew David, NOAA/NMFS (left). Rick Starr, NOAA/CBNMS (right)"
+        "en": "Rick Starr, NOAA/CBNMS (left); Andrew David, NOAA/NMFS (right)"
       },
       "caption": {
         "en": "Left: Dover sole on sand, Cordell Bank National Marine Sanctuary, California. Right: Jawfish in sandy burrow."
@@ -978,10 +978,10 @@
     },
     "image": {
       "credit": {
-        "en": "NOAA Okeanos Explorer Program, licensed under CC BY 2.0"
+        "en": "NOAA Office of Ocean Exploration and Research"
       },
       "caption": {
-        "en": "Mud plain with a shortspine thornyhead (Sebastolobus alascanus) and an acesta clam"
+        "en": "Polynoid worm on soft sediment, Caribbean Sea"
       }
     }
   },
@@ -1032,10 +1032,10 @@
     },
     "image": {
       "credit": {
-        "en": "Hani Amir on Flickr, licensed under CC BY-NC-ND 2.0"
+        "en": "NOAA Office of Ocean Exploration and Research"
       },
       "caption": {
-        "en": "Epipelagic visual predators (mahi-mahi), Maldives"
+        "en": "White-tipped ocean shark near surface, Wake Island, Pacific Ocean"
       }
     }
   },
@@ -1059,7 +1059,7 @@
     },
     "image": {
       "credit": {
-        "en": "Ilse Reijs and Jan-Noud Hutten, licence CC BY 2.0"
+        "en": "Ilse Reijs and Jan-Noud Hutten, CC BY 2.0"
       },
       "caption": {
         "en": "Mola mola (sunfish) near Nusa Lembongan, Indonesia"
@@ -1089,7 +1089,7 @@
         "en": "NOAA Office of Ocean Exploration and Research"
       },
       "caption": {
-        "en": "Hydromedusa jellyfish in the Mariana Trench, western Pacific Ocean"
+        "en": "Dark ctenophore with tentacles extended, Gulf of Mexico"
       }
     }
   },
@@ -1140,10 +1140,10 @@
     },
     "image": {
       "credit": {
-        "en": "fruchtzwerg's world on Flickr"
+        "en": "Antarctic Climate and Ecosystems Cooperative Research Centre"
       },
       "caption": {
-        "en": "Morning visitor on sea ice"
+        "en": "Leopard seal on ice floe"
       }
     }
   },
@@ -1161,10 +1161,10 @@
     },
     "image": {
       "credit": {
-        "en": "V. Tunnicliffe (UBC, Canada)"
+        "en": "NOAA Office of Ocean Exploration and Research"
       },
       "caption": {
-        "en": "Detritivorous benthic crustacean foraging on the bare sediments of a continental slope"
+        "en": "Holothurian feeding on detritus, Celebes Island slope"
       }
     }
   },
@@ -1218,7 +1218,7 @@
         "en": "Craig Smith and Diva Amon, NOAA"
       },
       "caption": {
-        "en": "Sea cucumber Amperima sp. on the seabed in the eastern Clarion-Clipperton Fracture Zone"
+        "en": "Sea cucumber _Amperima_ sp. on the seabed in the eastern Clarion-Clipperton Fracture Zone"
       }
     }
   },
@@ -1240,9 +1240,12 @@
     "title": {
       "en": "Seamounts, ridges and plateaus"
     },
+    "keywords": {
+      "en": "tubeworms,seamounts,ridges"
+    },
     "image": {
       "credit": {
-        "en": "NOAA Office of Ocean Exploration and Research, public domain"
+        "en": "NOAA Office of Ocean Exploration and Research"
       },
       "caption": {
         "en": "Garden of coral at depth 2,465 meters on the Sibelius Seamount"
@@ -1309,6 +1312,9 @@
     "title": {
       "en": "Chemosynthetic-based-ecosystems (CBE)"
     },
+    "keywords": {
+      "en": "hydrothermal vents,cold seeps,organic falls,tubeworms,seamounts,ridges"
+    },
     "image": {
       "credit": {
         "en": "NOAA"
@@ -1332,10 +1338,10 @@
     },
     "image": {
       "credit": {
-        "en": "Andrew Boomer, Sydney Institute of Marine Science"
+        "en": "NOAA Office of Ocean Exploration and Research"
       },
       "caption": {
-        "en": "Sydney Offshore Artificial Reef, Australia"
+        "en": "Wreck of the Amakasu Maru No.1, habitat for anemones, glass sponges, anglerfish, and other animals, Wake Atoll"
       }
     }
   },
@@ -1353,7 +1359,7 @@
     },
     "image": {
       "credit": {
-        "en": "Daniel Patman, licence CC BY-NC 2.0"
+        "en": "Daniel Patman, CC BY-NC 2.0"
       },
       "caption": {
         "en": "Salmon farm, North West Bay, Tasmania, Australia"
@@ -1377,7 +1383,7 @@
     },
     "image": {
       "credit": {
-        "en": "Jesse Allen, NASA Earth Observatory, licensed under CC 4.0"
+        "en": "Jesse Allen, NASA Earth Observatory"
       },
       "caption": {
         "en": "Sundarbans, Ganges Delta, India & Bangladesh"
@@ -1479,10 +1485,10 @@
     },
     "image": {
       "credit": {
-        "en": "Sven Lavender / Queensland Government, licence CC BY 4.0"
+        "en": "Sven Lavender / Queensland Government, CC BY 4.0"
       },
       "caption": {
-        "en": "Sea squirts or cunjevoi Pyura"
+        "en": "Sea squirts or cunjevoi _Pyura_ sp."
       }
     },
     "highlight-layer": {
@@ -1512,7 +1518,7 @@
     },
     "image": {
       "credit": {
-        "en": "Schleswig-Holstein Wadden Sea National Park, licensed under CC 4.0"
+        "en": "Schleswig-Holstein Wadden Sea National Park, CC 4.0"
       },
       "caption": {
         "en": "Muddy shore of the Wadden Sea, Germany"
@@ -1545,7 +1551,7 @@
     },
     "image": {
       "credit": {
-        "en": "Roger Jaensch, licence CC BY 4.0"
+        "en": "Roger Jaensch, CC BY 4.0"
       },
       "caption": {
         "en": "Shorebirds at high tide, Shoalwater Bay, Queensland, Australia"
@@ -1644,7 +1650,7 @@
     },
     "image": {
       "credit": {
-        "en": "SkyPixels on Wikimedia Commons"
+        "en": "SkyPixels on Wikimedia Commons, CC BY-SA 4.0"
       },
       "caption": {
         "en": "Cape Town Harbour, South Africa"
@@ -1740,7 +1746,7 @@
     },
     "image": {
       "credit": {
-        "en": "Hectonichus on Wikimedia Commons, licensed under CC BY-SA 3.0"
+        "en": "Hectonichus on Wikimedia Commons, CC BY-SA 3.0"
       },
       "caption": {
         "en": "Blind cave fish, Phreatichthys andruzzii, southern Madagascar"
@@ -1842,10 +1848,10 @@
     },
     "image": {
       "credit": {
-        "en": "Tom Iliffe and Deron Long"
+        "en": "Jill Heinerth / NOAA"
       },
       "caption": {
-        "en": "Deep Blue Cave, Bermuda"
+        "en": "Tom Iliffe at Deep Blue Cave, Walsingham System, Bermuda"
       }
     },
     "highlight-layer": {
@@ -1875,10 +1881,10 @@
     },
     "image": {
       "credit": {
-        "en": "Troy Sakihara, Dept Land and Natural Resources, Hawaii"
+        "en": "Design Pics Inc / Alamy Stock Photo"
       },
       "caption": {
-        "en": "Anchialine Pools, Maui, Hawaii, USA"
+        "en": "Anchialine Pond; Makena, Ahihi Kinau Natural Reserve, Maui, Hawaii"
       }
     },
     "highlight-layer": {
@@ -2151,7 +2157,7 @@
         "en": "Jaime Plaza van Roon / AUSCAPE"
       },
       "caption": {
-        "en": "Warm temperate rainforest with Coachwood (Ceratopetalum apetalum), Washpool National Park, New South Wales, Australia"
+        "en": "Warm temperate rainforest with Coachwood (_Ceratopetalum apetalum_), Washpool National Park, New South Wales, Australia"
       }
     },
     "highlight-layer": {
@@ -2373,7 +2379,7 @@
     },
     "image": {
       "credit": {
-        "en": "Mike W. on Flickr"
+        "en": "Mike W. on Flickr, CC BY-SA 2.0"
       },
       "caption": {
         "en": "Wildebeest in Serengeti National Park, Tanzania"
@@ -2622,7 +2628,7 @@
     },
     "image": {
       "credit": {
-        "en": "Bolatbek Gabiden via Unsplash"
+        "en": "Bolatbek Gabiden on Unsplash"
       },
       "caption": {
         "en": "Altai mountains, Mongolia"
@@ -2905,7 +2911,7 @@
     },
     "image": {
       "credit": {
-        "en": "Prashantby on Flickr, licensed under Creative Commons"
+        "en": "Prashant Y on Flickr, CC BY 2.0"
       },
       "caption": {
         "en": "Multi-species plantation (shade coffee), Chikmagalur, India"
@@ -2932,7 +2938,7 @@
     },
     "image": {
       "credit": {
-        "en": "Sergio Souza"
+        "en": "Sergio Souza on Unsplash"
       },
       "caption": {
         "en": "São Paulo, Brazil"
