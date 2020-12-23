@@ -691,6 +691,9 @@
     "title": {
       "en": "Deepwater coastal inlets"
     },
+    "keywords": {
+      "en": "fjord,fiord,ria,glacial,skerries,sound"
+    },
     "image": {
       "credit": {
         "en": "Arild Lindgaard"
@@ -1701,6 +1704,9 @@
     },
     "title": {
       "en": "Endolithic systems"
+    },
+    "keywords": {
+      "en": "SLIME,Subsurface lithoautotrophic microbial"
     },
     "image": {
       "credit": {
