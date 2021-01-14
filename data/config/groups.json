@@ -1697,11 +1697,6 @@
     "id": "S1.2",
     "path": "s_1_2",
     "biome": "S1",
-    "layer": {
-      "source": "github",
-      "type": "topojson",
-      "path": "layers/S1.2.web.orig_v1.0_topo.json"
-    },
     "title": {
       "en": "Endolithic systems"
     },
