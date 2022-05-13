@@ -1025,6 +1025,11 @@
     "id": "M1.10",
     "path": "m_1_10",
     "biome": "M1",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.M1_10_WM_nwx"
+    },
     "title": {
       "en": "Rhodolith/Maërl beds"
     },
