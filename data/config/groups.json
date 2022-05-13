@@ -1656,6 +1656,17 @@
     }
   },
   {
+    "id": "MT2.2",
+    "path": "mt_2_2",
+    "biome": "MT2",
+    "title": {
+      "en": "Large seabird and pinniped colonies"
+    },
+    "keywords": {
+      "en": "Penguin,Seals,roosting,nesting"
+    }
+  },
+  {
     "id": "MT3.1",
     "path": "mt_3_1",
     "biome": "MT3",
