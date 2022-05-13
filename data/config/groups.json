@@ -1022,6 +1022,17 @@
     }
   },
   {
+    "id": "M1.10",
+    "path": "m_1_10",
+    "biome": "M1",
+    "title": {
+      "en": "Rhodolith/Maërl beds"
+    },
+    "keywords": {
+      "en": "biogenic,coralline,algae"
+    }
+  },
+  {
     "id": "M2.1",
     "path": "m_2_1",
     "biome": "M2",
