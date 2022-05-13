@@ -1022,6 +1022,22 @@
     }
   },
   {
+    "id": "M1.10",
+    "path": "m_1_10",
+    "biome": "M1",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.M1_10_WM_nwx"
+    },
+    "title": {
+      "en": "Rhodolith/Maërl beds"
+    },
+    "keywords": {
+      "en": "biogenic,coralline,algae"
+    }
+  },
+  {
     "id": "M2.1",
     "path": "m_2_1",
     "biome": "M2",
@@ -1412,7 +1428,7 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "jrfep.MFT1_2_web_orig",
+      "tileset": "jrfep.MFT1_2_WM_nwx",
       "extent": {
         "N": "35",
         "S": "41",
@@ -2884,7 +2900,7 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "jrfep.T7_2_web_map",
+      "tileset": "jrfep.T7_2_WM_nwx",
       "extent": {
         "N": "90",
         "S": "90",
@@ -2938,7 +2954,7 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "jrfep.T7_4_web_orig",
+      "tileset": "jrfep.T7_4_WM_nwx",
       "extent": {
         "N": "90",
         "S": "90",
@@ -2965,7 +2981,7 @@
     "layer": {
       "source": "mapbox",
       "type": "raster",
-      "tileset": "jrfep.T7_5_web_mix",
+      "tileset": "jrfep.T7_5_WM_nwx",
       "extent": {
         "N": "90",
         "S": "90",
