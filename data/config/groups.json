@@ -1659,6 +1659,11 @@
     "id": "MT2.2",
     "path": "mt_2_2",
     "biome": "MT2",
+    "layer": {
+      "source": "mapbox",
+      "type": "raster",
+      "tileset": "jrfep.MT2_2_IM_orig"
+    },
     "title": {
       "en": "Large seabird and pinniped colonies"
     },
