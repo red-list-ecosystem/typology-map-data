@@ -1667,6 +1667,14 @@
     "id": "MT2.2",
     "path": "mt_2_2",
     "biome": "MT2",
+    "image": {
+      "credit": {
+        "en": "David Keith"
+      },
+      "caption": {
+        "en": "Chinstrap penguin colony with Skua, South Shetland Islands, Antarctica"
+      }
+    },
     "layer": {
       "source": "mapbox",
       "type": "raster",
