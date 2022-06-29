@@ -1030,6 +1030,14 @@
       "type": "raster",
       "tileset": "jrfep.M1_10_WM_nwx"
     },
+    "image": {
+      "credit": {
+        "en": "Nadine Schubert"
+      },
+      "caption": {
+        "en": "Rhodolith/Maërl bed near Arvoredo, Santa Catarina, Brazil"
+      }
+    },
     "title": {
       "en": "Rhodolith/Maërl beds"
     },
