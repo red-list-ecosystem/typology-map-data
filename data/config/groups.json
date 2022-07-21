@@ -721,6 +721,9 @@
     "title": {
       "en": "Permanently open riverine estuaries and bays"
     },
+    "keywords": {
+      "en": "wetlands"
+    },
     "image": {
       "credit": {
         "en": "Jean-Paul Ferrero/AUSCAPE"
@@ -747,6 +750,9 @@
     },
     "title": {
       "en": "Intermittently closed and open lakes and lagoons"
+    },
+    "keywords": {
+      "en": "wetlands"
     },
     "image": {
       "credit": {
@@ -3105,6 +3111,9 @@
     "title": {
       "en": "Permanent marshes"
     },
+    "keywords": {
+      "en": "wetlands"
+    },
     "image": {
       "credit": {
         "en": " John Spencer / OEH"
@@ -3138,6 +3147,9 @@
     "title": {
       "en": "Seasonal floodplain marshes"
     },
+    "keywords": {
+      "en": "wetlands"
+    },
     "image": {
       "credit": {
         "en": "Richard Kingsford"
@@ -3164,6 +3176,9 @@
     },
     "title": {
       "en": "Episodic arid floodplains"
+    },
+    "keywords": {
+      "en": "wetlands"
     },
     "image": {
       "credit": {
@@ -3192,6 +3207,9 @@
     "title": {
       "en": "Boreal, temperate and montane peat bogs"
     },
+    "keywords": {
+      "en": "wetlands"
+    },
     "image": {
       "credit": {
         "en": "David Keith"
@@ -3218,6 +3236,9 @@
     },
     "title": {
       "en": "Boreal and temperate fens"
+    },
+    "keywords": {
+      "en": "wetlands"
     },
     "image": {
       "credit": {
