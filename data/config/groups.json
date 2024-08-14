@@ -814,6 +814,9 @@
     "title": {
       "en": "Kelp forests"
     },
+    "keywords": {
+      "en": "fucales,Laminariales"
+    },
     "image": {
       "credit": {
         "en": "Brett Seymour / US NPS"
@@ -936,6 +939,9 @@
     },
     "title": {
       "en": "Subtidal rocky reefs"
+    },
+    "keywords": {
+      "en": "fucales"
     },
     "image": {
       "credit": {
