@@ -781,6 +781,9 @@
     "title": {
       "en": "Seagrass meadows"
     },
+    "keywords": {
+      "en": "biogenic,seaweed"
+    },
     "image": {
       "credit": {
         "en": "Damocean / istock photo"
@@ -815,7 +818,7 @@
       "en": "Kelp forests"
     },
     "keywords": {
-      "en": "fucales,Laminariales"
+      "en": "biogenic,fucales,Laminariales,seaweed"
     },
     "image": {
       "credit": {
@@ -845,7 +848,7 @@
       "en": "Photic coral reefs"
     },
     "keywords": {
-      "en": "biogenic"
+      "en": "biogenic,tropical,coral,reef,building,hard,forming"
     },
     "image": {
       "credit": {
@@ -911,7 +914,7 @@
       "en": "Photo-limited marine animal forests"
     },
     "keywords": {
-      "en": "biogenic,coral"
+      "en": "biogenic,coral,soft"
     },
     "image": {
       "credit": {
