@@ -1,0 +1,31 @@
+[
+  {
+    id: 'faq-group-1',
+    title: {
+      en: "FAQ Group 1",
+      es: "FAQ Group 1 (es)"
+    },                           
+    faqs: [
+      {
+        question: {
+          en: "What updates and improvements to the data are planned?",
+          es: "What updates and improvements to the data are planned? (es)"
+        },
+        answer: {
+          en: "Some",
+          es: "Algunos (es)"
+        }
+      },
+      {
+        question: {
+          en: "Another question?",
+          es: "Another question? (es)"
+        },
+        answer: {
+          en: "Another answer",
+          es: "Another answer? (es)"
+        }
+      }
+    ]
+  }
+]
