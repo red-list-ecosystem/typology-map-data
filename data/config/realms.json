@@ -4,7 +4,8 @@
     "path": "f",
     "type": "core",
     "title": {
-      "en": "Freshwater"
+      "en": "Freshwater",
+      "es": "Dulceacuícola"
     },
     "keywords": {
       "en": "inland,water bodies,saline"
@@ -24,7 +25,8 @@
     "path": "fm",
     "type": "trans",
     "title": {
-      "en": "Freshwater-Marine"
+      "en": "Freshwater-Marine",
+      "es": "Dulceacuícola-Marina"
     },
     "image": {
       "credit": {
@@ -40,7 +42,8 @@
     "path": "m",
     "type": "core",
     "title": {
-      "en": "Marine"
+      "en": "Marine",
+      "es": "Marina"
     },
     "keywords": {
       "en": "Oceanic,ocean,saline"
@@ -59,7 +62,8 @@
     "path": "mft",
     "type": "trans",
     "title": {
-      "en": "Marine-Freshwater-Terrestrial"
+      "en": "Marine-Freshwater-Terrestrial",
+      "es": "Marina-Dulceacuícola-Terrestre"
     },
     "image": {
       "credit": {
@@ -75,7 +79,8 @@
     "path": "mt",
     "type": "trans",
     "title": {
-      "en": "Marine-Terrestrial"
+      "en": "Marine-Terrestrial",
+      "es": "Marina-Terrestre"
     },
     "image": {
       "credit": {
@@ -91,7 +96,8 @@
     "path": "s",
     "type": "core",
     "title": {
-      "en": "Subterranean"
+      "en": "Subterranean",
+      "es": "Subterranea"
     },
     "image": {
       "credit": {
@@ -107,7 +113,8 @@
     "path": "sf",
     "type": "trans",
     "title": {
-      "en": "Subterranean-Freshwater"
+      "en": "Subterranean-Freshwater",
+      "es": "Subterranea-Dulceacuícola"
     },
     "image": {
       "credit": {
@@ -123,7 +130,8 @@
     "path": "sm",
     "type": "trans",
     "title": {
-      "en": "Subterranean-Marine"
+      "en": "Subterranean-Marine",
+      "es": "Subterranea-Marina"
     },
     "image": {
       "credit": {
@@ -139,7 +147,8 @@
     "path": "t",
     "type": "core",
     "title": {
-      "en": "Terrestrial"
+      "en": "Terrestrial",
+      "es": "Terrestre"
     },
     "image": {
       "credit": {
@@ -155,7 +164,8 @@
     "path": "tf",
     "type": "trans",
     "title": {
-      "en": "Terrestrial-Freshwater"
+      "en": "Terrestrial-Freshwater",
+      "es": "Terrestre-Dulceacuícola"
     },
     "image": {
       "credit": {
