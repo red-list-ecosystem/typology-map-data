@@ -4,7 +4,8 @@
     "path": "f_1",
     "realm": "F",
     "title": {
-      "en": "Rivers and streams biome"
+      "en": "Rivers and streams biome",
+      "es": "Bioma de ríos y arroyos"
     },
     "keywords": {
       "en": "creeks,freshwater,estuary"
@@ -23,7 +24,8 @@
     "path": "f_2",
     "realm": "F",
     "title": {
-      "en": "Lakes biome"
+      "en": "Lakes biome",
+      "es": "Bioma de lagos"
     },
     "image": {
       "credit": {
@@ -39,7 +41,8 @@
     "path": "f_3",
     "realm": "F",
     "title": {
-      "en": "Artificial wetlands biome"
+      "en": "Artificial wetlands biome",
+      "es": "Bioma de humedales artificiales"
     },
     "image": {
       "credit": {
@@ -72,7 +75,8 @@
     "path": "m_1",
     "realm": "M",
     "title": {
-      "en": "Marine shelf biome"
+      "en": "Marine shelf biome",
+      "es": "Bioma de plataforma marina"
     },
     "image": {
       "credit": {
@@ -88,7 +92,8 @@
     "path": "m_2",
     "realm": "M",
     "title": {
-      "en": "Pelagic ocean waters biome"
+      "en": "Pelagic ocean waters biome",
+      "es": "Bioma de aguas oceánicas pelágicas"
     },
     "image": {
       "credit": {
@@ -104,7 +109,8 @@
     "path": "m_3",
     "realm": "M",
     "title": {
-      "en": "Deep sea floors biome"
+      "en": "Deep sea floors biome",
+      "es": "Bioma de los fondos marinos profundos"
     },
     "image": {
       "credit": {
@@ -120,7 +126,8 @@
     "path": "m_4",
     "realm": "M",
     "title": {
-      "en": "Anthropogenic marine biome"
+      "en": "Anthropogenic marine biome",
+      "es": "Bioma marino antropogénico"
     },
     "image": {
       "credit": {
@@ -136,7 +143,8 @@
     "path": "mft_1",
     "realm": "MFT",
     "title": {
-      "en": "Brackish tidal biome"
+      "en": "Brackish tidal biome",
+      "es": "Bioma de mareas salobres"
     },
     "image": {
       "credit": {
@@ -152,7 +160,8 @@
     "path": "mt_1",
     "realm": "MT",
     "title": {
-      "en": "Shorelines biome"
+      "en": "Shorelines biome",
+      "es": "Bioma de las costas"
     },
     "image": {
       "credit": {
@@ -168,7 +177,8 @@
     "path": "mt_2",
     "realm": "MT",
     "title": {
-      "en": "Supralittoral coastal biome"
+      "en": "Supralittoral coastal biome",
+      "es": "Bioma costero supralitoral"
     },
     "image": {
       "credit": {
@@ -184,7 +194,8 @@
     "path": "mt_3",
     "realm": "MT",
     "title": {
-      "en": "Anthropogenic shorelines biome"
+      "en": "Anthropogenic shorelines biome",
+      "es": "Bioma de costas antropogénicas"
     },
     "image": {
       "credit": {
@@ -200,7 +211,8 @@
     "path": "s_1",
     "realm": "S",
     "title": {
-      "en": "Subterranean lithic biome"
+      "en": "Subterranean lithic biome",
+      "es": "Bioma lítico subterráneo"
     },
     "image": {
       "credit": {
@@ -216,7 +228,8 @@
     "path": "s_2",
     "realm": "S",
     "title": {
-      "en": "Anthropogenic subterranean voids biome"
+      "en": "Anthropogenic subterranean voids biome",
+      "es": "Bioma de espacios subterráneos antropogénicos"
     },
     "image": {
       "credit": {
@@ -232,7 +245,8 @@
     "path": "sf_1",
     "realm": "SF",
     "title": {
-      "en": "Subterranean freshwaters biome"
+      "en": "Subterranean freshwaters biome",
+      "es": "Bioma de aguas dulces subterráneas"
     },
     "image": {
       "credit": {
@@ -248,7 +262,8 @@
     "path": "sf_2",
     "realm": "SF",
     "title": {
-      "en": "Anthropogenic subterranean freshwaters biome"
+      "en": "Anthropogenic subterranean freshwaters biome",
+      "es": "Bioma de aguas dulces subterráneas antropogénicas"
     },
     "image": {
       "credit": {
@@ -264,7 +279,8 @@
     "path": "sm_1",
     "realm": "SM",
     "title": {
-      "en": "Subterranean tidal biome"
+      "en": "Subterranean tidal biome",
+      "es": "Bioma subterráneo mareal"
     },
     "image": {
       "credit": {
@@ -280,7 +296,8 @@
     "path": "t_1",
     "realm": "T",
     "title": {
-      "en": "Tropical-subtropical forests biome"
+      "en": "Tropical-subtropical forests biome",
+      "es": "Bioma de bosques tropicales y subtropicales"
     },
     "image": {
       "credit": {
@@ -296,7 +313,8 @@
     "path": "t_2",
     "realm": "T",
     "title": {
-      "en": "Temperate-boreal forests and woodlands biome"
+      "en": "Temperate-boreal forests and woodlands biome",
+      "es": "Bioma de bosques templados y boreales"
     },
     "image": {
       "credit": {
@@ -312,7 +330,8 @@
     "path": "t_3",
     "realm": "T",
     "title": {
-      "en": "Shrublands and shrubby woodlands biome"
+      "en": "Shrublands and shrubby woodlands biome",
+      "es": "Bioma de arbustales y matorrales"
     },
     "image": {
       "credit": {
@@ -328,7 +347,8 @@
     "path": "t_4",
     "realm": "T",
     "title": {
-      "en": "Savannas and grasslands biome"
+      "en": "Savannas and grasslands biome",
+      "es": "Bioma de sabanas y pastizales"
     },
     "image": {
       "credit": {
@@ -344,7 +364,8 @@
     "path": "t_5",
     "realm": "T",
     "title": {
-      "en": "Deserts and semi-deserts biome"
+      "en": "Deserts and semi-deserts biome",
+      "es": "Bioma de desiertos y semidesiertos"
     },
     "image": {
       "credit": {
@@ -360,7 +381,8 @@
     "path": "t_6",
     "realm": "T",
     "title": {
-      "en": "Polar/alpine (cryogenic) biome"
+      "en": "Polar/alpine (cryogenic) biome",
+      "es": "Bioma polar/alpino (criogénico)"
     },
     "image": {
       "credit": {
@@ -376,7 +398,8 @@
     "path": "t_7",
     "realm": "T",
     "title": {
-      "en": "Intensive land-use biome"
+      "en": "Intensive land-use biome",
+      "es": "Bioma de uso intensivo de la tierra"
     },
     "image": {
       "credit": {
@@ -392,7 +415,8 @@
     "path": "tf_1",
     "realm": "TF",
     "title": {
-      "en": "Palustrine wetlands biome"
+      "en": "Palustrine wetlands biome",
+      "es": "Bioma de humedales palustres"
     },
     "image": {
       "credit": {
