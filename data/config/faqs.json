@@ -4,7 +4,7 @@
     "title": {
       "en": "FAQ Group 1",
       "es": "FAQ Group 1 (es)"
-    },                           
+    },
     "faqs": [
       {
         "question": {
@@ -33,26 +33,16 @@
     "title": {
       "en": "FAQ Group 2",
       "es": "FAQ Group 2 (es)"
-    },                           
+    },
     "faqs": [
       {
         "question": {
-          "en": "Another question?",
-          "es": "Another question? (es)"
+          "en": "Is there a way to import polygons/type in coordinates into the analyse tool and consolidate data outputs?",
+          "es": "Es posible importar polígonos o introducir coordenadas en la herramienta de análisis y consolidar los resultados por polígono?"
         },
         "answer": {
-          "en": "Some",
-          "es": "Algunos (es)"
-        }
-      },
-      {
-        "question": {
-          "en": "Another question?",
-          "es": "Another question? (es)"
-        },
-        "answer": {
-          "en": "Another answer",
-          "es": "Another answer (es)"
+          "en": "The analyse tool is only available for simple analysis.We recommend using other geospatial tools for analysis. Available geospatial data and tools are listed in the resources page.",
+          "es": "La herramienta de análisis está disponible para análisis sencillos.Recomendamos usar otras herramientas geoespaciales especializadas para análisis especializados.Puede revisar la página de recursos para consultar datos y herramientas geoespaciales disponibles."
         }
       }
     ]
