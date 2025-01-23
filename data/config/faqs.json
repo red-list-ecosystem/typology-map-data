@@ -22,7 +22,7 @@
           "es": "Another question? (es)"
         },
         "answer": {
-          "en": "Another answer",
+          "en": "Another answer with an [external link](https://iucnrle.org/) for testing",
           "es": "Another answer (es)"
         }
       }
