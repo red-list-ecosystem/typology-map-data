@@ -41,8 +41,8 @@
           "es": "Es posible importar polígonos o introducir coordenadas en la herramienta de análisis y consolidar los resultados por polígono?"
         },
         "answer": {
-          "en": "The analyse tool is only available for simple analysis. We recommend using other geospatial tools for more tailored analysis. Available geospatial data and tools are listed in the [resources page](resources).",
-          "es": "La herramienta de análisis está disponible para análisis sencillos.Recomendamos usar otras herramientas geoespaciales para análisis especializados.Puede revisar la [página de recursos](resources) para consultar datos y herramientas geoespaciales disponibles."
+          "en": "The analyse tool is only available for simple analysis. We recommend using other geospatial tools for more tailored analysis. Available geospatial data and tools are listed in the [resources page](/page/resources).",
+          "es": "La herramienta de análisis está disponible para análisis sencillos.Recomendamos usar otras herramientas geoespaciales para análisis especializados.Puede revisar la [página de recursos](/es/page/resources) para consultar datos y herramientas geoespaciales disponibles."
         }
       }
     ]
