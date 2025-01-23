@@ -22,7 +22,7 @@
           "es": "Another question? (es)"
         },
         "answer": {
-          "en": "Another answer with an [external link](https://iucnrle.org/) for testing. /n Also try some more markdown. **bold**, _italic_, ~~strikethrough~~. /n/n/ ![an image](https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/t_1_2-diagram.png)",
+          "en": "Another answer with an [external link](https://iucnrle.org/) for testing. \n Also try some more markdown. **bold**, _italic_, ~~strikethrough~~. \n\n ![an image](https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/t_1_2-diagram.png)",
           "es": "Another answer (es)"
         }
       }
