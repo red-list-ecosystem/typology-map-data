@@ -42,9 +42,118 @@
         },
         "answer": {
           "en": "The analyse tool is only available for simple analysis. We recommend using other geospatial tools for more tailored analysis. Available geospatial data and tools are listed in the [resources page](/page/resources).",
-          "es": "La herramienta de análisis está disponible para análisis sencillos.Recomendamos usar otras herramientas geoespaciales para análisis especializados.Puede revisar la [página de recursos](/es/page/resources) para consultar datos y herramientas geoespaciales disponibles."
+          "es": "La herramienta de análisis está disponible para análisis sencillos.Recomendamos usar otras herramientas geoespaciales para análisis especializados. Puede revisar la [página de recursos](/es/page/resources) para consultar datos y herramientas geoespaciales disponibles."
         }
       }
+    ]
+  },
+  {
+    "id": "faq-group-3",
+    "title": {
+      "en": "General FAQ",
+      "es": "Preguntas más frecuentes"
+    },
+    "faqs": [
+    {
+      "question": {
+        "en": "What should I do if I encounter issues with the website functionality?",
+        "es": "¿Qué debo hacer si encuentro problemas con el funcionalidad del sitio web?"
+      },
+      "answer": {
+        "en": "If you experience any issues with the website functionality, please provide detailed feedback through our [contact form](/page/feedback). Our team continually monitors user feedback to improve functionality.",
+        "es": "Si experimentas problemas con la funcionalidad del sitio web, por favor proporciona comentarios detallados a través de nuestro [formulario de contacto](/page/feedback). Nuestro equipo monitorea continuamente los comentarios de los usuarios para mejorar la funcionalidad."
+      }
+    },
+    {
+      "question": {
+        "en": "I noticed pixelation in the mapping of some terrestrial ecosystems. How is this being addressed?",
+        "es": "Noté pixelación en la cartografía de algunos ecosistemas terrestres. ¿Cómo se está abordando esto?"
+      },
+      "answer": {
+        "en": "We appreciate your feedback regarding pixelation in the mapping. We are working on improving the resolution and accuracy of our maps to ensure they are as detailed as possible. Your observations will help us prioritize these improvements.",
+        "es": "Agradecemos tus comentarios sobre la pixelación en la cartografía. Estamos trabajando en mejorar la resolución y precisión de nuestros mapas para asegurarnos de que sean lo más detallados posible. Tus observaciones nos ayudarán a priorizar estas mejoras."
+      }
+    },
+    {
+      "question": {
+        "en": "Can I access the spatial data or geographical boundaries of the ecosystem types?",
+        "es": "¿Puedo acceder a los datos espaciales o límites geográficos de los tipos de ecosistemas?"
+      },
+      "answer": {
+        "en": "Currently, we are working on providing accessible spatial data and shapefiles for download. If you have specific needs, please contact us with your requirements, and we will do our best to accommodate them.",
+        "es": "Actualmente, estamos trabajando en proporcionar datos espaciales y archivos de forma para su descarga. Si tienes necesidades específicas, por favor contáctanos con tus requisitos, y haremos nuestro mejor esfuerzo para acomodarlos."
+      }
+    },
+    {
+      "question": {
+        "en": "How can I find the area and percentage cover for each typology classification?",
+        "es": "¿Cómo puedo encontrar el área y el porcentaje de cobertura para cada clasificación tipológica?"
+      },
+      "answer": {
+        "en": "We acknowledge that providing area and coverage statistics is essential for a comprehensive understanding of the typology. We are exploring ways to include this data in future updates.",
+        "es": "Reconocemos que proporcionar estadísticas sobre el área y la cobertura es esencial para una comprensión completa de la tipología. Estamos explorando formas de incluir estos datos en futuras actualizaciones."
+      }
+    },
+    {
+      "question": {
+        "en": "Are there maps available for levels 4, 5, and 6 of the typology?",
+        "es": "¿Hay mapas disponibles para los niveles 4, 5 y 6 de la tipología?"
+      },
+      "answer": {
+        "en": "The current version of the website primarily focuses on levels 1 to 3. We are actively working towards expanding this categorization and providing more maps for higher levels in the future.",
+        "es": "La versión actual del sitio web se centra principalmente en los niveles 1 a 3. Estamos trabajando activamente para expandir esta categorización y proporcionar más mapas para los niveles superiores en el futuro."
+      }
+    },
+    {
+      "question": {
+        "en": "Can I request clarifications on definitions used in the typology?",
+        "es": "¿Puedo solicitar aclaraciones sobre las definiciones utilizadas en la tipología?"
+      },
+      "answer": {
+        "en": "Yes, we encourage users to reach out with specific questions regarding definitions and classifications within the typology. Your inquiries can help us enhance the clarity and usability of our documentation.",
+        "es": "Sí, animamos a los usuarios a comunicarse con preguntas específicas sobre definiciones y clasificaciones dentro de la tipología. Tus consultas pueden ayudarnos a mejorar la claridad y usabilidad de nuestra documentación."
+      }
+    },
+    {
+      "question": {
+        "en": "I found discrepancies in the ecosystem classification for certain areas. Who can I contact for clarification?",
+        "es": "He encontrado discrepancias en la clasificación de ecosistemas para ciertas áreas. ¿A quién puedo contactar para aclaraciones?"
+      },
+      "answer": {
+        "en": "If you encounter discrepancies in classifications or have specific questions, please email us. We are working with a network of ecosystem experts to ensure accuracy, and your feedback is invaluable.",
+        "es": "Si encuentras discrepancias en las clasificaciones o tienes preguntas específicas, por favor envíanos un correo. Estamos trabajando con una red de expertos en ecosistemas para asegurar la precisión, y tus comentarios son invaluables."
+      }
+    },
+    {
+      "question": {
+        "en": "Is there an API available for using the data in external applications?",
+        "es": "¿Hay una API disponible para usar los datos en aplicaciones externas?"
+      },
+      "answer": {
+        "en": "Currently, we do not have an API readily available for public use; however, we are exploring options to make the data more accessible for organizations wishing to utilize it in their outreach efforts.",
+        "es": "Actualmente, no tenemos una API disponible para el uso público; sin embargo, estamos explorando opciones para hacer los datos más accesibles para organizaciones que deseen utilizarlos en sus esfuerzos de divulgación."
+      }
+    },
+    {
+      "question": {
+        "en": "What is being done about the issue of missing maps or images on the website?",
+        "es": "¿Qué se está haciendo respecto al problema de la falta de mapas o imágenes en el sitio web?"
+      },
+      "answer": {
+        "en": "We are aware of the reports regarding missing images and maps, and we are investigating the technical issues involved. Updates will be made as soon as we resolve the problems.",
+        "es": "Somos conscientes de los informes sobre imágenes y mapas faltantes, y estamos investigando los problemas técnicos involucrados. Se harán actualizaciones tan pronto como resolvamos los problemas."
+      }
+    },
+    {
+      "question": {
+        "en": "How can I contribute to discussions regarding ecosystem typology or collaborate with the IUCN team?",
+        "es": "¿Cómo puedo contribuir a las discusiones sobre la tipología de ecosistemas o colaborar con el equipo de la IUCN?"
+      },
+      "answer": {
+        "en": "We value collaboration and input from external experts. If you are interested in contributing or discussing any aspect of the ecosystem typology, please get in touch with us directly.",
+        "es": "Valoramos la colaboración y la opinión de expertos externos. Si estás interesado en contribuir o discutir cualquier aspecto de la tipología de ecosistemas, por favor, contáctanos directamente."
+      }
+    }
     ]
   }
 ]
