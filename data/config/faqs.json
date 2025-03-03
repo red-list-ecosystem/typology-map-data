@@ -2,28 +2,38 @@
   {
     "id": "faq-group-1",
     "title": {
-      "en": "FAQ Group 1",
-      "es": "FAQ Group 1 (es)"
+      "en": "Website functionality",
+      "es": "Funcionalidad del sitio web?"
     },
     "faqs": [
       {
         "question": {
-          "en": "What updates and improvements to the data are planned?",
-          "es": "What updates and improvements to the data are planned? (es)"
+          "en": "What should I do if I encounter issues with the website functionality?",
+          "es": "¿Qué debo hacer si encuentro problemas con el funcionalidad del sitio web?"
         },
         "answer": {
-          "en": "Some",
-          "es": "Algunos (es)"
+          "en": "If you experience any issues with the website functionality, please provide detailed feedback through our [contact form](/page/feedback). Our team continually monitors user feedback to improve functionality.",
+          "es": "Si experimentas problemas con la funcionalidad del sitio web, por favor proporciona comentarios detallados a través de nuestro [formulario de contacto](/es/page/feedback). Nuestro equipo monitorea continuamente los comentarios de los usuarios para mejorar la funcionalidad."
         }
       },
       {
         "question": {
-          "en": "Another question?",
-          "es": "Another question? (es)"
+          "en": "What is being done about the issue of missing maps or images on the website?",
+          "es": "¿Qué se está haciendo respecto al problema de la falta de mapas o imágenes en el sitio web?"
         },
         "answer": {
-          "en": "Another answer with an [external link](https://iucnrle.org/) for testing. \n Also try some more markdown. **bold**, _italic_, ~~strikethrough~~. \n\n ![an image](https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/t_1_2-diagram.png)",
-          "es": "Another answer (es)"
+          "en": "We are aware that some users have reported missing images and maps, and we are working on solving the technical issues involved. Please visit the site later and, if the problem persists, please contact us through our [contact form](/page/feedback).",
+          "es": "Somos conscientes de los informes sobre imágenes y mapas faltantes, y estamos investigando los problemas técnicos involucrados. Se harán actualizaciones tan pronto como resolvamos los problemas. Por favor visite el sitio más tarde, y si los problemas persisten contactenos a través de nuestro [formulario de contacto](/es/page/feedback)."
+        }
+      },
+      {
+        "question": {
+          "en": "Is there an API available for using the data in external applications?",
+          "es": "¿Hay una API disponible para usar los datos en aplicaciones externas?"
+        },
+        "answer": {
+          "en": "Currently, we do not have an API readily available for public use; however, we are exploring options to make the data more accessible for organizations wishing to utilize or integrate the content in other applications.",
+          "es": "Actualmente, no tenemos una API disponible para el uso público; sin embargo, estamos explorando opciones para hacer los datos más accesibles para organizaciones que deseen utilizar o integrar el contenido en otras herramientas informáticas."
         }
       }
     ]
@@ -31,18 +41,38 @@
   {
     "id": "faq-group-2",
     "title": {
-      "en": "FAQ Group 2",
-      "es": "FAQ Group 2 (es)"
+      "en": "Ecosystem classification/typology",
+      "es": "Clasificación o tipología de ecosistemas"
     },
     "faqs": [
       {
         "question": {
-          "en": "Is there a way to import polygons/type in coordinates into the analyse tool and consolidate data outputs?",
-          "es": "Es posible importar polígonos o introducir coordenadas en la herramienta de análisis y consolidar los resultados por polígono?"
+          "en": "Can I request clarifications on definitions used in the typology?",
+          "es": "¿Puedo solicitar aclaraciones sobre las definiciones utilizadas en la tipología?"
         },
         "answer": {
-          "en": "The analyse tool is only available for simple analysis. We recommend using other geospatial tools for more tailored analysis. Available geospatial data and tools are listed in the [resources page](/page/resources).",
-          "es": "La herramienta de análisis está disponible para análisis sencillos.Recomendamos usar otras herramientas geoespaciales para análisis especializados. Puede revisar la [página de recursos](/es/page/resources) para consultar datos y herramientas geoespaciales disponibles."
+          "en": "We encourage users to read the [glossary](/page/glossary) of the most important terms and acronyms, and the typology section with important [definitions](page/typology) used in this site. You are welcome to reach out through our [contact form](/page/feedback) with specific questions regarding definitions and classifications within the typology. Your inquiries can help us enhance the clarity and usability of our documentation.",
+          "es": "Sugerimos a los usuarios leer el glosario de los términos y acrónimos más importantes y la sección de la tipología con las definiciones principales. Animamos a los usuarios a comunicarse con preguntas específicas sobre definiciones y clasificaciones dentro de la tipología usando nuestro [formulario de contacto](/es/page/feedback). Sus consultas pueden ayudarnos a mejorar la claridad y usabilidad de nuestra documentación."
+        }
+      },
+      {
+        "question": {
+          "en": "I found discrepancies in the ecosystem classification for certain areas. Who can I contact for clarification?",
+          "es": "He encontrado discrepancias en la clasificación de ecosistemas para ciertas áreas. ¿A quién puedo contactar para aclaraciones?"
+        },
+        "answer": {
+          "en": "If you encounter discrepancies in classifications or have specific questions, please reach out through our [contact form](/page/feedback). We are working with a network of ecosystem experts to ensure accuracy, and your feedback is invaluable.",
+          "es": "Si encuentras discrepancias en las clasificaciones o tienes preguntas específicas, por favor envíanos tus sugerencias a travás del [formulario de contacto](/es/page/feedback). Estamos trabajando con una red de expertos en ecosistemas para asegurar la precisión, y tus comentarios son invaluables."
+        }
+      },
+      {
+        "question": {
+          "en": "How can I contribute to discussions regarding ecosystem typology or collaborate with the IUCN team?",
+          "es": "¿Cómo puedo contribuir a las discusiones sobre la tipología de ecosistemas o colaborar con el equipo de la IUCN?"
+        },
+        "answer": {
+          "en": "We value collaboration and input from external experts. If you are interested in contributing or discussing any aspect of the ecosystem typology, please get in touch through the [IUCN Commission on Ecosystem Management](https://iucn.org/our-union/commissions/iucn-commission-ecosystem-management-2021-2025) or the [IUCN Red List of Ecosystem team](https://iucnrle.org/team).",
+          "es": "Valoramos la colaboración y la opinión de expertos externos. Si estás interesado en contribuir o discutir cualquier aspecto de la tipología de ecosistemas, por favor, contacta a la [Commisión de Gestión de Ecosistemas de la UICN](https://iucn.org/es/our-union/commissions/comision-de-gestion-de-ecosistemas) o al [Equipo de Lista Roja de Ecosistemas de la UICN](https://iucnrle.org/es/equipo-lre)"
         }
       }
     ]
@@ -50,20 +80,10 @@
   {
     "id": "faq-group-3",
     "title": {
-      "en": "General FAQ",
-      "es": "Preguntas más frecuentes"
+      "en": "Indicative distribution maps",
+      "es": "Mapas y cartografía"
     },
     "faqs": [
-    {
-      "question": {
-        "en": "What should I do if I encounter issues with the website functionality?",
-        "es": "¿Qué debo hacer si encuentro problemas con el funcionalidad del sitio web?"
-      },
-      "answer": {
-        "en": "If you experience any issues with the website functionality, please provide detailed feedback through our [contact form](/page/feedback). Our team continually monitors user feedback to improve functionality.",
-        "es": "Si experimentas problemas con la funcionalidad del sitio web, por favor proporciona comentarios detallados a través de nuestro [formulario de contacto](/page/feedback). Nuestro equipo monitorea continuamente los comentarios de los usuarios para mejorar la funcionalidad."
-      }
-    },
     {
       "question": {
         "en": "I noticed pixelation in the mapping of some terrestrial ecosystems. How is this being addressed?",
@@ -76,22 +96,32 @@
     },
     {
       "question": {
-        "en": "Can I access the spatial data or geographical boundaries of the ecosystem types?",
-        "es": "¿Puedo acceder a los datos espaciales o límites geográficos de los tipos de ecosistemas?"
+        "en": "Is there a way to import polygons/type in coordinates into the analyse tool and consolidate data outputs?",
+        "es": "Es posible importar polígonos o introducir coordenadas en la herramienta de análisis y consolidar los resultados por polígono?"
       },
       "answer": {
-        "en": "Currently, we are working on providing accessible spatial data and shapefiles for download. If you have specific needs, please contact us with your requirements, and we will do our best to accommodate them.",
-        "es": "Actualmente, estamos trabajando en proporcionar datos espaciales y archivos de forma para su descarga. Si tienes necesidades específicas, por favor contáctanos con tus requisitos, y haremos nuestro mejor esfuerzo para acomodarlos."
+        "en": "The analyse tool is only available for simple analysis. We recommend using other geospatial tools for more tailored analysis. Available geospatial data and tools are listed in the [resources page](/page/resources).",
+        "es": "La herramienta de análisis está disponible para análisis sencillos. Recomendamos usar otras herramientas geoespaciales para análisis especializados. Puede revisar la [página de recursos](/es/page/resources) para consultar datos y herramientas geoespaciales disponibles."
       }
     },
     {
       "question": {
-        "en": "How can I find the area and percentage cover for each typology classification?",
-        "es": "¿Cómo puedo encontrar el área y el porcentaje de cobertura para cada clasificación tipológica?"
+        "en": "Can I access the spatial data or geographical boundaries of the ecosystem types?",
+        "es": "¿Puedo acceder a los datos espaciales o límites geográficos de los tipos de ecosistemas?"
       },
       "answer": {
-        "en": "We acknowledge that providing area and coverage statistics is essential for a comprehensive understanding of the typology. We are exploring ways to include this data in future updates.",
-        "es": "Reconocemos que proporcionar estadísticas sobre el área y la cobertura es esencial para una comprensión completa de la tipología. Estamos explorando formas de incluir estos datos en futuras actualizaciones."
+        "en": "Yes, spatial data is available for download or integration in other geospatial tools. Available geospatial data and tools are listed in the [resources page](/page/resources).",
+        "es": "Si, los datos espaciales están disponibles para descargar o integrar en herramientas geoespaciales. Por favor consulte la [página de recursos](/es/page/resources)."
+      }
+    },
+    {
+      "question": {
+        "en": "How can I find the area and percentage cover for each unit in the typology?",
+        "es": "¿Cómo puedo encontrar el área y el porcentaje de cobertura para cada unidad de la tipología?"
+      },
+      "answer": {
+        "en": "Due to the nature of the indicative distribution maps, the area and coverage statistics are only useful for global or large scale analysis based on relative distribution (percentage of global extent).",
+        "es": "Debido a la naturaleza de los mapas indicativos de distribución, las estadísticas de área y cobertura solo son útiles para análisis globales o de gran escala basados ​​en la distribución relativa (porcentaje de la extensión global)."
       }
     },
     {
@@ -100,58 +130,8 @@
         "es": "¿Hay mapas disponibles para los niveles 4, 5 y 6 de la tipología?"
       },
       "answer": {
-        "en": "The current version of the website primarily focuses on levels 1 to 3. We are actively working towards expanding this categorization and providing more maps for higher levels in the future.",
-        "es": "La versión actual del sitio web se centra principalmente en los niveles 1 a 3. Estamos trabajando activamente para expandir esta categorización y proporcionar más mapas para los niveles superiores en el futuro."
-      }
-    },
-    {
-      "question": {
-        "en": "Can I request clarifications on definitions used in the typology?",
-        "es": "¿Puedo solicitar aclaraciones sobre las definiciones utilizadas en la tipología?"
-      },
-      "answer": {
-        "en": "Yes, we encourage users to reach out with specific questions regarding definitions and classifications within the typology. Your inquiries can help us enhance the clarity and usability of our documentation.",
-        "es": "Sí, animamos a los usuarios a comunicarse con preguntas específicas sobre definiciones y clasificaciones dentro de la tipología. Tus consultas pueden ayudarnos a mejorar la claridad y usabilidad de nuestra documentación."
-      }
-    },
-    {
-      "question": {
-        "en": "I found discrepancies in the ecosystem classification for certain areas. Who can I contact for clarification?",
-        "es": "He encontrado discrepancias en la clasificación de ecosistemas para ciertas áreas. ¿A quién puedo contactar para aclaraciones?"
-      },
-      "answer": {
-        "en": "If you encounter discrepancies in classifications or have specific questions, please email us. We are working with a network of ecosystem experts to ensure accuracy, and your feedback is invaluable.",
-        "es": "Si encuentras discrepancias en las clasificaciones o tienes preguntas específicas, por favor envíanos un correo. Estamos trabajando con una red de expertos en ecosistemas para asegurar la precisión, y tus comentarios son invaluables."
-      }
-    },
-    {
-      "question": {
-        "en": "Is there an API available for using the data in external applications?",
-        "es": "¿Hay una API disponible para usar los datos en aplicaciones externas?"
-      },
-      "answer": {
-        "en": "Currently, we do not have an API readily available for public use; however, we are exploring options to make the data more accessible for organizations wishing to utilize it in their outreach efforts.",
-        "es": "Actualmente, no tenemos una API disponible para el uso público; sin embargo, estamos explorando opciones para hacer los datos más accesibles para organizaciones que deseen utilizarlos en sus esfuerzos de divulgación."
-      }
-    },
-    {
-      "question": {
-        "en": "What is being done about the issue of missing maps or images on the website?",
-        "es": "¿Qué se está haciendo respecto al problema de la falta de mapas o imágenes en el sitio web?"
-      },
-      "answer": {
-        "en": "We are aware of the reports regarding missing images and maps, and we are investigating the technical issues involved. Updates will be made as soon as we resolve the problems.",
-        "es": "Somos conscientes de los informes sobre imágenes y mapas faltantes, y estamos investigando los problemas técnicos involucrados. Se harán actualizaciones tan pronto como resolvamos los problemas."
-      }
-    },
-    {
-      "question": {
-        "en": "How can I contribute to discussions regarding ecosystem typology or collaborate with the IUCN team?",
-        "es": "¿Cómo puedo contribuir a las discusiones sobre la tipología de ecosistemas o colaborar con el equipo de la IUCN?"
-      },
-      "answer": {
-        "en": "We value collaboration and input from external experts. If you are interested in contributing or discussing any aspect of the ecosystem typology, please get in touch with us directly.",
-        "es": "Valoramos la colaboración y la opinión de expertos externos. Si estás interesado en contribuir o discutir cualquier aspecto de la tipología de ecosistemas, por favor, contáctanos directamente."
+        "en": "The current version of the website primarily focuses on levels 1 to 3 (realms, functional biomes and ecosystem functional groups). The three lower levels of classification are beyond the scope of this website. Please refer to the [resources page](/page/resources) for alternatives.",
+        "es": "La versión actual del sitio web se centra principalmente en los niveles 1 a 3 (divisiones de la biosfera, biomas funcionales y grupos funcionales de ecosistemas). Los tres niveles inferiores de la tipología están fuera del alcance de este sitio web. Puede consultar la [página de recursos](/es/page/resources) para descubrir alternativas."
       }
     }
     ]
