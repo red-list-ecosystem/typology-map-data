@@ -94,6 +94,10 @@
       "en": "Freeze-thaw rivers and streams",
       "es": "Ríos y arroyos estacionalmente congelados"
     },
+    "keywords": {
+      "en": "ice,snow,frozen,cryogenic",
+      "es": "hielo,deshielo,criogénico"
+    },
     "image": {
       "credit": {
         "en": "Nitin Gupta on Unsplash"
@@ -353,6 +357,10 @@
     "title": {
       "en": "Freeze-thaw freshwater lakes",
       "es": "Lagos de agua dulce estacionalmente congelados"
+    },
+    "keywords": {
+      "en": "ice,snow,frozen,cryogenic",
+      "es": "hielo,deshielo,criogénico,congelación"
     },
     "image": {
       "credit": {
@@ -1225,6 +1233,10 @@
     "title": {
       "en": "Sea ice",
       "es": "Hielo marino"
+    },
+    "keywords": {
+      "en": "ice,snow,frozen,cryogenic",
+      "es": "hielo,deshielo,criogénico,banquisa"
     },
     "image": {
       "credit": {
