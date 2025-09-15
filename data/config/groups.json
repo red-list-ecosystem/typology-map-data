@@ -16,7 +16,8 @@
     },
     "title": {
       "en": "Permanent upland streams",
-      "es": "Ríos permanentes de tierras altas"
+      "es": "Ríos permanentes de tierras altas",
+      "fr": "Cours d\\'eau permanents des hautes terres"
     },
     "keywords": {
       "en": "rivers"
@@ -53,7 +54,8 @@
     },
     "title": {
       "en": "Permanent lowland rivers",
-      "es": "Ríos permanentes de tierras bajas"
+      "es": "Ríos permanentes de tierras bajas",
+      "fr": "Rivières permanentes de plaine"
     },
     "image": {
       "credit": {
@@ -92,7 +94,8 @@
     },
     "title": {
       "en": "Freeze-thaw rivers and streams",
-      "es": "Ríos y arroyos estacionalmente congelados"
+      "es": "Ríos y arroyos estacionalmente congelados",
+      "fr": "Fleuves et rivières soumis au gel et au dégel"
     },
     "keywords": {
       "en": "ice,snow,frozen,cryogenic",
@@ -130,7 +133,8 @@
     },
     "title": {
       "en": "Seasonal upland streams",
-      "es": "Ríos y arroyos estacionales de tierras altas"
+      "es": "Ríos y arroyos estacionales de tierras altas",
+      "fr": "Cours d\\'eau saisonniers de montagne"
     },
     "image": {
       "credit": {
@@ -164,7 +168,8 @@
     },
     "title": {
       "en": "Seasonal lowland rivers",
-      "es": "Ríos estacionales de tierras bajas"
+      "es": "Ríos estacionales de tierras bajas",
+      "fr": "Rivières saisonnières de plaine"
     },
     "image": {
       "credit": {
@@ -198,7 +203,8 @@
     },
     "title": {
       "en": "Episodic arid rivers",
-      "es": "Arroyos áridos episódicos"
+      "es": "Arroyos áridos episódicos",
+      "fr": "Rivières arides épisodiques"
     },
     "image": {
       "credit": {
@@ -226,7 +232,8 @@
     },
     "title": {
       "en": "Large lowland rivers",
-      "es": "Grandes ríos de tierras bajas"
+      "es": "Grandes ríos de tierras bajas",
+      "fr": "Grandes rivières de plaine"
     },
     "image": {
       "credit": {
@@ -260,7 +267,8 @@
     },
     "title": {
       "en": "Large permanent freshwater lakes",
-      "es": "Grandes lagos de agua dulce permanentes"
+      "es": "Grandes lagos de agua dulce permanentes",
+      "fr": "Grands lacs d\\'eau douce permanents"
     },
     "image": {
       "credit": {
@@ -294,7 +302,8 @@
     },
     "title": {
       "en": "Small permanent freshwater lakes",
-      "es": "Pequeños lagos de agua dulce permanentes"
+      "es": "Pequeños lagos de agua dulce permanentes",
+      "fr": "Petits lacs d\\'eau douce permanents"
     },
     "image": {
       "credit": {
@@ -322,7 +331,8 @@
     },
     "title": {
       "en": "Seasonal freshwater lakes",
-      "es": "Lagos de agua dulce estacionales"
+      "es": "Lagos de agua dulce estacionales",
+      "fr": "Lacs d\\'eau douce saisonniers"
     },
     "image": {
       "credit": {
@@ -356,7 +366,8 @@
     },
     "title": {
       "en": "Freeze-thaw freshwater lakes",
-      "es": "Lagos de agua dulce estacionalmente congelados"
+      "es": "Lagos de agua dulce estacionalmente congelados",
+      "fr": "Gel-dégel des lacs d\\'eau douce"
     },
     "keywords": {
       "en": "ice,snow,frozen,cryogenic",
@@ -394,7 +405,8 @@
     },
     "title": {
       "en": "Ephemeral freshwater lakes",
-      "es": "Lagos efímeros de agua dulce"
+      "es": "Lagos efímeros de agua dulce",
+      "fr": "Lacs d\\'eau douce éphémères"
     },
     "image": {
       "credit": {
@@ -428,7 +440,8 @@
     },
     "title": {
       "en": "Permanent salt and soda lakes",
-      "es": "Lagos salinos o alcalinos permanentes"
+      "es": "Lagos salinos o alcalinos permanentes",
+      "fr": "Lacs salés et sodés permanents"
     },
     "image": {
       "credit": {
@@ -456,7 +469,8 @@
     },
     "title": {
       "en": "Ephemeral salt lakes",
-      "es": "Lagos salinos efímeros"
+      "es": "Lagos salinos efímeros",
+      "fr": "Lacs salés éphémères"
     },
     "image": {
       "credit": {
@@ -484,7 +498,8 @@
     },
     "title": {
       "en": "Artesian springs and oases",
-      "es": "Manantiales artesianos y oasis"
+      "es": "Manantiales artesianos y oasis",
+      "fr": "Sources artésiennes et oasis"
     },
     "image": {
       "credit": {
@@ -512,7 +527,8 @@
     },
     "title": {
       "en": "Geothermal pools and wetlands",
-      "es": "Aguas y humedales geotermales"
+      "es": "Aguas y humedales geotermales",
+      "fr": "Piscines géothermiques et zones humides"
     },
     "image": {
       "credit": {
@@ -546,7 +562,8 @@
     },
     "title": {
       "en": "Subglacial lakes",
-      "es": "Lagos subglaciares"
+      "es": "Lagos subglaciares",
+      "fr": "Lacs sous-glaciaires"
     },
     "image": {
       "credit": {
@@ -574,7 +591,8 @@
     },
     "title": {
       "en": "Large reservoirs",
-      "es": "Grandes embalses"
+      "es": "Grandes embalses",
+      "fr": "Grands réservoirs"
     },
     "image": {
       "credit": {
@@ -602,7 +620,8 @@
     },
     "title": {
       "en": "Constructed lacustrine wetlands",
-      "es": "Humedales lacustres artificiales"
+      "es": "Humedales lacustres artificiales",
+      "fr": "Zones humides lacustres construites"
     },
     "image": {
       "credit": {
@@ -636,7 +655,8 @@
     },
     "title": {
       "en": "Rice paddies",
-      "es": "Arrozales"
+      "es": "Arrozales",
+      "fr": "Rizières"
     },
     "image": {
       "credit": {
@@ -664,7 +684,8 @@
     },
     "title": {
       "en": "Freshwater aquafarms",
-      "es": "Acuicultura de agua dulce"
+      "es": "Acuicultura de agua dulce",
+      "fr": "Fermes aquacoles d\\'eau douce"
     },
     "image": {
       "credit": {
@@ -692,7 +713,8 @@
     },
     "title": {
       "en": "Canals, ditches and drains",
-      "es": "Canales, zanjas y desagües"
+      "es": "Canales, zanjas y desagües",
+      "fr": "Canaux, fossés et drains"
     },
     "image": {
       "credit": {
@@ -720,7 +742,8 @@
     },
     "title": {
       "en": "Deepwater coastal inlets",
-      "es": "Ensenadas costeras de aguas profundas"
+      "es": "Ensenadas costeras de aguas profundas",
+      "fr": "Bras de mer côtiers en eau profonde"
     },
     "keywords": {
       "en": "fjord,fiord,ria,glacial,skerries,sound"
@@ -751,7 +774,8 @@
     },
     "title": {
       "en": "Permanently open riverine estuaries and bays",
-      "es": "Estuarios fluviales y bahías permanentemente conectados"
+      "es": "Estuarios fluviales y bahías permanentemente conectados",
+      "fr": "Estuaires et baies fluviales ouverts en permanence"
     },
     "keywords": {
       "en": "wetlands"
@@ -782,7 +806,8 @@
     },
     "title": {
       "en": "Intermittently closed and open lakes and lagoons",
-      "es": "Lagos, albuferas y lagunas costeras con conección intermitente"
+      "es": "Lagos, albuferas y lagunas costeras con conección intermitente",
+      "fr": "Lacs et lagunes fermés et ouverts par intermittence"
     },
     "keywords": {
       "en": "wetlands"
@@ -813,7 +838,8 @@
     },
     "title": {
       "en": "Seagrass meadows",
-      "es": "Praderas marinas"
+      "es": "Praderas marinas",
+      "fr": "Prairies marines"
     },
     "keywords": {
       "en": "biogenic,seaweed"
@@ -850,7 +876,8 @@
     },
     "title": {
       "en": "Kelp forests",
-      "es": "Bosques de algas marinas"
+      "es": "Bosques de algas marinas",
+      "fr": "Forêts de varech"
     },
     "keywords": {
       "en": "biogenic,fucales,Laminariales,seaweed"
@@ -881,7 +908,8 @@
     },
     "title": {
       "en": "Photic coral reefs",
-      "es": "Arrecifes de coral fóticos"
+      "es": "Arrecifes de coral fóticos",
+      "fr": "Récifs coralliens photiques"
     },
     "keywords": {
       "en": "biogenic,tropical,coral,reef,building,hard,forming"
@@ -912,7 +940,8 @@
     },
     "title": {
       "en": "Shellfish beds and reefs",
-      "es": "Lechos y arrecifes de mariscos"
+      "es": "Lechos y arrecifes de mariscos",
+      "fr": "Bancs et récifs de coquillages"
     },
     "keywords": {
       "en": "biogenic"
@@ -949,7 +978,8 @@
     },
     "title": {
       "en": "Photo-limited marine animal forests",
-      "es": "Arrecifes de animales marinos en el umbral fótico"
+      "es": "Arrecifes de animales marinos en el umbral fótico",
+      "fr": "Forêts d\\'animaux marins limitées par la photo"
     },
     "keywords": {
       "en": "biogenic,coral,soft"
@@ -980,7 +1010,8 @@
     },
     "title": {
       "en": "Subtidal rocky reefs",
-      "es": "Arrecifes rocosos submareales"
+      "es": "Arrecifes rocosos submareales",
+      "fr": "Récifs rocheux subtidaux"
     },
     "keywords": {
       "en": "fucales"
@@ -1011,7 +1042,8 @@
     },
     "title": {
       "en": "Subtidal sand beds",
-      "es": "Lechos de arena submareales"
+      "es": "Lechos de arena submareales",
+      "fr": "Bancs de sable subtidaux"
     },
     "image": {
       "credit": {
@@ -1039,7 +1071,8 @@
     },
     "title": {
       "en": "Subtidal mud plains",
-      "es": "Llanuras de lodo submareales"
+      "es": "Llanuras de lodo submareales",
+      "fr": "Plaines de boue subtidales"
     },
     "image": {
       "credit": {
@@ -1061,7 +1094,8 @@
     },
     "title": {
       "en": "Upwelling zones",
-      "es": "Zonas de surgencia"
+      "es": "Zonas de surgencia",
+      "fr": "Zones de remontée d\\'eau"
     },
     "image": {
       "credit": {
@@ -1097,7 +1131,8 @@
     },
     "title": {
       "en": "Rhodolith/Maërl beds",
-      "es": "Lechos de rodolitos/maerl"
+      "es": "Lechos de rodolitos/maerl",
+      "fr": "Lits de Rhodolithes/Maërl"
     },
     "keywords": {
       "en": "biogenic,coralline,algae"
@@ -1120,7 +1155,8 @@
     },
     "title": {
       "en": "Epipelagic ocean waters",
-      "es": "Aguas oceánicas epipelágicas"
+      "es": "Aguas oceánicas epipelágicas",
+      "fr": "Eaux océaniques épipélagiques"
     },
     "image": {
       "credit": {
@@ -1148,7 +1184,8 @@
     },
     "title": {
       "en": "Mesopelagic ocean water",
-      "es": "Aguas oceánicas mesopelágicas"
+      "es": "Aguas oceánicas mesopelágicas",
+      "fr": "Eau océanique mésopélagique"
     },
     "image": {
       "credit": {
@@ -1176,7 +1213,8 @@
     },
     "title": {
       "en": "Bathypelagic ocean waters",
-      "es": "Aguas oceánicas batipelágicas"
+      "es": "Aguas oceánicas batipelágicas",
+      "fr": "Eaux océaniques bathypélagiques"
     },
     "image": {
       "credit": {
@@ -1204,7 +1242,8 @@
     },
     "title": {
       "en": "Abyssopelagic ocean waters",
-      "es": "Aguas oceánicas abisopelágicas"
+      "es": "Aguas oceánicas abisopelágicas",
+      "fr": "Eaux océaniques abyssopélagiques"
     },
     "image": {
       "credit": {
@@ -1232,7 +1271,8 @@
     },
     "title": {
       "en": "Sea ice",
-      "es": "Hielo marino"
+      "es": "Hielo marino",
+      "fr": "Glace de mer"
     },
     "keywords": {
       "en": "ice,snow,frozen,cryogenic",
@@ -1258,7 +1298,8 @@
     },
     "title": {
       "en": "Continental and island slopes",
-      "es": "Taludes continentales e insulares"
+      "es": "Taludes continentales e insulares",
+      "fr": "Pentes continentales et insulaires"
     },
     "image": {
       "credit": {
@@ -1286,7 +1327,8 @@
     },
     "title": {
       "en": "Submarine canyons",
-      "es": "Cañones submarinos"
+      "es": "Cañones submarinos",
+      "fr": "Canyons sous-marins"
     },
     "image": {
       "credit": {
@@ -1314,7 +1356,8 @@
     },
     "title": {
       "en": "Abyssal plains",
-      "es": "Llanuras abisales"
+      "es": "Llanuras abisales",
+      "fr": "Plaines abyssales"
     },
     "image": {
       "credit": {
@@ -1342,7 +1385,8 @@
     },
     "title": {
       "en": "Seamounts, ridges and plateaus",
-      "es": "Montes, crestas y mesetas submarinas"
+      "es": "Montes, crestas y mesetas submarinas",
+      "fr": "Monts sous-marins, crêtes et plateaux"
     },
     "keywords": {
       "en": "tubeworms,seamounts,ridges"
@@ -1373,7 +1417,8 @@
     },
     "title": {
       "en": "Deepwater biogenic beds",
-      "es": "Lechos biogénicos de aguas profundas"
+      "es": "Lechos biogénicos de aguas profundas",
+      "fr": "Lits biogènes en eaux profondes"
     },
     "image": {
       "credit": {
@@ -1395,7 +1440,8 @@
     },
     "title": {
       "en": "Hadal trenches and troughs",
-      "es": "Fosas y depresiones hadales"
+      "es": "Fosas y depresiones hadales",
+      "fr": "Tranchées et cuvettes hadales"
     },
     "image": {
       "credit": {
@@ -1417,7 +1463,8 @@
     },
     "title": {
       "en": "Chemosynthetic-based-ecosystems (CBE)",
-      "es": "Ecosistemas basados ​​en quimiosíntesis (CBE)"
+      "es": "Ecosistemas basados ​​en quimiosíntesis (CBE)",
+      "fr": "Écosystèmes basés sur la chimiosynthèse (CBE)"
     },
     "keywords": {
       "en": "hydrothermal vents,cold seeps,organic falls,tubeworms,seamounts,ridges"
@@ -1442,7 +1489,8 @@
     },
     "title": {
       "en": "Submerged artificial structures",
-      "es": "Estructuras artificiales sumergidas"
+      "es": "Estructuras artificiales sumergidas",
+      "fr": "Structures artificielles immergées"
     },
     "image": {
       "credit": {
@@ -1464,7 +1512,8 @@
     },
     "title": {
       "en": "Marine aquafarms",
-      "es": "Acuicultura marina"
+      "es": "Acuicultura marina",
+      "fr": "Fermes aquacoles marines"
     },
     "image": {
       "credit": {
@@ -1486,7 +1535,8 @@
     },
     "title": {
       "en": "Coastal river deltas",
-      "es": "Deltas fluviales costeros"
+      "es": "Deltas fluviales costeros",
+      "fr": "Delta fluviaux côtiers"
     },
     "keywords": {
       "en": "Tidal,large"
@@ -1523,7 +1573,8 @@
     },
     "title": {
       "en": "Intertidal forests and shrublands",
-      "es": "Bosques y matorrales intermareales"
+      "es": "Bosques y matorrales intermareales",
+      "fr": "Forêts et arbustes intertidaux"
     },
     "keywords": {
       "en": "Mangroves"
@@ -1560,7 +1611,8 @@
     },
     "title": {
       "en": "Coastal saltmarshes and reedbeds",
-      "es": "Marismas costeras y cañaverales"
+      "es": "Marismas costeras y cañaverales",
+      "fr": "Marais salés côtiers et roselières"
     },
     "image": {
       "credit": {
@@ -1594,7 +1646,8 @@
     },
     "title": {
       "en": "Rocky Shorelines",
-      "es": "Litorales rocosos"
+      "es": "Litorales rocosos",
+      "fr": "Rivages rocheux"
     },
     "image": {
       "credit": {
@@ -1628,7 +1681,8 @@
     },
     "title": {
       "en": "Muddy Shorelines",
-      "es": "Litorales fangosos"
+      "es": "Litorales fangosos",
+      "fr": "Rivages boueux"
     },
     "image": {
       "credit": {
@@ -1662,7 +1716,8 @@
     },
     "title": {
       "en": "Sandy Shorelines",
-      "es": "Litorales arenosos"
+      "es": "Litorales arenosos",
+      "fr": "Rivages sablonneux"
     },
     "image": {
       "credit": {
@@ -1696,7 +1751,8 @@
     },
     "title": {
       "en": "Boulder and cobble shores",
-      "es": "Litorales de cantos rodados y guijarros"
+      "es": "Litorales de cantos rodados y guijarros",
+      "fr": "Rivages de blocs et de galets"
     },
     "image": {
       "credit": {
@@ -1730,7 +1786,8 @@
     },
     "title": {
       "en": "Coastal shrublands and grasslands",
-      "es": "Matorrales y pastizales costeros"
+      "es": "Matorrales y pastizales costeros",
+      "fr": "Arbustes et prairies côtières"
     },
     "image": {
       "credit": {
@@ -1766,7 +1823,8 @@
     },
     "title": {
       "en": "Large seabird and pinniped colonies",
-      "es": "Grandes colonias de aves marinas y pinnípedos"
+      "es": "Grandes colonias de aves marinas y pinnípedos",
+      "fr": "Grandes colonies d\\'oiseaux de mer et de pinnipèdes"
     },
     "keywords": {
       "en": "Penguin,Seals,roosting,nesting"
@@ -1789,7 +1847,8 @@
     },
     "title": {
       "en": "Artificial shorelines",
-      "es": "Litorales artificiales"
+      "es": "Litorales artificiales",
+      "fr": "Rivages artificiels"
     },
     "image": {
       "credit": {
@@ -1811,7 +1870,8 @@
     },
     "title": {
       "en": "Aerobic caves",
-      "es": "Cuevas aeróbicas"
+      "es": "Cuevas aeróbicas",
+      "fr": "Grottes aérobies"
     },
     "image": {
       "credit": {
@@ -1834,7 +1894,8 @@
     "biome": "S1",
     "title": {
       "en": "Endolithic systems",
-      "es": "Sistemas endolíticos"
+      "es": "Sistemas endolíticos",
+      "fr": "Systèmes endolithiques"
     },
     "keywords": {
       "en": "SLIME,Subsurface lithoautotrophic microbial"
@@ -1859,7 +1920,8 @@
     },
     "title": {
       "en": "Anthropogenic subterranean voids",
-      "es": "Espacios subterráneos antropogénicos"
+      "es": "Espacios subterráneos antropogénicos",
+      "fr": "Vides souterrains anthropogéniques"
     },
     "image": {
       "credit": {
@@ -1887,7 +1949,8 @@
     },
     "title": {
       "en": "Underground streams and pools",
-      "es": "Arroyos y charcas subterráneas"
+      "es": "Arroyos y charcas subterráneas",
+      "fr": "Ruisseaux et mares souterraines"
     },
     "image": {
       "credit": {
@@ -1915,7 +1978,8 @@
     },
     "title": {
       "en": "Groundwater ecosystems",
-      "es": "Ecosistemas de aguas subterráneas"
+      "es": "Ecosistemas de aguas subterráneas",
+      "fr": "Écosystèmes des eaux souterraines"
     },
     "image": {
       "credit": {
@@ -1943,7 +2007,8 @@
     },
     "title": {
       "en": "Water pipes and subterranean canals",
-      "es": "Conductos de agua y canales subterráneos"
+      "es": "Conductos de agua y canales subterráneos",
+      "fr": "Conduites d\\'eau et canaux souterrains"
     },
     "image": {
       "credit": {
@@ -1965,7 +2030,8 @@
     },
     "title": {
       "en": "Flooded mines and other voids",
-      "es": "Minas  y otros espacios inundados"
+      "es": "Minas  y otros espacios inundados",
+      "fr": "Mines et autres vides inondés"
     },
     "image": {
       "credit": {
@@ -1993,7 +2059,8 @@
     },
     "title": {
       "en": "Anchialine caves",
-      "es": "Cuevas anquialinas"
+      "es": "Cuevas anquialinas",
+      "fr": "Grottes d\\'Anchialine"
     },
     "image": {
       "credit": {
@@ -2027,7 +2094,8 @@
     },
     "title": {
       "en": "Anchialine pools",
-      "es": "Estanques anquialinos"
+      "es": "Estanques anquialinos",
+      "fr": "Bassins d\\'anchialine"
     },
     "image": {
       "credit": {
@@ -2061,7 +2129,8 @@
     },
     "title": {
       "en": "Sea caves",
-      "es": "Cuevas marinas"
+      "es": "Cuevas marinas",
+      "fr": "Grottes marines"
     },
     "image": {
       "credit": {
@@ -2095,7 +2164,8 @@
     },
     "title": {
       "en": "Tropical/Subtropical lowland rainforests",
-      "es": "Bosques lluviosos tropicales y subtropicales de tierras bajas"
+      "es": "Bosques lluviosos tropicales y subtropicales de tierras bajas",
+      "fr": "Forêts tropicales/subtropicales humides de basse altitude"
     },
     "image": {
       "credit": {
@@ -2129,7 +2199,8 @@
     },
     "title": {
       "en": "Tropical/Subtropical dry forests and thickets",
-      "es": "Bosques y matorrales secos tropicales/subtropicales"
+      "es": "Bosques y matorrales secos tropicales/subtropicales",
+      "fr": "Forêts sèches et fourrés tropicaux/subtropicaux"
     },
     "image": {
       "credit": {
@@ -2157,7 +2228,8 @@
     },
     "title": {
       "en": "Tropical/Subtropical montane rainforests",
-      "es": "Bosques lluviosos montanos tropicales/subtropicales"
+      "es": "Bosques lluviosos montanos tropicales/subtropicales",
+      "fr": "Forêts humides montagnardes tropicales/subtropicales"
     },
     "image": {
       "credit": {
@@ -2185,7 +2257,8 @@
     },
     "title": {
       "en": "Tropical heath forests",
-      "es": "Bosques tropicales esclerófilos sobre arenas blancas"
+      "es": "Bosques tropicales esclerófilos sobre arenas blancas",
+      "fr": "Forêts de bruyères tropicales"
     },
     "image": {
       "credit": {
@@ -2219,7 +2292,8 @@
     },
     "title": {
       "en": "Boreal and temperate high montane forests and woodlands",
-      "es": "Bosques boreales y de altas montañas templadas"
+      "es": "Bosques boreales y de altas montañas templadas",
+      "fr": "Forêts et bois boréaux et tempérés de haute montagne"
     },
     "keywords": {
       "en": "taiga,boreal,snow"
@@ -2256,7 +2330,8 @@
     },
     "title": {
       "en": "Deciduous temperate forests",
-      "es": "Bosques templados caducifolios"
+      "es": "Bosques templados caducifolios",
+      "fr": "Forêts tempérées à feuilles caduques"
     },
     "image": {
       "credit": {
@@ -2284,7 +2359,8 @@
     },
     "title": {
       "en": "Oceanic cool temperate rainforests",
-      "es": "Bosques lluviosos templados con influencia oceánica"
+      "es": "Bosques lluviosos templados con influencia oceánica",
+      "fr": "Forêts pluviales tempérées fraîches océaniques"
     },
     "image": {
       "credit": {
@@ -2312,7 +2388,8 @@
     },
     "title": {
       "en": "Warm temperate laurophyll forests",
-      "es": "Bosques laurifolios templados cálidos"
+      "es": "Bosques laurifolios templados cálidos",
+      "fr": "Forêts laurophylles tempérées chaudes"
     },
     "image": {
       "credit": {
@@ -2346,7 +2423,8 @@
     },
     "title": {
       "en": "Temperate pyric humid forests",
-      "es": "Bosques templados pirófilos húmedos"
+      "es": "Bosques templados pirófilos húmedos",
+      "fr": "Forêts pyriques humides tempérées"
     },
     "keywords": {
       "en": "fire,pyrogenic"
@@ -2383,7 +2461,8 @@
     },
     "title": {
       "en": "Temperate pyric sclerophyll forests and woodlands",
-      "es": "Bosques templados pirófilos esclerófilos"
+      "es": "Bosques templados pirófilos esclerófilos",
+      "fr": "Forêts et bois sclérophylles pyriques tempérés"
     },
     "keywords": {
       "en": "fire,pyrogenic"
@@ -2414,7 +2493,8 @@
     },
     "title": {
       "en": "Seasonally dry tropical shrublands",
-      "es": "Matorrales tropicales estacionalmente secos"
+      "es": "Matorrales tropicales estacionalmente secos",
+      "fr": "Arbustes tropicaux saisonnièrement secs"
     },
     "image": {
       "credit": {
@@ -2442,7 +2522,8 @@
     },
     "title": {
       "en": "Seasonally dry temperate heath and shrublands",
-      "es": "Brezales y matorrales templados estacionalmente secos"
+      "es": "Brezales y matorrales templados estacionalmente secos",
+      "fr": "Lande et arbustes tempérés saisonnièrement secs"
     },
     "keywords": {
       "en": "Fynbos"
@@ -2479,7 +2560,8 @@
     },
     "title": {
       "en": "Cool temperate heathlands",
-      "es": "Brezales templados fríos"
+      "es": "Brezales templados fríos",
+      "fr": "Landes tempérées froides"
     },
     "image": {
       "credit": {
@@ -2513,7 +2595,8 @@
     },
     "title": {
       "en": "Young rocky pavements, lava flows and screes",
-      "es": "Pavimentos rocosos recientes, flujos de lava y pedregales"
+      "es": "Pavimentos rocosos recientes, flujos de lava y pedregales",
+      "fr": "Jeunes pavements rocheux, coulées de lave et éboulis"
     },
     "image": {
       "credit": {
@@ -2547,7 +2630,8 @@
     },
     "title": {
       "en": "Trophic savannas",
-      "es": "Sabanas tróficas"
+      "es": "Sabanas tróficas",
+      "fr": "Savanes trophiques"
     },
     "image": {
       "credit": {
@@ -2581,7 +2665,8 @@
     },
     "title": {
       "en": "Pyric tussock savannas",
-      "es": "Sabanas de pastos píricos"
+      "es": "Sabanas de pastos píricos",
+      "fr": "Savanes à touffes pyriques"
     },
     "keywords": {
       "en": "fire,pyrogenic"
@@ -2612,7 +2697,8 @@
     },
     "title": {
       "en": "Hummock savannas",
-      "es": "Sabanas de montículos"
+      "es": "Sabanas de montículos",
+      "fr": "Savanes à hummocks"
     },
     "image": {
       "credit": {
@@ -2640,7 +2726,8 @@
     },
     "title": {
       "en": "Temperate woodlands",
-      "es": "Bosques abiertos templados"
+      "es": "Bosques abiertos templados",
+      "fr": "Forêts tempérées"
     },
     "image": {
       "credit": {
@@ -2668,7 +2755,8 @@
     },
     "title": {
       "en": "Temperate subhumid grasslands",
-      "es": "Pastizales templados subhúmedos"
+      "es": "Pastizales templados subhúmedos",
+      "fr": "Prairies tempérées subhumides"
     },
     "image": {
       "credit": {
@@ -2702,7 +2790,8 @@
     },
     "title": {
       "en": "Semi-desert steppe",
-      "es": "Estepa semidesértica"
+      "es": "Estepa semidesértica",
+      "fr": "Steppe semi-désertique"
     },
     "image": {
       "credit": {
@@ -2736,7 +2825,8 @@
     },
     "title": {
       "en": "Succulent or Thorny deserts and semi-deserts",
-      "es": "Desiertos y semidesiertos suculentos o espinosos"
+      "es": "Desiertos y semidesiertos suculentos o espinosos",
+      "fr": "Déserts et semi-déserts succulents ou épineux"
     },
     "image": {
       "credit": {
@@ -2770,7 +2860,8 @@
     },
     "title": {
       "en": "Sclerophyll hot deserts and semi-deserts",
-      "es": "Desiertos y semidesiertos cálidos esclerófilos"
+      "es": "Desiertos y semidesiertos cálidos esclerófilos",
+      "fr": "Déserts chauds et semi-déserts sclérophylles"
     },
     "image": {
       "credit": {
@@ -2804,7 +2895,8 @@
     },
     "title": {
       "en": "Cool deserts and semi-deserts",
-      "es": "Desiertos y semidesiertos fríos"
+      "es": "Desiertos y semidesiertos fríos",
+      "fr": "Déserts et semi-déserts frais"
     },
     "image": {
       "credit": {
@@ -2838,7 +2930,8 @@
     },
     "title": {
       "en": "Hyper-arid deserts",
-      "es": "Desiertos hiperáridos"
+      "es": "Desiertos hiperáridos",
+      "fr": "Déserts hyper-arides"
     },
     "image": {
       "credit": {
@@ -2872,7 +2965,8 @@
     },
     "title": {
       "en": "Ice sheets, glaciers and perennial snowfields",
-      "es": "Capas de hielo, glaciares y campos de nieve perennes"
+      "es": "Capas de hielo, glaciares y campos de nieve perennes",
+      "fr": "Nappes glaciaires, glaciers et champs de neige pérennes"
     },
     "keywords": {
       "en": "ice-cap,snowpack,snowbed,glacial-ice,ice-fields"
@@ -2903,7 +2997,8 @@
     },
     "title": {
       "en": "Polar/alpine cliffs, screes, outcrops and lava flows",
-      "es": "Acantilados, pedregales, afloramientos y flujos de lava polares/alpinos"
+      "es": "Acantilados, pedregales, afloramientos y flujos de lava polares/alpinos",
+      "fr": "Falaises, éboulis, affleurements et coulées de lave polaires/alpins"
     },
     "keywords": {
       "en": "nunatak"
@@ -2940,7 +3035,8 @@
     },
     "title": {
       "en": "Polar tundra and deserts",
-      "es": "Tundra y desiertos polares"
+      "es": "Tundra y desiertos polares",
+      "fr": "Toundra et déserts polaires"
     },
     "image": {
       "credit": {
@@ -2968,7 +3064,8 @@
     },
     "title": {
       "en": "Temperate alpine grasslands and shrublands",
-      "es": "Pastizales y matorrales alpinos templados"
+      "es": "Pastizales y matorrales alpinos templados",
+      "fr": "Prairies et arbustes alpins tempérés"
     },
     "image": {
       "credit": {
@@ -3002,7 +3099,8 @@
     },
     "title": {
       "en": "Tropical alpine grasslands and herbfields",
-      "es": "Pastizales y herbazales de altas montañas tropicales"
+      "es": "Pastizales y herbazales de altas montañas tropicales",
+      "fr": "Prairies alpines tropicales et champs d\\'herbes"
     },
     "keywords": {
       "en": "andes,afroalpine,paramo",
@@ -3040,7 +3138,8 @@
     },
     "title": {
       "en": "Annual croplands",
-      "es": "Cultivos anuales"
+      "es": "Cultivos anuales",
+      "fr": "Terres cultivées annuelles"
     },
     "image": {
       "credit": {
@@ -3068,7 +3167,8 @@
     },
     "title": {
       "en": "Sown pastures and fields",
-      "es": "Pastos y praderas sembradas"
+      "es": "Pastos y praderas sembradas",
+      "fr": "Pâturages et champs ensemencés"
     },
     "image": {
       "credit": {
@@ -3096,7 +3196,8 @@
     },
     "title": {
       "en": "Plantations",
-      "es": "Plantaciones"
+      "es": "Plantaciones",
+      "fr": "Plantations"
     },
     "image": {
       "credit": {
@@ -3124,7 +3225,8 @@
     },
     "title": {
       "en": "Urban and industrial ecosystems",
-      "es": "Ecosistemas urbanos e industriales"
+      "es": "Ecosistemas urbanos e industriales",
+      "fr": "Écosystèmes urbains et industriels"
     },
     "image": {
       "credit": {
@@ -3152,7 +3254,8 @@
     },
     "title": {
       "en": "Derived semi-natural pastures and old fields",
-      "es": "Campos seminaturales, modificados y abandonados"
+      "es": "Campos seminaturales, modificados y abandonados",
+      "fr": "Pâturages semi-naturels dérivés et anciens champs"
     },
     "image": {
       "credit": {
@@ -3180,7 +3283,8 @@
     },
     "title": {
       "en": "Tropical flooded forests and peat forests",
-      "es": "Bosques tropicales inundados y bosques de turba"
+      "es": "Bosques tropicales inundados y bosques de turba",
+      "fr": "Forêts tropicales inondées et forêts tourbeuses"
     },
     "image": {
       "credit": {
@@ -3208,7 +3312,8 @@
     },
     "title": {
       "en": "Subtropical/temperate forested wetlands",
-      "es": "Humedales forestales subtropicales/templados"
+      "es": "Humedales forestales subtropicales/templados",
+      "fr": "Zones humides forestières subtropicales/tempérées"
     },
     "image": {
       "credit": {
@@ -3236,7 +3341,8 @@
     },
     "title": {
       "en": "Permanent marshes",
-      "es": "Marismas permanentes"
+      "es": "Marismas permanentes",
+      "fr": "Marais permanents"
     },
     "keywords": {
       "en": "wetlands"
@@ -3273,7 +3379,8 @@
     },
     "title": {
       "en": "Seasonal floodplain marshes",
-      "es": "Ciénagas estacionales de llanuras de inundación"
+      "es": "Ciénagas estacionales de llanuras de inundación",
+      "fr": "Marais inondables saisonniers"
     },
     "keywords": {
       "en": "wetlands"
@@ -3304,7 +3411,8 @@
     },
     "title": {
       "en": "Episodic arid floodplains",
-      "es": "Llanuras de inundación áridas episódicas"
+      "es": "Llanuras de inundación áridas episódicas",
+      "fr": "Plaines d\\'inondation arides épisodiques"
     },
     "keywords": {
       "en": "wetlands"
@@ -3335,7 +3443,8 @@
     },
     "title": {
       "en": "Boreal, temperate and montane peat bogs",
-      "es": "Turberas boreales, templadas y montañosas"
+      "es": "Turberas boreales, templadas y montañosas",
+      "fr": "Tourbières boréales, tempérées et montagnardes"
     },
     "keywords": {
       "en": "wetlands"
@@ -3366,7 +3475,8 @@
     },
     "title": {
       "en": "Boreal and temperate fens",
-      "es": "Ciénagas boreales y templadas"
+      "es": "Ciénagas boreales y templadas",
+      "fr": "Tourbières boréales et tempérées"
     },
     "keywords": {
       "en": "wetlands"
